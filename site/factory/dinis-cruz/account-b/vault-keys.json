@@ -1,0 +1,49 @@
+{
+ "about": "Vault keys b.maestro holds a sealed copy of, under Dinis's rule (records 2026-11-23__vault-keys-to-maestro and 2026-11-24__decisions-b-decides: every vault key to the maestro, always). Names and ids only; never key material.",
+ "updated": "2026-11-24T00:36Z",
+ "held": [
+  {
+   "vault": "e58d8e08888c0567",
+   "site": "Sotavento Invest",
+   "made_by": "sotavento.b (SovereignWebsite)",
+   "received": "2026-11-24T00:36Z",
+   "signature": "verified (sotavento.b, sha256:654408c2ce5650c2)",
+   "proof_sent": "sha256 of the decrypted line"
+  },
+  {
+   "vault": "yk8ih8v1",
+   "site": "the maestros' shared channel",
+   "made_by": "d.maestro",
+   "received": "2026-11-21",
+   "signature": "verified",
+   "proof_sent": "read and written since"
+  }
+ ],
+ "pending": [
+  {
+   "vault": "Perspace vault",
+   "holder": "perspace.b",
+   "state": "sealed; its send refused by its session's permission check"
+  },
+  {
+   "vault": "Algarve Evolution vault",
+   "holder": "algarve-evolution.b",
+   "state": "sealed; its send refused by its session's permission check"
+  },
+  {
+   "vault": "7966duv1",
+   "holder": "feedback.b",
+   "state": "acts on Dinis's word in its own session"
+  },
+  {
+   "vault": "observability traffic vault",
+   "holder": "observability.b",
+   "state": "not created yet"
+  },
+  {
+   "vault": "zqyku8mc, 7k4wxa3i, 5qzpmf4m, 06gtj33k, 0hot12xv, zd1cb3kt, qourr7be, bar9wi87, promptugal-snapshots",
+   "holder": "PrompTugal team on B (wakes off) and Dinis",
+   "state": "to ask when their sessions run"
+  }
+ ]
+}
