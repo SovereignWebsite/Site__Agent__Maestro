@@ -1,0 +1,118 @@
+{
+ "about": "Account A's ideas and tasks, one row each (Dinis 24 Nov: 'where is our current list of ideas and tasks'). Kept by a.maestro; agents' own request files hold the detail.",
+ "updated": "2026-11-24T14:30Z",
+ "fields": [
+  "id",
+  "title",
+  "source",
+  "owner",
+  "status",
+  "blocked_on"
+ ],
+ "tasks": [
+  {
+   "id": "A-CRM-1",
+   "title": "CRM tool live and used by the team",
+   "source": "Dinis 24 Nov ~11:45 in crm.dev.a: 'accelerate ... get the team starting to add data'",
+   "owner": "crm.dev.a",
+   "status": "live v0.1.x; first real import blocked",
+   "blocked_on": "Dinis: lawful basis, removal route, retention"
+  },
+  {
+   "id": "A-CRM-2",
+   "title": "Five CRM designs and the SovereignWeb.site CRM brand",
+   "source": "Dinis ~12:40 and ~13:30 in crm.dev.a",
+   "owner": "a.crm.design",
+   "status": "brand and design 1 of 5 published",
+   "blocked_on": "nothing"
+  },
+  {
+   "id": "A-CRM-3",
+   "title": "CRM explainer videos",
+   "source": "Dinis ~13:40 in crm.dev.a",
+   "owner": "a.crm.studio",
+   "status": "first video published",
+   "blocked_on": "nothing"
+  },
+  {
+   "id": "A-MAIL-1",
+   "title": "Email Cell security fix D8 (92bb7de) live",
+   "source": "b.decisions batch-1, 24 Nov 00:30",
+   "owner": "a.mail.dev",
+   "status": "decided, not pushed",
+   "blocked_on": "Dinis: allow the push in a.mail.dev's session"
+  },
+  {
+   "id": "A-MAIL-2",
+   "title": "Gmail tool site (gmail.google.tool) built",
+   "source": "Dinis via a.factory 02:15",
+   "owner": "a.mail.dev",
+   "status": "repo exists; attach refused",
+   "blocked_on": "Dinis: add_repo in a.mail.dev's session"
+  },
+  {
+   "id": "A-ROUTER-1",
+   "title": "Router repository with inbox-FS for outside agents (Mistral m1, ChatGPT)",
+   "source": "Dinis ~01:50 in router.a",
+   "owner": "router.a",
+   "status": "repo exists; router stopped",
+   "blocked_on": "Dinis: restart router.a; naming decision (b.decisions)"
+  },
+  {
+   "id": "A-TAUGUARD-1",
+   "title": "TauGuard + RiskMandate site",
+   "source": "Dinis ~11:20 in a.sites",
+   "owner": "a.sites",
+   "status": "repo exists; keeper not started",
+   "blocked_on": "Dinis: keeper start; A2b signing for a.sites"
+  },
+  {
+   "id": "A-DEVOPS-1",
+   "title": "DevOps agent for Org apply cost, Pages failures, deploy times",
+   "source": "Dinis via a.factory ~13:05",
+   "owner": "a.devops (not started)",
+   "status": "home exists",
+   "blocked_on": "Dinis: start a.devops"
+  },
+  {
+   "id": "A-MIG-1",
+   "title": "Decommission PrompTugal__News__Website for agent state; move data and history to Site__Agent__* / Site__*",
+   "source": "Dinis 24 Nov ~14:25 in a.maestro",
+   "owner": "a.factory (plan), librarian (inventory), a.migration (moves)",
+   "status": "plan in a.factory's three waves",
+   "blocked_on": "Dinis: start a.migration; librarian restart"
+  },
+  {
+   "id": "A-MAESTRO-1",
+   "title": "Move the maestros' channel and account A's maestro state here",
+   "source": "Factory migration wave 1",
+   "owner": "a.maestro",
+   "status": "key and area published here",
+   "blocked_on": "nothing"
+  },
+  {
+   "id": "A-AWS-1",
+   "title": "AWS team (22 roles) moves to Site__Agent__AWS; key retire A3",
+   "source": "Dinis 'yes Site__Agent__AWS push it'",
+   "owner": "a.conductor.aws",
+   "status": "stopped at Dinis's word",
+   "blocked_on": "Dinis: restart the AWS team; A3 merge"
+  },
+  {
+   "id": "A-E-1",
+   "title": "Account E (Angelo) maestro.e bootstrap",
+   "source": "Dinis 23 Nov",
+   "owner": "a.maestro",
+   "status": "kit v2; QR v2 waits on abp; must be re-made with a new a.maestro key",
+   "blocked_on": "abp review"
+  },
+  {
+   "id": "A-IOS-1",
+   "title": "iOS owner mode and the Sovereign Website app (R6/R7), TestFlight",
+   "source": "Dinis 23 Nov",
+   "owner": "a.ios",
+   "status": "stopped",
+   "blocked_on": "Dinis: A4, restart"
+  }
+ ]
+}

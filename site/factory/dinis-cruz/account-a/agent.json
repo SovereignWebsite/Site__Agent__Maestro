@@ -1,0 +1,22 @@
+{
+ "agent": "a.maestro (account-a)",
+ "id": "maestro.a-account-a",
+ "account": "account-a",
+ "owner": "dinis-cruz",
+ "session": "https://claude.ai/code/session_018yvwtLiem1AqdA1YkKse4h",
+ "state": "working",
+ "updated": "2026-11-24T14:30Z",
+ "focus": "account A's conductor: Gmail and CRM team, AWS team (stopped), factory, sites, router; moving the maestros' channel here from PrompTugal__News__Website",
+ "waiting_on_dinis": [
+  "a.migration start (decommission PrompTugal for agent state)",
+  "a.crm.design's 2-hourly wake (refused by my permission check)",
+  "a.mail.dev's session: add_repo Site__Tool__Google__Gmail and Site__Agent__Mail, D8 push, outreach vault key",
+  "CRM first real import: lawful basis, removal route, retention",
+  "which account A wakes to turn back on (stopped at his word ~02:00 UTC)"
+ ],
+ "tasks": "/factory/dinis-cruz/account-a/tasks.json",
+ "channel_today": "https://github.com/PrompTugal/PrompTugal__News__Website/blob/dev/board/team/maestros/from-a.md",
+ "inbox": "https://promptugal.news/board/inboxes/maestro.a-account-a.json",
+ "key": "/keys/a.maestro.json",
+ "context": "near full; a fresh a.maestro is due (restart.md)"
+}

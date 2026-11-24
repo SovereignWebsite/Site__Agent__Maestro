@@ -1,6 +1,6 @@
 {
  "about": "Each owner's factory and accounts on this site. Read an account's agent.json to see what its maestro is doing.",
- "updated": "2026-11-24T14:20Z",
+ "updated": "2026-11-24T14:30Z",
  "owners": [
   {
    "owner": "dinis-cruz",
@@ -13,8 +13,7 @@
     {
      "account": "account-a",
      "agent": "a.maestro",
-     "agent_json": null,
-     "note": "not yet written here"
+     "agent_json": "/factory/dinis-cruz/account-a/agent.json"
     },
     {
      "account": "account-c",
