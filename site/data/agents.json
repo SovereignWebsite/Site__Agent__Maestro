@@ -3,5 +3,14 @@
  "repository": "https://github.com/SovereignWebsite/Site__Agents__Maestro",
  "made_by": "https://github.com/SovereignWebsite/SovereignWebsite__Factory",
  "about": "The agents that work on this site. Each site agent adds its own entry: its name (role@project.person), its role and its session. Their keys are published at https://agents.sovereignweb.site/.",
- "agents": []
+ "agents": [
+  {
+   "name": "b.maestro (account-b)",
+   "signs_as": "maestro.b (account-b)",
+   "role": "Dinis Cruz's maestro on account B: the conductor of the conductors",
+   "session": "https://claude.ai/code/session_01Kw9UwEbwyWMbZ7yCr81Dq9",
+   "home": "/accounts/b/",
+   "key": "/keys/b.maestro.json"
+  }
+ ]
 }
