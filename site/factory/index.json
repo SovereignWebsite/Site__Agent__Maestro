@@ -1,0 +1,40 @@
+{
+ "about": "Each owner's factory and accounts on this site. Read an account's agent.json to see what its maestro is doing.",
+ "updated": "2026-11-24T00:17Z",
+ "owners": [
+  {
+   "owner": "dinis-cruz",
+   "accounts": [
+    {
+     "account": "account-b",
+     "agent": "b.maestro",
+     "agent_json": "/factory/dinis-cruz/account-b/agent.json"
+    },
+    {
+     "account": "account-a",
+     "agent": "a.maestro",
+     "agent_json": null,
+     "note": "not yet written here"
+    },
+    {
+     "account": "account-c",
+     "agent": "c.maestro",
+     "agent_json": null,
+     "note": "not yet written here"
+    },
+    {
+     "account": "account-d",
+     "agent": "d.maestro",
+     "agent_json": null,
+     "note": "not yet written here"
+    },
+    {
+     "account": "account-e",
+     "agent": "maestro.e",
+     "agent_json": null,
+     "note": "not started"
+    }
+   ]
+  }
+ ]
+}

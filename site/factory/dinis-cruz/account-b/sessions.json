@@ -1,0 +1,119 @@
+{
+ "owner": "dinis-cruz",
+ "account": "account-b",
+ "kept_by": "b.maestro",
+ "updated": "2026-11-24T00:17Z",
+ "note": "Agents b.maestro works with on account B; each keeps its own area on its own agent-type site. Site keepers (b.grace, b.emily, b.sotavento and others) are listed by b.sites.",
+ "sessions": [
+  {
+   "name": "b.conductor (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwFkKH5CkDmV8nhSfUD",
+   "does": "conductor of the Sovereign Website team (fresh session since 22:46 UTC 23 Nov)"
+  },
+  {
+   "name": "b.decisions (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwEVSYcMDgNqrPVfCtZ",
+   "does": "signs Dinis's decisions for all accounts"
+  },
+  {
+   "name": "b.strategy (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwDF1rJD6h9xEsVg5bx",
+   "does": "go-to-market, market research, use cases"
+  },
+  {
+   "name": "b.factory (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwBqEqrxrSBwvLEVJY6",
+   "does": "the IaC factory: pipeline, policy, org, DNS"
+  },
+  {
+   "name": "b.sites (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwBucXVUaNYRMcWwk67",
+   "does": "new sites and their content; shared navigation"
+  },
+  {
+   "name": "b.hub (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwB7XboTsnbPPWaMr2d",
+   "does": "hub.sovereignwebsite.site"
+  },
+  {
+   "name": "b.design (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwCvZbGkWo3D9DEpRMv",
+   "does": "design guidelines and sign-off"
+  },
+  {
+   "name": "b.design.rounds (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwFCJTPWFaTq4TX5vUT",
+   "does": "design rounds"
+  },
+  {
+   "name": "b.security (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwBQqeQAymiagw8BjRY",
+   "does": "security reviews before anything goes live"
+  },
+  {
+   "name": "b.observability (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwDcJXSxNCBzPpxxXw8",
+   "does": "traffic for every site"
+  },
+  {
+   "name": "b.feedback (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwBiG9d5KHvFjdtiP69",
+   "does": "the feedback box on every site"
+  },
+  {
+   "name": "b.librarian (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwDgZWdzwjxSRSJ4Lzt",
+   "does": "the library and the newsroom relay"
+  },
+  {
+   "name": "b.accountant (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwEYZaKaf2XGuq7xQPF",
+   "does": "budgets"
+  },
+  {
+   "name": "b.outreach (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwBGcnXLQ9m2BqD1Dwj",
+   "does": "outreach drafts with Dinis"
+  },
+  {
+   "name": "b.startups (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwCbSQgp3wavatYAbqd",
+   "does": "startup brochure sites"
+  },
+  {
+   "name": "b.suno (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwBWVj7sxLdmr1ZKwh4",
+   "does": "music for the Instagram posts"
+  },
+  {
+   "name": "b.migration (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwDKiseUFyqtG1xyVaG",
+   "does": "AgentiCCells sites to SovereignWebsite"
+  },
+  {
+   "name": "b.newsroom (SGit.ai)",
+   "session": "https://claude.ai/code/session_01Kw9UwBsABC8j7mNaZRUJuQ",
+   "does": "account B's one newsroom writer (writer-10)"
+  },
+  {
+   "name": "security (PrompTugal)",
+   "session": "https://claude.ai/code/session_01Kw9UwF2TrbbV5BhUjFGupN",
+   "does": "security reviews (PrompTugal team; wake off)"
+  },
+  {
+   "name": "abp (PrompTugal)",
+   "session": "https://claude.ai/code/session_01Kw9UwC3EfbmHL8QUj8KypP",
+   "does": "agent behaviour policies (wake off)"
+  },
+  {
+   "name": "b.conductor (AgentiCCells)",
+   "session": "https://claude.ai/code/session_01Kw9UwFgyMuNDYCnrW1ZKkm",
+   "does": "AgentiCCells conductor on B (wake off)"
+  },
+  {
+   "name": "b.cell.email (AgentiCCells)",
+   "session": "https://claude.ai/code/session_01Kw9UwCqxmrdRhMbq8CNRAG",
+   "does": "the old email cell on B (handed over; idle)"
+  }
+ ]
+}
