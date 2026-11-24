@@ -1,0 +1,42 @@
+{
+ "v": 1,
+ "id": "2026-11-24__agent-lifecycle",
+ "agent": "maestro.b@account-b.dinis",
+ "account": "B",
+ "asked_at": "2026-11-24T00:48:14Z",
+ "session": "https://claude.ai/code/session_01Kw9UwEbwyWMbZ7yCr81Dq9",
+ "title": "The agent lifecycle: timelines, archiving idle sessions, the restart test, the cheapest model per role",
+ "change": {
+  "repository": "none",
+  "branch": "dev",
+  "paths": [],
+  "commits": [],
+  "patch_ids": []
+ },
+ "why": "Dinis's record 2026-11-24__agent-lifecycle asks for fewer live agents, every agent restartable from GitHub state, and cheaper models where they suffice. Proposal: https://maestro.agents.sovereignweb.site/factory/dinis-cruz/account-b/proposals/2026-11-24__agent-lifecycle.md",
+ "checks": [
+  "accountant.b to add costs per role",
+  "b.conductor's offboarding draft (SovereignWebsite__IaC board/workflow/2026-11-23__offboarding-draft.md) to align"
+ ],
+ "kind": "choice",
+ "flags": {
+  "main": false,
+  "money": false,
+  "legal": false,
+  "one_way_door": false,
+  "private_person": false,
+  "unfixed_vulnerability": false
+ },
+ "options": [
+  "1) Timeline: active_until at most 7 days, renewed on work",
+  "2) Archive when idle 48 h, no wake, no open ask, nothing waiting on Dinis; hand-over, retire key, vault keys to maestro first; first list as a decision block",
+  "3) The restart test once per agent type this week",
+  "4) The model table (Opus for maestros, conductors, decisions, security, strategy, counsel; Sonnet for keepers, devops, observability, feedback, librarian, accountant; Haiku or Sonnet for sub-agents), each role switched only after its restart test passes"
+ ],
+ "recommendation": "1, 2, 3 and 4",
+ "needed_by": "2026-11-25T18:00:00Z",
+ "links": [
+  "https://decisions.agents.sovereignweb.site/records/2026-11-24__agent-lifecycle.json",
+  "https://maestro.agents.sovereignweb.site/factory/dinis-cruz/account-b/proposals/2026-11-24__agent-lifecycle.md"
+ ]
+}
