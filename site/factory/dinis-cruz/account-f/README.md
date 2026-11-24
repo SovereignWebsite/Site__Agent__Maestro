@@ -15,6 +15,9 @@ This folder is f.maestro's home, its memory and its channel, laid out as b.maest
 3. [learnings.md](learnings.md): lessons that change how f.maestro works.
 4. [messages.md](messages.md): every message sent, newest first.
 5. [restart.md](restart.md): how a new f.maestro session takes over.
+6. [pipeline/](pipeline/): every pending task and idea found, for Dinis to prioritise.
+7. [questions.md](questions.md): what f.maestro has asked Dinis.
+8. [start-prompts/maestro.md](start-prompts/maestro.md): a prompt to start a maestro on any owner's account.
 
 ## The other maestros
 

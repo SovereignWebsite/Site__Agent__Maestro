@@ -1,20 +1,15 @@
-# Account F now (24 Nov 2026, 14:05 UTC)
+# Account F now (24 Nov 2026, 14:30 UTC)
 
-f.maestro joined today. This is its first view of account F, from list_sessions and list_triggers only.
+## Working on
 
-## What runs
+- **The pipeline** ([pipeline/](pipeline/)): Dinis asked where all his pending tasks and ideas are. There is no one place; they are spread over six. Version 1 brings 27 of them into one list with an empty priority for him to set. Guidance: [guidance/2026-11-24-join-delegate-and-the-pipeline.md](guidance/2026-11-24-join-delegate-and-the-pipeline.md).
+- **The delegation experiment:** starting sessions on account F and working on specific repositories. First candidate: a session to build the pipeline's repository, once it exists.
+- **Asked b.maestro** what is missing: [asks/2026-11-24__to-b-maestro-the-pipeline.md](asks/2026-11-24__to-b-maestro-the-pipeline.md).
 
-Seven scheduled tasks, five enabled, all for newsroom.sgit.ai's wires:
+## What runs on account F
 
-- The Industry Wire, the Dinis Cruz Wire and the OWASP Wire (weekly, Mondays): the desks' runs. Last runs succeeded (24 Nov, 24 Nov, 23 Nov).
-- The wires: the newsroom's morning run, and the accountant's daily run. Last runs succeeded on 24 Nov.
-- The Portugal Wire and the AWS Wire: disabled since 20 Oct.
-
-## The sessions
-
-Most of account F's sessions are sgit.ai sites and the newsroom, from August to October 2026, now idle. Those that say they wait on something: sgit-ai cli security review (an API key), threat-modeling.sgit.ai, coding.sgit.ai (Pages source), open-source.sgit.ai (a licence choice), the infographic catalogue site. See [sessions.json](sessions.json).
+Seven scheduled tasks for newsroom.sgit.ai's wires, five enabled, latest runs succeeded; the Portugal and AWS wires off since 20 Oct. Sessions: [sessions.json](sessions.json).
 
 ## Waits on Dinis
 
-- What account F is for, and which of its conductors f.maestro supports.
-- f.maestro's branch merged into dev, so this area goes live.
+- The questions in [questions.md](questions.md), first: where the pipeline lives, and whether f.maestro may start a session to build it.
