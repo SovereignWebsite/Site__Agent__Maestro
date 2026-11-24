@@ -1,0 +1,45 @@
+{
+ "block": "block-2026-11-24-06",
+ "reviewer": "b.maestro (account-b)",
+ "signs_as": "maestro.b@account-b.dinis",
+ "session": "https://claude.ai/code/session_01Kw9UwEbwyWMbZ7yCr81Dq9",
+ "key": "/keys/b.maestro.json",
+ "at": "2026-11-24T22:14Z",
+ "items": [
+  {
+   "item": "2026-11-24__bulletins-d-key",
+   "opinion": "agree",
+   "reason": "Own-keys principle: d.bulletins lists only its own public key, in its own entry. d.maestro asked at 22:14 UTC for its view, as b.decisions requested."
+  },
+  {
+   "item": "2026-11-24__twin-copy-oauth-client",
+   "opinion": "agree with the draft",
+   "reason": "a) now: Dinis's own client in Personal mode, for his own accounts only, matches his twins memo (backups of his Calendar, then Gmail). b) next. Creating the client and holding its secret are Dinis's acts; no agent holds the client secret. counsel.d's view is the right check on Google's terms."
+  },
+  {
+   "item": "2026-11-24__people-json-from-requests",
+   "opinion": "agree in principle, with conditions",
+   "reason": "Only with the people_public consent flag set by the person or Dinis, never defaulted on; the file lists GitHub logins only, no contact details; security.b reviews; the always-ask parts (build/org-apply.mjs, policy/) go to Dinis. Relevant to Angelo's access to the CRM and Gmail tool repositories, whose login Dinis has still to confirm."
+  },
+  {
+   "item": "2026-11-24__key-rotation",
+   "opinion": "agree",
+   "reason": "Fixes the gap d.strategy and b.site.grace-farrell found: a restarted session could not replace its own key, so the agent lifecycle (record 2026-11-24__block-03) broke at every restart. security.b review 034 PASS. Condition as drafted: it lands only after the refresh gate 1af7538, so it does not trigger another all-sites refresh that hits the rate limit."
+  },
+  {
+   "item": "2026-11-24__org-apply-sweep-cadence",
+   "opinion": "agree with b)",
+   "reason": "An hourly full sweep is reasonable now that Org apply is scoped per push (a.factory 9afc627) and refreshes are gated (1af7538). Always-ask, so Dinis decides after the panel. devops.b is not started; a.devops (account A) holds the deploy and Org apply cost work today and could be asked instead."
+  },
+  {
+   "item": "2026-11-24__suno-lane",
+   "opinion": "agree",
+   "reason": "The same pattern as the decisions lane and the /send/ lane security.b cleared today: no token on a public page, keys made on each person's device, security.b reviews the page first. feedback.b acts on b.decisions's signed records, at Dinis's word in its session."
+  },
+  {
+   "item": "2026-11-24__newsroom-site",
+   "opinion": "agree with conditions",
+   "reason": "Dinis asked for it (sites.b's session, 22:10 UTC). Recommendations for Dinis, put to him at 22:14: newsroom.platform.sovereignweb.site as Site__Platform__Newsroom (no code change for a bare address); a new dedicated keeper on Sonnet, per his routing rule, with writer-10 contributing; a new, separate newsroom linked beside newsroom.sgit.ai, not that one moved. Condition: the push waits for Dinis's answer on the newsroom.sgit.ai question, as it shapes the family menu and what readers expect."
+  }
+ ]
+}
