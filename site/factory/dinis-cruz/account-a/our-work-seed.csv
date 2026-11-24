@@ -1,0 +1,29 @@
+company,domain,kind,person,email,role,stage,owner,next_step,next_step_due,last_contact_date,last_contact_kind,last_contact_direction,last_contact_summary
+Account A,,community,,,,,,,,,,,
+Gmail and CRM team (account A),,community,,,,,,,,,,,
+AWS team (account A),,community,,,,,,,,,,,
+Sites and Factory (account A),,community,,,,,,,,,,,
+Account A,,,a.maestro,a.maestro@account-a.dinis,"maestro, account A; session_018yvwtLiem1AqdA1YkKse4h; key sha256:7b84926cc96c79ee",,,,,,,,
+Gmail and CRM team (account A),,,crm.dev.a,crm.dev.a@SovereignWebsite.dinis,CRM builder; session_018yvwtNP466yYif3yWt3Ybr,,,,,,,,
+Gmail and CRM team (account A),,,a.crm.design,a.crm.design@SovereignWebsite.dinis,CRM design; session_018yvwtPdmQ2A59vcaf11mNy,,,,,,,,
+Gmail and CRM team (account A),,,a.crm.studio,a.crm.studio@SovereignWebsite.dinis,CRM videos; session_018yvwtLdrmYA9n9KshCtiYv,,,,,,,,
+Gmail and CRM team (account A),,,a.mail.dev,mail.dev.a@AgentiCCells.dinis,Email Cell dev; session_018yvwtQtFZjm6Q291BnjYgY,,,,,,,,
+Gmail and CRM team (account A),,,a.mail.conductor,mail.conductor.a@AgentiCCells.dinis,Gmail and CRM conductor; session_018yvwtMYgkoAUw5KsJTYT8s,,,,,,,,
+Sites and Factory (account A),,,a.factory,a.factory@SovereignWebsite.dinis,repositories; session_018yvwtNm88hzHaENNXTA9b5,,,,,,,,
+Sites and Factory (account A),,,a.sites,a.sites@SovereignWebsite.dinis,sites; session_018yvwtQ7z3PUt9L5gpZCNzt,,,,,,,,
+Account A,,,router.a,a.router@AgentiCCells.dinis,router; session_018yvwtMhx7CL9da8c7nycat,,,,,,,,
+AWS team (account A),,,a.conductor.aws,a.conductor.aws@SovereignWebsite.dinis,AWS team conductor; session_018yvwtN2ue8At6tkGQsBnKM,,,,,,,,
+A-CRM-1: CRM tool live and used by the team,,other,,,,proposal,crm.dev.a,"Dinis: lawful basis, removal route, retention",2026-11-25,2026-11-24,note,in,Dinis: 24 Nov ~11:45 in crm.dev.a: 'accelerate ... get the team starting to add data'
+A-CRM-2: Five CRM designs and the SovereignWeb.site CRM brand,,other,,,,talking,a.crm.design,brand and design 1 of 5 published,,2026-11-24,note,in,Dinis: ~12:40 and ~13:30 in crm.dev.a
+A-CRM-3: CRM explainer videos,,other,,,,talking,a.crm.studio,first video published,,2026-11-24,note,in,Dinis: ~13:40 in crm.dev.a
+A-MAIL-1: Email Cell security fix D8 (92bb7de) live,,other,,,,proposal,a.mail.dev,Dinis: allow the push in a.mail.dev's session,2026-11-25,2026-11-24,note,in,"Dinis: b.decisions batch-1, 24 Nov 00:30"
+A-MAIL-2: Gmail tool site (gmail.google.tool) built,,other,,,,proposal,a.mail.dev,Dinis: add_repo in a.mail.dev's session,2026-11-25,2026-11-24,note,in,Dinis: via a.factory 02:15
+"A-ROUTER-1: Router repository with inbox-FS for outside agents (Mistral m1, ChatGPT)",,other,,,,proposal,router.a,Dinis: restart router.a; naming decision (b.decisions),2026-11-25,2026-11-24,note,in,Dinis: ~01:50 in router.a
+A-TAUGUARD-1: TauGuard + RiskMandate site,,other,,,,proposal,a.sites,Dinis: keeper start; A2b signing for a.sites,2026-11-25,2026-11-24,note,in,Dinis: ~11:20 in a.sites
+"A-DEVOPS-1: DevOps agent for Org apply cost, Pages failures, deploy times",,other,,,,proposal,a.devops (not started),Dinis: start a.devops,2026-11-25,2026-11-24,note,in,Dinis: via a.factory ~13:05
+A-MIG-1: Decommission PrompTugal__News__Website for agent state; move data and history to Site__Agent__* / Site__*,,other,,,,proposal,"a.factory (plan), librarian (inventory), a.migration (moves)",Dinis: start a.migration; librarian restart,2026-11-25,2026-11-24,note,in,Dinis: 24 Nov ~14:25 in a.maestro
+A-MAESTRO-1: Move the maestros' channel and account A's maestro state here,,other,,,,talking,a.maestro,key and area published here,,2026-11-24,note,in,Dinis: Factory migration wave 1
+A-AWS-1: AWS team (22 roles) moves to Site__Agent__AWS; key retire A3,,other,,,,proposal,a.conductor.aws,Dinis: restart the AWS team; A3 merge,2026-11-25,2026-11-24,note,in,Dinis: 'yes Site__Agent__AWS push it'
+A-E-1: Account E (Angelo) maestro.e bootstrap,,other,,,,talking,a.maestro,abp review,,2026-11-24,note,in,Dinis: 23 Nov
+"A-IOS-1: iOS owner mode and the Sovereign Website app (R6/R7), TestFlight",,other,,,,proposal,a.ios,"Dinis: A4, restart",2026-11-25,2026-11-24,note,in,Dinis: 23 Nov
+A-BOOK-1: a site for Dinis's newly published book,,other,,,,new,a.sites,Dinis asks on the CRM's Requests page (/app/send/): the book's title and links,2026-11-25,2026-11-24,note,in,"Dinis 24 Nov ~15:18 in a.maestro: 'I would like to have a site that is focused on the book that I just published'; to be asked on the site, not in chat"
