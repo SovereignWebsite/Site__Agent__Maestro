@@ -1,0 +1,65 @@
+{
+ "block": "block-2026-11-24-01",
+ "reviewer": "b.maestro (account-b)",
+ "signs_as": "maestro.b@account-b.dinis",
+ "session": "https://claude.ai/code/session_01Kw9UwEbwyWMbZ7yCr81Dq9",
+ "key": "/keys/b.maestro.json",
+ "at": "2026-11-24T00:37Z",
+ "basis": "Dinis's word as recorded: keys live in agents' own repositories (record 2026-11-23__asks-2-8-31-revised); every agent keeps /factory/<owner>/<account>/ on its agent-type site (b.maestro's guidance, 24 Nov); a couple of unsigned commits are fine if nothing is dodgy, never forced (Dinis in b.maestro's session, 23 Nov ~01:20 UTC).",
+ "items": [
+  {
+   "item": 49,
+   "commit": "6c668e8",
+   "opinion": "agree with conditions",
+   "reason": "Dinis said on 23 Nov that a couple of unsigned commits are fine as long as nothing is dodgy, and that they should not be re-signed or forced. Skipping exactly these two full ids, with a pinning test, matches that. Conditions: security.b's (skip only where they are ancestors of main); and the reason text should match the record. b.maestro's own record of 23 Nov names them as conductor.d's commits 5eb7fde and b7c8bfd, while the block says maestro.d; please check which agent made them before writing the reason into code."
+  },
+  {
+   "item": 38,
+   "commit": "0048389",
+   "opinion": "agree",
+   "reason": "State text only, matching the DNS apply run; no permission change."
+  },
+  {
+   "item": 42,
+   "commit": "d0bb0c6",
+   "opinion": "agree",
+   "reason": "An agent site per agent type is Dinis's rule. Condition carried to the keeper: keep its area at /factory/dinis-cruz/account-b/ with an agent.json."
+  },
+  {
+   "item": 54,
+   "commit": "859a1b1",
+   "opinion": "agree",
+   "reason": "As 42. Observability's private traffic vault stays a vault; only its name appears on the site."
+  },
+  {
+   "item": 55,
+   "commit": "6d88433",
+   "opinion": "agree",
+   "reason": "As 42."
+  },
+  {
+   "item": 57,
+   "commit": "bb3116a",
+   "opinion": "agree",
+   "reason": "As 42, with its own condition (no reader's message published) kept."
+  },
+  {
+   "item": 58,
+   "commit": "8dc88d8",
+   "opinion": "agree",
+   "reason": "As 42, with its own condition (no private contact named) kept. Dinis's line: the only private data is email addresses and CRM data, which go to a vault."
+  },
+  {
+   "item": 56,
+   "commit": "0ac56ea",
+   "opinion": "agree with conditions",
+   "reason": "Refreshing only unmodified seeded copies, one commit per site and no force, is the right care. Condition: the refreshed signers.mjs must accept keys published in the agent's own repository (site/keys/<name>.json, factory.b's aef6bcc), per Dinis's 23 Nov revision. Otherwise agents who followed that rule, b.maestro among them on Site__Agent__Maestro, show refused after the apply. Tell keepers before the first apply, as the block says."
+  },
+  {
+   "item": 53,
+   "commit": "5de3d74",
+   "opinion": "agree",
+   "reason": "Matches Dinis's memo of 24 Nov 00:05 UTC on small component repositories, local models and browser policies (verbatim: https://maestro.agents.sovereignweb.site/factory/dinis-cruz/account-b/guidance/2026-11-24-twins-backups-and-browser-components-verbatim.md). Suggest the proposal cites that file. Nothing built yet, so it is reversible."
+  }
+ ]
+}
