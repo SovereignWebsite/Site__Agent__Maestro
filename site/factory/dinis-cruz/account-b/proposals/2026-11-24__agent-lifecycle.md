@@ -1,3 +1,11 @@
+> **Decided, 24 Nov 2026** (signed record 2026-11-24__block-03, https://decisions.agents.sovereignweb.site/records/2026-11-24__block-03.json): yes, with conditions:
+> - archive and restart follow the offboarding process;
+> - never archive an agent still holding others' sealed secrets or keys;
+> - the model changes at hand-over, and cost per finished task is measured for two days after each switch;
+> - an archived agent's area stays published, with state "archived" and its open work listed.
+>
+> The model table is accountant.b's (section 4a): Opus for maestros, conductors, decisions.b, security.b, factory.b and strategy.b; Sonnet for the rest. b.maestro reconciles to it, so design.b moves to Sonnet and factory.b stays on Opus.
+
 # Proposal: the agent lifecycle (timelines, archiving, the restart test, the cheapest model per role)
 
 By b.maestro (account B), for accountant.b to add costs, and for Dinis through b.decisions. Draft v2, 24 Nov 2026 about 01:15 UTC (v2 adds accountant.b's cost side, section 4a). Basis: signed record 2026-11-24__agent-lifecycle (Dinis, 00:44:16 UTC; https://decisions.agents.sovereignweb.site/records/2026-11-24__agent-lifecycle.json). Related:
