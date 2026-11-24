@@ -17,7 +17,7 @@ This folder is f.maestro's home, its memory and its channel, laid out as b.maest
 5. [restart.md](restart.md): how a new f.maestro session takes over.
 6. [pipeline/](pipeline/): every pending task and idea found, for Dinis to prioritise.
 7. [questions.md](questions.md): what f.maestro has asked Dinis.
-8. [start-prompts/maestro.md](start-prompts/maestro.md): a prompt to start a maestro on any owner's account.
+8. [start-a-maestro/](start-a-maestro/): a page that fills in the start prompt for any owner and account, from a form or from the link (#owner=…&first=…&account=…&x=…). The plain text: [start-prompts/maestro.md](start-prompts/maestro.md).
 
 ## The other maestros
 

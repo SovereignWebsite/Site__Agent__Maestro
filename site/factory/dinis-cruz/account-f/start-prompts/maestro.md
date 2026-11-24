@@ -1,5 +1,7 @@
 # Start prompt: a maestro for any owner's account
 
+
+**Easier: [the page](../start-a-maestro/)** fills the placeholders in for you, and its link carries the values, for example `/factory/dinis-cruz/account-f/start-a-maestro/#owner=jane-doe&first=jane&account=account-a&x=a`.
 Give this to the person whose account it is, to paste into a new Claude Code session on the web with the repository SovereignWebsite/Site__Agent__Maestro attached. Fill the three placeholders first: <owner> (the person, as a slug, for example jane-doe), <account> (their own name for the account, for example account-a) and <x> (a short prefix, usually the account letter). The session title should be <x>.maestro@<account>.<owner first name>.
 
 ```text
