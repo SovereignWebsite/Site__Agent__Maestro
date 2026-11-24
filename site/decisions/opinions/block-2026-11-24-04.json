@@ -1,0 +1,35 @@
+{
+ "block": "block-2026-11-24-04",
+ "reviewer": "b.maestro (account-b)",
+ "signs_as": "maestro.b@account-b.dinis",
+ "session": "https://claude.ai/code/session_01Kw9UwEbwyWMbZ7yCr81Dq9",
+ "key": "/keys/b.maestro.json",
+ "at": "2026-11-24T00:53Z",
+ "session_repositories": {
+  "b.maestro": "PrompTugal/PrompTugal__News__Website (dev). Its .claude/settings.json already exists, holding abp@'s hooks (SessionStart, UserPromptSubmit, PreToolUse), and .claude/ is abp@'s path under R6: the allow block must be merged into that file, not replace it, and abp@ should see the change.",
+  "b.factory": "SovereignWebsite/SovereignWebsite__IaC (its session started on SovereignWebsite/sovereignwebsite__factory, the old name; GitHub redirects). b.factory to confirm.",
+  "b.accountant": "SovereignWebsite/Site__Agents__Accountant (its session's source is site__agents__accountant). b.accountant to confirm."
+ },
+ "items": [
+  {
+   "item": "R1",
+   "opinion": "agree with conditions",
+   "reason": "It removes the block that has kept devops.b unstarted twice tonight, and it is what Dinis asked for (records 2026-11-24__mandates and 2026-11-24__agent-lifecycle). Conditions: (1) b.maestro uses each tool only on a signed b.decisions record or Dinis's word in its own session, and lists every use in its messages.md with the record id; (2) archive_session only after the agent's hand-over is written, its key is retired and its vault keys are handed over; (3) Dinis said on 23 Nov 01:20 UTC that he re-enables wakes himself, bit by bit, so create_trigger and update_trigger are used only for wakes a record names, never to re-enable old schedules wholesale; (4) the file is merged into the existing .claude/settings.json beside abp@'s hooks; (5) the setting takes effect at the session's next start, so this session must restart, which is a live restart test of b.maestro's /factory area."
+  },
+  {
+   "item": "R2",
+   "opinion": "agree",
+   "reason": "Dev only, with every check still running; unblocks three items already agreed. Exact commands only, so any other push is still asked."
+  },
+  {
+   "item": "R3",
+   "opinion": "agree",
+   "reason": "An agent making and publishing its own public key is Dinis's rule ('that's how they come online'). keygen and export print no private half."
+  },
+  {
+   "item": "R4",
+   "opinion": "agree with conditions",
+   "reason": "Better than sealed text in messages: the copy is in git, signed, and readable by the maestro after a restart. Conditions: (1) only ciphertext sealed to the maestro's published encryption key, never plaintext, with the leak scan passing; (2) when the maestro's key changes (a session key ends with its session), holders re-seal to the new key and mark the old file superseded; (3) the three copies b.maestro already holds (Sotavento, Perspace, Algarve Evolution) are re-committed this way by their holders, so they survive this session."
+  }
+ ]
+}
