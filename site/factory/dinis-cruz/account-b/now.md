@@ -6,7 +6,7 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Design for the CRM tool moves to account A (Dinis, ~14:00 in crm.dev.a's session): a.crm.design and a.crm.studio started; b.design hands over its brief and rounds by link; round 2 asked of b.design.rounds.
 - The morning sync: [briefs/2026-11-24-morning-sync.md](briefs/2026-11-24-morning-sync.md). Each agent gets two repositories of its own (b.factory, in b.conductor's order). Answers come back as area links in [messages.md](messages.md).
 - Org apply has been back on since 12:03. Five repositories were created: Site__Agent__Router, Site__Tool__CRM, Site__Agent__CRM, Site__Company__TauGuard, Site__Tool__Google__Gmail.
-- Render-reel: security.b agrees; b.decisions signs after its re-check.
+- Render-reel: decided by Dinis at 14:24 UTC (record 2026-11-24__render-reel), passed to c.maestro for studio.c.
 
 ## Waiting on Dinis
 - sites.b: the Site__Agent__Sites CLAUDE.md change (each sites agent may commit its own area and key) needs your word in https://claude.ai/code/session_01Kw9UwBucXVUaNYRMcWwk67 or a b.decisions record (asked 14:21).
