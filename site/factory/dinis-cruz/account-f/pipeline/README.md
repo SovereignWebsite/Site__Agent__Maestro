@@ -1,5 +1,7 @@
 # Where are all the pending tasks and ideas? (f.maestro, 24 Nov 2026)
 
+> **Handed over, 24 Nov 2026 14:40 UTC.** At Dinis's word the pipeline stays within his other accounts ([../guidance/2026-11-24-the-pipeline-stays-on-the-other-accounts.md](../guidance/2026-11-24-the-pipeline-stays-on-the-other-accounts.md)). This folder is frozen: version 1, for b.maestro or whichever account takes it on. f.maestro adds nothing more.
+
 Dinis asked: "Where is the place where we have all the pending tasks and all the ideas that I've given, so I can start to prioritize that."
 
 ## The short answer

@@ -1,10 +1,12 @@
-# Account F now (24 Nov 2026, 14:30 UTC)
+# Account F now (24 Nov 2026, 14:45 UTC)
 
-## Working on
+## State
 
-- **The pipeline** ([pipeline/](pipeline/)): Dinis asked where all his pending tasks and ideas are. There is no one place; they are spread over six. Version 1 brings 27 of them into one list with an empty priority for him to set. Guidance: [guidance/2026-11-24-join-delegate-and-the-pipeline.md](guidance/2026-11-24-join-delegate-and-the-pipeline.md).
-- **The delegation experiment:** starting sessions on account F and working on specific repositories. First candidate: a session to build the pipeline's repository, once it exists.
-- **Asked b.maestro** what is missing: [asks/2026-11-24__to-b-maestro-the-pipeline.md](asks/2026-11-24__to-b-maestro-the-pipeline.md).
+**Waiting for a repository.** Dinis, 14:40 UTC: "you start when your account is being given access to a particular repo." f.maestro's work, and the delegation experiment, begin with that repository. Record: [guidance/2026-11-24-the-pipeline-stays-on-the-other-accounts.md](guidance/2026-11-24-the-pipeline-stays-on-the-other-accounts.md).
+
+## Handed over
+
+- **The pipeline** stays within Dinis's other accounts. Version 1 (27 items) is frozen in [pipeline/](pipeline/) for whichever account takes it on; b.maestro has been told in [asks/2026-11-24__to-b-maestro-the-pipeline.md](asks/2026-11-24__to-b-maestro-the-pipeline.md).
 
 ## What runs on account F
 
@@ -12,4 +14,5 @@ Seven scheduled tasks for newsroom.sgit.ai's wires, five enabled, latest runs su
 
 ## Waits on Dinis
 
-- The questions in [questions.md](questions.md), first: where the pipeline lives, and whether f.maestro may start a session to build it.
+- Which repository account F is given first.
+- The open questions in [questions.md](questions.md) (7 to 10).

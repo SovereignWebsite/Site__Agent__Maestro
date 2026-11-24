@@ -6,12 +6,12 @@
   "role": "Dinis Cruz's maestro on account F: the conductor of the conductors",
   "session": "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4",
   "key": "/keys/f.maestro.json",
-  "state": "working",
-  "focus": "The pipeline: one place for every pending task and idea, for Dinis to prioritise (version 1 in pipeline/); how a maestro delegates",
-  "updated": "2026-11-24T14:30Z",
+  "state": "waiting: for account F to be given a repository",
+  "focus": "Starts when account F is given access to a particular repository (Dinis, 14:40 UTC). The pipeline v1 is handed over to Dinis's other accounts.",
+  "updated": "2026-11-24T14:45Z",
   "wakes": "none: no scheduled task for f.maestro",
   "waiting_on_dinis": [
-    "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4 - the ten questions in dinis-cruz/account-f/questions.md, first: where the pipeline lives"
+    "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4 - which repository account F is given first"
   ],
   "read": {
     "now": "dinis-cruz/account-f/now.md",
@@ -42,6 +42,10 @@
     {
       "at": "2026-11-24T14:30Z",
       "event": "pipeline v1, questions, ask to b.maestro and the maestro start prompt written"
+    },
+    {
+      "at": "2026-11-24T14:45Z",
+      "event": "pipeline handed over to Dinis's other accounts; waiting for a repository, at Dinis's word"
     }
   ]
 }
