@@ -1,6 +1,6 @@
 {
  "about": "Vault keys b.maestro holds a sealed copy of, under Dinis's rule (records 2026-11-23__vault-keys-to-maestro and 2026-11-24__decisions-b-decides: every vault key to the maestro, always). Names and ids only; never key material.",
- "updated": "2026-11-24T00:36Z",
+ "updated": "2026-11-24T00:41Z",
  "held": [
   {
    "vault": "e58d8e08888c0567",
@@ -17,19 +17,26 @@
    "received": "2026-11-21",
    "signature": "verified",
    "proof_sent": "read and written since"
+  },
+  {
+   "vault": "vmy5vh8i",
+   "site": "Perspace (private)",
+   "made_by": "perspace.b (SovereignWebsite)",
+   "received": "2026-11-24T00:37Z",
+   "signature": "verified (perspace.b, sha256:6cb89ac625d51087)",
+   "proof_sent": "sha256 of the vault key; the in-vault proof was refused by b.maestro's permission check"
+  },
+  {
+   "vault": "vmly2zkr",
+   "site": "Algarve Evolution (private)",
+   "made_by": "algarve-evolution.b (SovereignWebsite)",
+   "received": "2026-11-24T00:37Z",
+   "signature": "verified (sha256:ccd357b288ec488f)",
+   "proof_sent": "sha256 of the line; note: it is a read key, not a full vault key",
+   "kind": "read key"
   }
  ],
  "pending": [
-  {
-   "vault": "Perspace vault",
-   "holder": "perspace.b",
-   "state": "sealed; its send refused by its session's permission check"
-  },
-  {
-   "vault": "Algarve Evolution vault",
-   "holder": "algarve-evolution.b",
-   "state": "sealed; its send refused by its session's permission check"
-  },
   {
    "vault": "7966duv1",
    "holder": "feedback.b",
