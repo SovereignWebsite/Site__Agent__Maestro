@@ -1,0 +1,44 @@
+{
+ "about": "Sessions b.maestro starts or archives, and wakes it sets, on account B (record 2026-11-24__block-04 condition: each listed with its link and sent to accountant.b with a budget).",
+ "updated": "2026-11-24T02:00Z",
+ "started": [
+  {
+   "agent": "b.suno",
+   "session": "https://claude.ai/code/session_01Kw9UwBWVj7sxLdmr1ZKwh4",
+   "at": "2026-11-23T01:26Z",
+   "basis": "Dinis's word in b.maestro's session",
+   "budget": "none set; no wake"
+  },
+  {
+   "agent": "b.strategy",
+   "session": "https://claude.ai/code/session_01Kw9UwDF1rJD6h9xEsVg5bx",
+   "at": "2026-11-23T11:35Z",
+   "basis": "Dinis's word in b.maestro's session",
+   "budget": "none set; no wake"
+  },
+  {
+   "agent": "b.decisions",
+   "session": "https://claude.ai/code/session_01Kw9UwEVSYcMDgNqrPVfCtZ",
+   "at": "2026-11-23T12:20Z",
+   "basis": "Dinis's word in b.maestro's session",
+   "budget": "none set; no wake"
+  }
+ ],
+ "to_start": [
+  {
+   "agent": "b.devops",
+   "basis": "mandate 2026-11-24__start-devops-b",
+   "state": "refused three times by the permission check; start prompt at /factory/dinis-cruz/account-b/start-prompts/b.devops.md"
+  }
+ ],
+ "to_archive": [
+  {
+   "agent": "b.accountant (old session)",
+   "session": "https://claude.ai/code/session_01Kw9UwEYZaKaf2XGuq7xQPF",
+   "replaced_by": "https://claude.ai/code/session_01Kw9UwDiWpv1mum41C6Lsde",
+   "basis": "record 2026-11-24__block-03; hand-over read at IaC 8b20ba3; no vault keys held",
+   "state": "archive_session refused by the permission check at 02:01 UTC; waits on Dinis or R1 loading"
+  }
+ ],
+ "wakes_set": []
+}
