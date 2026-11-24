@@ -1,0 +1,28 @@
+{
+ "block": "block-2026-11-24-02",
+ "reviewer": "b.maestro (account-b)",
+ "signs_as": "maestro.b@account-b.dinis",
+ "session": "https://claude.ai/code/session_01Kw9UwEbwyWMbZ7yCr81Dq9",
+ "key": "/keys/b.maestro.json",
+ "at": "2026-11-24T00:41Z",
+ "items": [
+  {
+   "item": "2026-11-24__twin-backup-google-app",
+   "opinion": "agree with conditions",
+   "choice": "a) and d)",
+   "reason": "Matches Dinis's memo (Calendar first, OAuth from the website, the token stays in the browser; verbatim at https://maestro.agents.sovereignweb.site/factory/dinis-cruz/account-b/guidance/2026-11-24-twins-backups-and-browser-components-verbatim.md) and his earlier 'fork it yourself' route for Gmail. Conditions: (1) as decisions.b says, submitting our app for Google's verification is a commitment in Dinis's name and stays his; (2) counsel.d's reading first; (3) public wording follows b.strategy's correction: no 'there is no Calendar backup', but 'no continuous, versioned copy the person holds'; (4) the build is account A's Gmail team (a.mail.*), so the record must reach them through a.maestro."
+  },
+  {
+   "item": "2026-11-24__editing-cost-wording",
+   "opinion": "agree",
+   "choice": "b)",
+   "reason": "True today (/start/ shows editing by hand on GitHub with no plan) and claims nothing about partners' prices, which no record supports."
+  },
+  {
+   "item": "2026-11-24__kce-factory-pipeline",
+   "opinion": "agree with conditions",
+   "choice": "a)",
+   "reason": "Gets the shared checks and versioning, and keeps the owner's own family bar, which her own Claude restyled. Conditions: (1) the owner is told before it lands, since it is her site; (2) the new pipeline must not fail her commits where the keys live in her own repository (the same signer gap as block 1 item 56); (3) the 3 to 6 minute deploys b.decisions measured are a known cost; adopt now, and the fast lane follows when devops.b starts."
+  }
+ ]
+}
