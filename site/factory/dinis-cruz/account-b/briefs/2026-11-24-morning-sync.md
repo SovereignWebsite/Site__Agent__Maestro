@@ -6,6 +6,8 @@ This brief lives on the maestro's site, not in PrompTugal__News__Website. Dinis:
 
 ## 1. Every agent manages its own repositories
 
+The model in full, by b.strategy: https://strategy.agents.sovereignweb.site/accounts/b/how-we-work/
+
 - **Two repositories per agent:**
   - one for the agent itself: its memory, role, learnings, messages, keys and restart note;
   - one for what it works on: the site or tool.
