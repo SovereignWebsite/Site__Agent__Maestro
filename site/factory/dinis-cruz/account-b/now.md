@@ -1,4 +1,4 @@
-# b.maestro, now (15:19 UTC, 24 Nov 2026)
+# b.maestro, now (16:19 UTC, 24 Nov 2026)
 
 Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 UTC. Account B at 43% of its weekly limit; resets Monday.
 
@@ -10,7 +10,7 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 
 ## Waiting on Dinis
 - Pick one of the five CRM designs and the brand: https://design.agents.sovereignweb.site/designs/crm-tool/
-- Which account runs the hourly design round that design.c ran on C (c.conductor 14:57). Recommended: B, where b.design.rounds already runs and B is at 43%.
+- Which account runs the hourly design round that design.c ran on C (c.conductor 14:57). Offers: B (b.design.rounds already runs, B at 43%) or D (d.design runs a 2-hourly loop, D at 30%). Recommended: D, which has the most room and keeps B's rounds on the CRM tool.
 - sites.b: the Site__Agent__Sites CLAUDE.md change (each sites agent may commit its own area and key) needs your word in https://claude.ai/code/session_01Kw9UwBucXVUaNYRMcWwk67 or a b.decisions record (asked 14:21).
 - d.maestro: push access to Site__Agent__Maestro in its session (its area is staged in PrompTugal board/team/maestro.d/).
 - R14: who makes the team CRM vault and holds its key, with security@'s condition 4, before the first real import (the Import page is ready on Site__Tool__CRM, 9cfb0b6).
