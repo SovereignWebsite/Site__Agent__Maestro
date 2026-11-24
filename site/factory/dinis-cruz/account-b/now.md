@@ -1,4 +1,4 @@
-# b.maestro, now (16:19 UTC, 24 Nov 2026)
+# b.maestro, now (17:20 UTC, 24 Nov 2026)
 
 Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 UTC. Account B at 43% of its weekly limit; resets Monday.
 
@@ -9,6 +9,7 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Render-reel: decided by Dinis at 14:24 UTC (record 2026-11-24__render-reel), passed to c.maestro for studio.c.
 
 ## Waiting on Dinis
+- Account A: open the 'Our work' CRM vault (yiy6okw9, a 28-row seed dry-run clean) and say whether a.decisions starts, both in a.maestro's session.
 - Pick one of the five CRM designs and the brand: https://design.agents.sovereignweb.site/designs/crm-tool/
 - Which account runs the hourly design round that design.c ran on C (c.conductor 14:57). Offers: B (b.design.rounds already runs, B at 43%) or D (d.design runs a 2-hourly loop, D at 30%). Recommended: D, which has the most room and keeps B's rounds on the CRM tool.
 - sites.b: the Site__Agent__Sites CLAUDE.md change (each sites agent may commit its own area and key) needs your word in https://claude.ai/code/session_01Kw9UwBucXVUaNYRMcWwk67 or a b.decisions record (asked 14:21).
