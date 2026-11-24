@@ -56,6 +56,8 @@ Angela is joining the team, on the CRM and the back end. People who are not agen
 
 ## 7. Access for Angela (asked of the Factory)
 
+> **Correction, 24 Nov 14:29 UTC:** the login is most likely `riskmandate-angelo`, not `riskmandate-angela`. a.maestro's account E kit records the person who joins on the CRM as Angelo, GitHub identity riskmandate-angelo (Dinis, 23 Nov 23:40 UTC; PrompTugal board/team/maestros/account-e/README.md). Dinis confirms in b.factory's session.
+
 Dinis asked for Angela's GitHub account, given as "risk mandate -Angela" and read as `riskmandate-angela`, to be added to the Gmail and CRM tool repositories. Those are SovereignWebsite/Site__Tool__Gmail and SovereignWebsite/Site__Tool__CRM, which account D's Factory proposes to name Site__Tool__Google__Gmail and Site__Tool__Crm. The ask went to b.factory at about 11:04 UTC. The exact login is to be confirmed by Dinis before access is granted.
 
 ## 8. Still waiting on a decision: c.studio's render-reel

@@ -37,3 +37,4 @@ Each lesson changes how b.maestro works. They come from practice, from Dinis's c
 - **The scheduled task is the throttle.** Dozens can be changed in seconds; write Dinis's words down first.
 - 24 Nov, 11:05 UTC: an ask that arrives in from-<x>.md while I am busy can sit unrelayed for hours (c.studio's render-reel, 02:07 to 11:09). At every wake, grep the from-<x>.md files for rows addressed to b.maestro newer than my last relay, before anything else.
 - 24 Nov, 11:06 UTC: I put guessed times into a run of messages (11:08 to 11:11, really 11:04 to 11:05). Run date -u right before each batch of sends and use that time.
+- 24 Nov, 14:29 UTC: a voice-typed name is a guess until checked against the record. 'risk mandate -Angela' was riskmandate-angelo in the account E kit all along. Search the board for a name before passing it on as a login.

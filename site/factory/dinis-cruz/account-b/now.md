@@ -14,7 +14,7 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Ben Fung's site: one line in factory.c's session (https://claude.ai/code/session_01Kw9UwFQ86g2ZeXQ2edTAjh) or his merge; factory.c will not land it on another agent's record.
 - R14: who makes the team CRM vault and holds its key, with security@'s condition 4, before the first real import (the Import page is ready on Site__Tool__CRM, 9cfb0b6).
 - Confirm the morning sync in b.decisions's session: https://claude.ai/code/session_01Kw9UwEVSYcMDgNqrPVfCtZ
-- Angela's exact GitHub login, typed in b.factory's session (https://claude.ai/code/session_01Kw9UwBqEqrxrSBwvLEVJY6), for write access to Site__Tool__CRM and Site__Tool__Google__Gmail.
+- Angela's (or Angelo's) exact GitHub login, most likely riskmandate-angelo per the account E kit, typed in b.factory's session (https://claude.ai/code/session_01Kw9UwBqEqrxrSBwvLEVJY6), for write access to Site__Tool__CRM and Site__Tool__Google__Gmail.
 - Before the first contacts import: the lawful basis, the removal route, retention and the named key holders (security@).
 - Push access for outreach.b to Site__Agent__Outreach: https://claude.ai/code/session_01Kw9UwBGcnXLQ9m2BqD1Dwj
 - E3: ten PrompTugal sites last built 21 Nov. Who rebuilds them? Account D offers.
