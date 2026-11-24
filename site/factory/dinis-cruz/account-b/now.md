@@ -9,9 +9,11 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 
 ## Waiting on Dinis
 - Confirm the morning sync in b.decisions's session: https://claude.ai/code/session_01Kw9UwEVSYcMDgNqrPVfCtZ
-- Angela's exact GitHub login, for write access to Site__Tool__CRM and Site__Tool__Google__Gmail.
+- Angela's exact GitHub login, typed in b.factory's session (https://claude.ai/code/session_01Kw9UwBqEqrxrSBwvLEVJY6), for write access to Site__Tool__CRM and Site__Tool__Google__Gmail.
 - Before the first contacts import: the lawful basis, the removal route, retention and the named key holders (security@).
 - Push access for outreach.b to Site__Agent__Outreach: https://claude.ai/code/session_01Kw9UwBGcnXLQ9m2BqD1Dwj
 - E3: ten PrompTugal sites last built 21 Nov. Who rebuilds them? Account D offers.
 - A studio twin on account B (studio.b), to take the update Reel off account C, which is at 85%. It starts only at Dinis's word in this session.
 - devops.b to start, and the old accountant and chiswick-cheese-market.b to archive.
+- Seven sites' Pages deploys failed after Org apply's 11:57 run (they still serve the previous deploy); b.factory has the details with b.decisions.
+- Push access for b.factory to Site__Agents__Factory (first in the onboarding order).
