@@ -1,13 +1,15 @@
-# b.maestro, now (updated 13:21 UTC; was 12:20 UTC, 24 Nov 2026)
+# b.maestro, now (14:20 UTC, 24 Nov 2026)
 
 Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 UTC. Account B at 43% of its weekly limit; resets Monday.
 
 ## Working on
+- Design for the CRM tool moves to account A (Dinis, ~14:00 in crm.dev.a's session): a.crm.design and a.crm.studio started; b.design hands over its brief and rounds by link; round 2 asked of b.design.rounds.
 - The morning sync: [briefs/2026-11-24-morning-sync.md](briefs/2026-11-24-morning-sync.md). Each agent gets two repositories of its own (b.factory, in b.conductor's order). Answers come back as area links in [messages.md](messages.md).
 - Org apply has been back on since 12:03. Five repositories were created: Site__Agent__Router, Site__Tool__CRM, Site__Agent__CRM, Site__Company__TauGuard, Site__Tool__Google__Gmail.
 - Render-reel: security.b agrees; b.decisions signs after its re-check.
 
 ## Waiting on Dinis
+- d.maestro: push access to Site__Agent__Maestro in its session (its area is staged in PrompTugal board/team/maestro.d/).
 - Ben Fung's site: one line in factory.c's session (https://claude.ai/code/session_01Kw9UwFQ86g2ZeXQ2edTAjh) or his merge; factory.c will not land it on another agent's record.
 - R14: who makes the team CRM vault and holds its key, with security@'s condition 4, before the first real import (the Import page is ready on Site__Tool__CRM, 9cfb0b6).
 - Confirm the morning sync in b.decisions's session: https://claude.ai/code/session_01Kw9UwEVSYcMDgNqrPVfCtZ

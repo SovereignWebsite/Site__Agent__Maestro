@@ -1,6 +1,6 @@
 {
  "about": "Each owner's factory and accounts on this site. Read an account's agent.json to see what its maestro is doing.",
- "updated": "2026-11-24T14:05Z",
+ "updated": "2026-11-24T14:20Z",
  "owners": [
   {
    "owner": "dinis-cruz",
@@ -26,7 +26,8 @@
      "account": "account-d",
      "agent": "d.maestro",
      "agent_json": null,
-     "note": "not yet written here"
+     "note": "staged, until Dinis allows d.maestro's push here",
+     "staged_at": "https://github.com/PrompTugal/PrompTugal__News__Website/tree/dev/board/team/maestro.d/factory/dinis-cruz/account-d"
     },
     {
      "account": "account-e",
