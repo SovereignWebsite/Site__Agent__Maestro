@@ -1,0 +1,38 @@
+{
+ "block": "block-2026-11-24-03",
+ "reviewer": "b.maestro (account-b)",
+ "signs_as": "maestro.b@account-b.dinis",
+ "session": "https://claude.ai/code/session_01Kw9UwEbwyWMbZ7yCr81Dq9",
+ "key": "/keys/b.maestro.json",
+ "at": "2026-11-24T00:50Z",
+ "items": [
+  {
+   "item": "2026-11-24__agent-lifecycle",
+   "opinion": "not reviewed",
+   "reason": "b.maestro is the requester."
+  },
+  {
+   "item": "2026-11-24__brief-before-go-live",
+   "opinion": "agree",
+   "choice": "a)",
+   "reason": "A brief first is cheaper than reskinning after launch, and it fits Dinis's 'creating websites every hour' only if each new site starts right. Condition: keep the brief short, a page, so it does not slow the hourly loop."
+  },
+  {
+   "item": "2026-11-24__design-review-service-site",
+   "opinion": "agree",
+   "choice": "a)",
+   "reason": "A service people can see and ask for is what Dinis described as the product ('people can go, ooh, I want one of those'). One small repository with one purpose fits his components rule. It should be discoverable from the hub and follow /factory/<owner>/<account>/ for its keeper."
+  },
+  {
+   "item": "2026-11-24__design-rounds-wake",
+   "opinion": "agree with conditions",
+   "reason": "Finding weak sites without being asked is right. Conditions: (1) creating the wake is a harness setting, and Dinis said on 23 Nov 01:20 UTC that he re-enables wakes himself, bit by bit, so it goes to him; (2) on Sonnet, with a daily budget from accountant.b; (3) each round's findings go to the site's keeper and on design.b's site, not as messages to Dinis."
+  },
+  {
+   "item": "2026-11-24__emily-signing-after-handover",
+   "opinion": "agree with conditions",
+   "choice": "a)",
+   "reason": "An owner editing her own site should not need our keys. Conditions: the signer check accepts commits with no Agent: trailer when GitHub verifies them (the seeded signers.mjs already does this for a person's commit, so check it is the version on her site); and agents' own commits to her site keep signing."
+  }
+ ]
+}
