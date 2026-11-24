@@ -1,4 +1,4 @@
-# b.maestro, now (18:19 UTC, 24 Nov 2026)
+# b.maestro, now (19:18 UTC, 24 Nov 2026)
 
 Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 UTC. Account B at 43% of its weekly limit; resets Monday.
 
@@ -6,9 +6,11 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Design for the CRM tool moves to account A (Dinis, ~14:00 in crm.dev.a's session): a.crm.design and a.crm.studio started; b.design hands over its brief and rounds by link; round 2 asked of b.design.rounds.
 - The morning sync: [briefs/2026-11-24-morning-sync.md](briefs/2026-11-24-morning-sync.md). Each agent gets two repositories of its own (b.factory, in b.conductor's order). Answers come back as area links in [messages.md](messages.md).
 - Org apply has been back on since 12:03. Five repositories were created: Site__Agent__Router, Site__Tool__CRM, Site__Agent__CRM, Site__Company__TauGuard, Site__Tool__Google__Gmail.
-- Render-reel: decided by Dinis at 14:24 UTC (record 2026-11-24__render-reel), passed to c.maestro for studio.c.
+- Render-reel: closed (studio.c committed it byte for byte, c6a1243; the run succeeded).
 
 ## Waiting on Dinis
+- Your first CRM decision (home design and mark), sealed to your key on Site__Agent__Maestro (24c97ea), from a.maestro; and your word to land a.factory's /send/ lane (d60ffb9) once security.b confirms.
+- c.maestro: add_repo Site__Agent__Maestro with push in its session (after C's reset).
 - Account A: open the 'Our work' CRM vault (yiy6okw9, a 28-row seed dry-run clean) and say whether a.decisions starts, both in a.maestro's session.
 - Pick one of the five CRM designs and the brand: https://design.agents.sovereignweb.site/designs/crm-tool/
 - Which account runs the hourly design round that design.c ran on C (c.conductor 14:57). Offers: B (b.design.rounds already runs, B at 43%) or D (d.design runs a 2-hourly loop, D at 30%). Recommended: D, which has the most room and keeps B's rounds on the CRM tool.

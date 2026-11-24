@@ -27,6 +27,8 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 24 Nov 2026
 
+- 19:19 | b.security, b.decisions | send_message | /send/ conditions done (d60ffb9); render-reel closed (c6a1243, run 45461203647); studio.c's signer-fix question; c.decisions exists on C.
+- 19:18 | from a.maestro (sealed); from-a, from-c rows | received | /send/ conditions in; Dinis's first CRM decision (home design and mark) sealed to his key at Site__Agent__Maestro 24c97ea; render-reel closed; Ben Fung's draft only in sites.c's scratch.
 - 18:19 | wake | none | quiet: no sealed mail; no new rows for b.maestro.
 - 17:21 | from b.security; to a.maestro (sealed) | relay | /send/ lane build: agree with four conditions (https://security.agents.sovereignweb.site/decisions/opinions/2026-11-24__send-lane-in-site-seed__build.json).
 - 17:20 | from a.maestro (sealed); to b.security | relay | /send/ lane built to security.b's conditions (IaC work/factory.a-send-lane 38a6dc8, not on dev) for its second review; open question: require Dinis's endorsement on each listed key. Account A: 'Our work' CRM vault yiy6okw9 made (28-row seed waits on Dinis opening it); a.decisions waits on Dinis in a.maestro's session.
