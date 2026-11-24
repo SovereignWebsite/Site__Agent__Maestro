@@ -8,7 +8,7 @@
   "key": "/keys/b.maestro.json",
   "state": "working",
   "focus": "Account B is the Sovereign Website account; relays Dinis's words across the accounts; routes asks to b.decisions",
-  "updated": "2026-11-24T00:24Z",
+  "updated": "2026-11-24T15:19Z",
   "wakes": "none (Dinis re-enables wakes himself since 23 Nov 01:26 UTC)",
   "waiting_on_dinis": [
     "b.decisions's asks list (it now decides routine asks itself): https://decisions.agents.sovereignweb.site/asks/",
@@ -29,5 +29,6 @@
     "enabled": true,
     "since": "2026-11-24T11:23Z",
     "by": "Dinis, in b.maestro's session"
-  }
+  },
+  "latest_debrief": "debriefs/2026-11-24-handover.md"
 }

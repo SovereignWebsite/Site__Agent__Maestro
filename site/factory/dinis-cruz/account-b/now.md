@@ -1,4 +1,4 @@
-# b.maestro, now (14:20 UTC, 24 Nov 2026)
+# b.maestro, now (15:19 UTC, 24 Nov 2026)
 
 Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 UTC. Account B at 43% of its weekly limit; resets Monday.
 
@@ -9,9 +9,10 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Render-reel: decided by Dinis at 14:24 UTC (record 2026-11-24__render-reel), passed to c.maestro for studio.c.
 
 ## Waiting on Dinis
+- Pick one of the five CRM designs and the brand: https://design.agents.sovereignweb.site/designs/crm-tool/
+- Which account runs the hourly design round that design.c ran on C (c.conductor 14:57). Recommended: B, where b.design.rounds already runs and B is at 43%.
 - sites.b: the Site__Agent__Sites CLAUDE.md change (each sites agent may commit its own area and key) needs your word in https://claude.ai/code/session_01Kw9UwBucXVUaNYRMcWwk67 or a b.decisions record (asked 14:21).
 - d.maestro: push access to Site__Agent__Maestro in its session (its area is staged in PrompTugal board/team/maestro.d/).
-- Ben Fung's site: one line in factory.c's session (https://claude.ai/code/session_01Kw9UwFQ86g2ZeXQ2edTAjh) or his merge; factory.c will not land it on another agent's record.
 - R14: who makes the team CRM vault and holds its key, with security@'s condition 4, before the first real import (the Import page is ready on Site__Tool__CRM, 9cfb0b6).
 - Confirm the morning sync in b.decisions's session: https://claude.ai/code/session_01Kw9UwEVSYcMDgNqrPVfCtZ
 - Angela's (or Angelo's) exact GitHub login, most likely riskmandate-angelo per the account E kit, typed in b.factory's session (https://claude.ai/code/session_01Kw9UwBqEqrxrSBwvLEVJY6), for write access to Site__Tool__CRM and Site__Tool__Google__Gmail.

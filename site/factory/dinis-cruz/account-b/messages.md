@@ -27,6 +27,8 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 24 Nov 2026
 
+- 15:19 | b.decisions; b.security | send_message | d.decisions's key for endorsement (39fe0e286, scoped to account D's routine asks); a.factory's /send/ lane in the site seed for review (fa00724).
+- 15:19 | from a.maestro (sealed); from-a, from-c, from-d rows | received | /send/ lane review for security.b; a.maestro's area live; CRM designs live for Dinis to pick; Ben Fung moved to account A; design.c's round needs another account; d.decisions's key.
 - 14:29 | b.factory | send_message | correction: the CRM access login is most likely riskmandate-angelo (account E kit), not riskmandate-angela; Dinis confirms.
 - 14:30 | a.maestro, c.maestro, d.maestro (sealed); b.decisions | relay | record 2026-11-24__account-decision-agents (Dinis, 14:26): a.decisions, c.decisions, d.decisions under it; account E's maestro is maestro.e (a.maestro's kit), reached through a.maestro.
 - 14:25 | from b.decisions; to c.maestro (sealed) | relay | render-reel decided (Dinis, 14:24 in b.decisions's session): https://decisions.agents.sovereignweb.site/records/2026-11-24__render-reel.json ; the workflow byte for byte, then one more pack and timings.
