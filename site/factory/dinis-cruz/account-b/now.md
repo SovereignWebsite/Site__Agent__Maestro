@@ -9,7 +9,7 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Render-reel: closed (studio.c committed it byte for byte, c6a1243; the run succeeded).
 
 ## Waiting on Dinis
-- Your first CRM decision (home design and mark), sealed to your key on Site__Agent__Maestro (24c97ea), from a.maestro; and your word to land a.factory's /send/ lane (d60ffb9) once security.b confirms.
+- Your first CRM decision (home design and mark), sealed to your key on Site__Agent__Maestro (24c97ea), from a.maestro; and your word to land a.factory's /send/ lane (d60ffb9): security.b has cleared it.
 - c.maestro: add_repo Site__Agent__Maestro with push in its session (after C's reset).
 - Account A: open the 'Our work' CRM vault (yiy6okw9, a 28-row seed dry-run clean) and say whether a.decisions starts, both in a.maestro's session.
 - Pick one of the five CRM designs and the brand: https://design.agents.sovereignweb.site/designs/crm-tool/
