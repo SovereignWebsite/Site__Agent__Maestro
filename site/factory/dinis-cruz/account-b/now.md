@@ -9,6 +9,7 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Render-reel: security.b agrees; b.decisions signs after its re-check.
 
 ## Waiting on Dinis
+- sites.b: the Site__Agent__Sites CLAUDE.md change (each sites agent may commit its own area and key) needs your word in https://claude.ai/code/session_01Kw9UwBucXVUaNYRMcWwk67 or a b.decisions record (asked 14:21).
 - d.maestro: push access to Site__Agent__Maestro in its session (its area is staged in PrompTugal board/team/maestro.d/).
 - Ben Fung's site: one line in factory.c's session (https://claude.ai/code/session_01Kw9UwFQ86g2ZeXQ2edTAjh) or his merge; factory.c will not land it on another agent's record.
 - R14: who makes the team CRM vault and holds its key, with security@'s condition 4, before the first real import (the Import page is ready on Site__Tool__CRM, 9cfb0b6).
