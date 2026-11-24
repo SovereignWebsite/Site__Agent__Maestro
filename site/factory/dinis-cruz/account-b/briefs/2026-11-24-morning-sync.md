@@ -72,3 +72,12 @@ c.studio asks to add one new workflow, render-reel.yml, to Site__Agent__Studio. 
 | synthetic users and twin inboxes | synthetic-users.d | d.maestro |
 | Angela's access | b.factory (with d.factory) | Dinis confirms the login |
 | render-reel | b.security, then b.decisions | c.studio |
+
+## Security's conditions (security@, no hold)
+
+https://github.com/PrompTugal/PrompTugal__News__Website/blob/dev/board/team/security/reviews/2026-11-24-1107-morning-sync-risks.md
+
+- **Contacts:** a person supplies and enters them, in the vault only. Before the first import, Dinis sets the lawful basis, the removal route, retention and the named key holders.
+- **Gmail:** an agent reads or sends through it only with Dinis's written grant in its policy.
+- **Twin inboxes:** only on a domain we control; sends to any other domain are refused by code.
+- **Angela's access:** only after her exact login is confirmed; write, not admin, with 2FA.
