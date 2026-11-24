@@ -1,6 +1,6 @@
 {
  "about": "Account A's ideas and tasks, one row each (Dinis 24 Nov: 'where is our current list of ideas and tasks'). Kept by a.maestro; agents' own request files hold the detail.",
- "updated": "2026-11-24T14:30Z",
+ "updated": "2026-11-24T21:40Z",
  "fields": [
   "id",
   "title",
@@ -113,6 +113,14 @@
    "owner": "a.ios",
    "status": "stopped",
    "blocked_on": "Dinis: A4, restart"
+  },
+  {
+   "id": "A-CAP-1",
+   "title": "Move some account A sessions to other accounts (A at 64% of its limit on 24 Nov evening)",
+   "source": "Dinis 24 Nov ~21:35 in a.maestro: 'we will tomorrow need to move some sessions into other accounts'",
+   "owner": "a.maestro",
+   "status": "plan: the stopped AWS team (22 roles) restarts fresh on the account with most room (F is new; C resets Wed 25 Nov 13:00 UTC); keep on A the live CRM, mail, factory, sites, design, studio, instagram and London Agentics agents; a fresh a.maestro stays on A",
+   "blocked_on": "Dinis: which account takes which team, 25 Nov"
   }
  ]
 }
