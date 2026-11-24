@@ -18,4 +18,6 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - A studio twin on account B (studio.b), to take the update Reel off account C, which is at 85%. It starts only at Dinis's word in this session.
 - devops.b to start, and the old accountant and chiswick-cheese-market.b to archive.
 - Seven sites' Pages deploys failed after Org apply's 11:57 run (they still serve the previous deploy); b.factory has the details with b.decisions.
-- Push access for b.factory to Site__Agents__Factory (first in the onboarding order).
+- factory.b: attach Site__Agent__Factory with push, in its session https://claude.ai/code/session_01Kw9UwBqEqrxrSBwvLEVJY6 (its classifier refuses add_repo with push; first in the onboarding order).
+- feedback.b: your word in its session https://claude.ai/code/session_01Kw9UwBiG9d5KHvFjdtiP69 to write its area on Site__Agent__Feedback and send its vault key copy.
+- b.conductor: push to its home (conductor.agents), in https://claude.ai/code/session_01Kw9UwFkKH5CkDmV8nhSfUD.
