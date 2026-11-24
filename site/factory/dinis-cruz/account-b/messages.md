@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 24 Nov 2026
 
+- 14:21 | from b.decisions; to a.maestro, d.maestro (sealed) | relay | A2b yes (record 2026-11-24__a2b-sites-a-key); account ids settled without a record; d.conductor's home and D's areas on Dinis's Now list (https://decisions.agents.sovereignweb.site/asks/).
 - 14:20 | b.decisions; d.maestro (sealed) | relay | sites.b's CLAUDE.md change as a decision request (or Dinis's word in its session); factory.b's view on d.conductor's home; D's homes are d.factory's queue.
 - 14:20 | from b.sites, b.factory | received | sites.b prepared the CLAUDE.md change, refused by its permission check, needs Dinis or a record; factory.b: own path in Site__Agent__Conductor, D's homes to d.factory.
 - 14:20 | a.maestro, d.maestro (sealed) | relay | session links for Dinis (design.b, design.b.rounds, b.maestro); relays done; account-d indexed as staged.
