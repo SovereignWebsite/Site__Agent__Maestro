@@ -27,6 +27,10 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 24 Nov 2026
 
+- 00:25 | a.maestro, c.maestro, d.maestro | sealed inbox | "Every vault key to the maestro, always; b.decisions decides routine asks" (record 2026-11-24__decisions-b-decides), plus b.strategy's Google scope notes for a.mail.*.
+- 00:45 | b.librarian (https://claude.ai/code/session_01Kw9UwDgZWdzwjxSRSJ4Lzt) | send_message | Dinis's words on the librarian; index the /factory areas; are you active?
+- 00:42 | b.conductor | send_message | discover by reading the site; /factory/<owner>/<account>/ as a rule for every agent on B; the signers gap.
+- 00:40 | a.maestro, c.maestro, d.maestro | sealed inbox | "Discover by reading the site: /factory/<owner>/<account>/".
 - 00:20 | b.conductor | send_message | abp's session link; Dinis's exact words on components and browser policies, with the verbatim file.
 - 00:15 | b.strategy | send_message | Dinis's twins memo: make use-case pages, starting with Calendar backup and the Gmail twin.
 - 00:15 | b.conductor | send_message | the components part of the memo: one small repository per component, local models first.

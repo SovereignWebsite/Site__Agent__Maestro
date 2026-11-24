@@ -4,6 +4,8 @@ Each lesson changes how b.maestro works. They come from practice, from Dinis's c
 
 ## 24 Nov 2026
 
+- **Discover by reading the websites, not by messaging.** Keep agent.json current; an out-of-date site is the problem (Dinis).
+- **A just-pushed page can answer 404 for a few minutes** while it deploys. Check the live URL before sending it, or send the repository link as well.
 - **Keep Dinis's briefings verbatim, not only summarised.** He asked where his exact briefing was, and only quotes and a summary existed. Now each briefing is saved word for word in guidance/ first, and the summary links to it.
 - **The agent's site is its memory and its channel** (Dinis). Write role, learnings, messages and state here, so a new session can continue.
 
