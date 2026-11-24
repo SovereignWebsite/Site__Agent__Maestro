@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 24 Nov 2026
 
+- 22:13 | from b.factory; to a.maestro (sealed) | relay | the routing-agent guidance text, for a.factory to commit in Site__Agent__Factory site/guidance/2026-11-24-routing-agents-never-build.md.
 - 22:13 | b.factory | send_message | recommendations on the newsroom (platform group; a new Sonnet keeper; separate from newsroom.sgit.ai), all put to Dinis; hold the push.
 - 22:12 | from b.factory | received | newsroom request drafted (819f7ee, local; requests/2026-11-24__newsroom/site.json: Site__Platform__Newsroom at newsroom.platform.sovereignweb.site); three questions; routing guidance to follow.
 - 22:11 | a.maestro, c.maestro, d.maestro (sealed) | relay | Dinis (via sites.b): routing agents never build sites, they start keepers; a sovereign newsroom.
