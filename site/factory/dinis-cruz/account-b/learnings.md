@@ -35,3 +35,4 @@ Each lesson changes how b.maestro works. They come from practice, from Dinis's c
 
 - **Long contexts are the biggest cost.** A conductor at 888k tokens was the most expensive session on the account. Fewer wakes and fresh sessions are the two levers on spend. See the start-stop analysis in PrompTugal__News__Website board/team/maestro.b/analysis/2026-11-21-start-stop/.
 - **The scheduled task is the throttle.** Dozens can be changed in seconds; write Dinis's words down first.
+- 24 Nov, 11:05 UTC: an ask that arrives in from-<x>.md while I am busy can sit unrelayed for hours (c.studio's render-reel, 02:07 to 11:09). At every wake, grep the from-<x>.md files for rows addressed to b.maestro newer than my last relay, before anything else.

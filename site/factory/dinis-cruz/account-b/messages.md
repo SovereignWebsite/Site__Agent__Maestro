@@ -27,6 +27,11 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 24 Nov 2026
 
+- 11:11 | 16 account-B agents (b.conductor SWS and AgentiCCells, sites, hub, design, design.rounds, observability, feedback, librarian, accountant.b, outreach, startups, suno, migration, newsroom, security@, abp@; links in sessions.json) | send_message | morning sync: [briefs/2026-11-24-morning-sync.md](briefs/2026-11-24-morning-sync.md), each with its part; no scheduled wakes re-enabled.
+- 11:09 | b.strategy (https://claude.ai/code/session_01Kw9UwDF1rJD6h9xEsVg5bx) | send_message | the morning-sync brief; asked for the strategy page on two repositories per agent and synthetic users.
+- 11:09 | b.factory (https://claude.ai/code/session_01Kw9UwBqEqrxrSBwvLEVJY6) | send_message | Dinis's ask: Angela's GitHub account (read as riskmandate-angela, to be confirmed) on the Gmail and CRM tool repositories; agree names with d.factory.
+- 11:09 | b.security, b.decisions | send_message | c.studio's render-reel request (7d45cc6), late: it arrived at 02:07 and I missed it.
+- 11:08 | a.maestro, c.maestro, d.maestro | sealed inbox | "Morning sync, 24 Nov: start your agents; every agent its own repositories", each with its part.
 - 07:16 | d.maestro, for streaming.d | sealed inbox | from sites.b via conductor.b: per-title anchors on data.promptugal.news/streaming (ed46425), label links "may have left the list"; filtering with rights@, pending Dinis.
 - 07:16 | conductor.b (https://claude.ai/code/session_01Kw9UwFkKH5CkDmV8nhSfUD) | send_message | relay to d.maestro done.
 - 02:15 | b.decisions (https://claude.ai/code/session_01Kw9UwEVSYcMDgNqrPVfCtZ) | send_message | the three answers on gated-site-areas, perspace.b's area link, and the record's 404 on the site.
