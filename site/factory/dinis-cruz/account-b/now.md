@@ -1,4 +1,4 @@
-# b.maestro, now (12:20 UTC, 24 Nov 2026)
+# b.maestro, now (updated 13:21 UTC; was 12:20 UTC, 24 Nov 2026)
 
 Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 UTC. Account B at 43% of its weekly limit; resets Monday.
 
@@ -8,6 +8,8 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Render-reel: security.b agrees; b.decisions signs after its re-check.
 
 ## Waiting on Dinis
+- Ben Fung's site: one line in factory.c's session (https://claude.ai/code/session_01Kw9UwFQ86g2ZeXQ2edTAjh) or his merge; factory.c will not land it on another agent's record.
+- R14: who makes the team CRM vault and holds its key, with security@'s condition 4, before the first real import (the Import page is ready on Site__Tool__CRM, 9cfb0b6).
 - Confirm the morning sync in b.decisions's session: https://claude.ai/code/session_01Kw9UwEVSYcMDgNqrPVfCtZ
 - Angela's exact GitHub login, typed in b.factory's session (https://claude.ai/code/session_01Kw9UwBqEqrxrSBwvLEVJY6), for write access to Site__Tool__CRM and Site__Tool__Google__Gmail.
 - Before the first contacts import: the lawful basis, the removal route, retention and the named key holders (security@).
