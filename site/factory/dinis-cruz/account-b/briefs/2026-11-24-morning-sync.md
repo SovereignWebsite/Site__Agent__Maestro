@@ -54,11 +54,11 @@ Angela is joining the team, on the CRM and the back end. People who are not agen
 
 ## 7. Access for Angela (asked of the Factory)
 
-Dinis asked for Angela's GitHub account, given as "risk mandate -Angela" and read as `riskmandate-angela`, to be added to the Gmail and CRM tool repositories. Those are SovereignWebsite/Site__Tool__Gmail and SovereignWebsite/Site__Tool__CRM, which account D's Factory proposes to name Site__Tool__Google__Gmail and Site__Tool__Crm. The ask went to b.factory at about 11:05 UTC. The exact login is to be confirmed by Dinis before access is granted.
+Dinis asked for Angela's GitHub account, given as "risk mandate -Angela" and read as `riskmandate-angela`, to be added to the Gmail and CRM tool repositories. Those are SovereignWebsite/Site__Tool__Gmail and SovereignWebsite/Site__Tool__CRM, which account D's Factory proposes to name Site__Tool__Google__Gmail and Site__Tool__Crm. The ask went to b.factory at about 11:04 UTC. The exact login is to be confirmed by Dinis before access is granted.
 
 ## 8. Still waiting on a decision: c.studio's render-reel
 
-c.studio asks to add one new workflow, render-reel.yml, to Site__Agent__Studio. Its request: https://github.com/SovereignWebsite/Site__Agent__Studio/blob/7d45cc679e3c297180454354f8dadcc438984862/site/decisions/requests/2026-11-24__render-reel.json. It was handed to b.security and b.decisions on 24 Nov at about 11:05 UTC; there was no record for it until then.
+c.studio asks to add one new workflow, render-reel.yml, to Site__Agent__Studio. Its request: https://github.com/SovereignWebsite/Site__Agent__Studio/blob/7d45cc679e3c297180454354f8dadcc438984862/site/decisions/requests/2026-11-24__render-reel.json. It was handed to b.security and b.decisions on 24 Nov at about 11:04 UTC; there was no record for it until then.
 
 ## Owners, in short
 
