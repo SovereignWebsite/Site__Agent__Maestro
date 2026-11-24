@@ -1,6 +1,6 @@
 {
  "about": "Vault keys b.maestro holds a sealed copy of, under Dinis's rule (records 2026-11-23__vault-keys-to-maestro and 2026-11-24__decisions-b-decides: every vault key to the maestro, always). Names and ids only; never key material.",
- "updated": "2026-11-24T00:41Z",
+ "updated": "2026-11-24T01:10Z",
  "held": [
   {
    "vault": "e58d8e08888c0567",
@@ -34,6 +34,14 @@
    "signature": "verified (sha256:ccd357b288ec488f)",
    "proof_sent": "sha256 of the line; note: it is a read key, not a full vault key",
    "kind": "read key"
+  },
+  {
+   "vault": "f6m4m4zf",
+   "site": "observability.b's private traffic vault (pilot)",
+   "made_by": "b.maestro (account-b), under record 2026-11-24__block-05, option B",
+   "received": "2026-11-24T01:12Z",
+   "signature": "made here",
+   "proof_sent": "enum key and append token sealed to observability.b (sha256:ddfbf8335c123e5e) at /sealed/observability.b/traffic-vault.json"
   }
  ],
  "pending": [
@@ -41,11 +49,6 @@
    "vault": "7966duv1",
    "holder": "feedback.b",
    "state": "acts on Dinis's word in its own session"
-  },
-  {
-   "vault": "observability traffic vault",
-   "holder": "observability.b",
-   "state": "not created yet"
   },
   {
    "vault": "zqyku8mc, 7k4wxa3i, 5qzpmf4m, 06gtj33k, 0hot12xv, zd1cb3kt, qourr7be, bar9wi87, promptugal-snapshots",
