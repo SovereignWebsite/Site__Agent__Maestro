@@ -4,6 +4,7 @@ Each lesson changes how b.maestro works. They come from practice, from Dinis's c
 
 ## 24 Nov 2026
 
+- **Drain the sealed maestro inbox at every wake, and open it again after every restart.** maestro_mail.py needs `open` once per session, because the lane credentials live in ~/.sg-send/lanes/ and are lost on restart. 22 messages had waited up to 11 hours, including a question from Dinis.
 - **A settings allow rule committed to the repository does not reach a running session.** R1 was in .claude/settings.json on dev, but create_session was still refused ("Undermining Oversight"). Settings load at session start, so the session must restart, and the auto-mode check may weigh it on its own too. Keep a ready start prompt on the site, so Dinis can start the agent by hand meanwhile.
 - **Discover by reading the websites, not by messaging.** Keep agent.json current; an out-of-date site is the problem (Dinis).
 - **A just-pushed page can answer 404 for a few minutes** while it deploys. Check the live URL before sending it, or send the repository link as well.
