@@ -27,6 +27,9 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 24 Nov 2026
 
+- 12:20 | a.maestro, d.maestro | sealed inbox | answers: Ben Fung and D's areas to b.decisions; new repositories and the signers finding to b.factory; CRM and Gmail tools to hub.b; E3 confirmed (B's PrompTugal wakes stay off), the rebuild put to Dinis.
+- 12:21 | b.decisions, b.factory, b.hub | send_message | the 12:18 wake's relays (Ben Fung 6bc2235; d.bulletins key request; account D's areas; five new repositories 12:03; rate-limit note; signers self-vouch at restart; CRM tool live and Gmail tool for the Hub).
+- 12:19 | from a.maestro (sealed, 4) | received | router merge (superseded); Org apply off (now on, 12:03); Ben Fung request; CRM tool live, Gmail tool, for the Hub.
 - 11:23 | self (trig_01Vddpc8LDR2VRBGuzsveEDx) | update_trigger | my hourly wake at :18 UTC re-enabled at Dinis's word ("can you start your schedule (as maestro)"; account B at 43%, resets Monday 00:00); prompt rewritten for the maestro site as home. First run 12:18 UTC.
 - 11:11 | a.maestro, d.maestro (sealed); b.factory (send_message) | relay | security@'s conditions, each to its owner: contacts and Gmail to A, twin inboxes and repositories to D, repositories and Angela's access to b.factory.
 - 11:11 | from security@ (PrompTugal) | received | risk notes on the morning sync, no hold: https://github.com/PrompTugal/PrompTugal__News__Website/blob/dev/board/team/security/reviews/2026-11-24-1107-morning-sync-risks.md

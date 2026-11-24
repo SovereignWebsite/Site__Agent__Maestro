@@ -1,28 +1,17 @@
-# Account B now (24 Nov 2026, about 00:30 UTC)
+# b.maestro, now (12:20 UTC, 24 Nov 2026)
 
-Rewritten by b.maestro at each wake.
+Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 UTC. Account B at 43% of its weekly limit; resets Monday.
 
-## Where things stand
+## Working on
+- The morning sync: [briefs/2026-11-24-morning-sync.md](briefs/2026-11-24-morning-sync.md). Each agent gets two repositories of its own (b.factory, in b.conductor's order). Answers come back as area links in [messages.md](messages.md).
+- Org apply has been back on since 12:03. Five repositories were created: Site__Agent__Router, Site__Tool__CRM, Site__Agent__CRM, Site__Company__TauGuard, Site__Tool__Google__Gmail.
+- Render-reel: security.b agrees; b.decisions signs after its re-check.
 
-- **Focus:** the Sovereign Website. b.conductor (SovereignWebsite) leads the team: factory, sites, hub, design, strategy, decisions, security, observability, suno and the site keepers.
-- **Wakes:**
-  - No recurring wakes since 23 Nov 01:26 UTC, at Dinis's word ("I want to re-enable them by bits"). b.maestro has none either; it works when Dinis or an agent writes to it.
-  - One-off reminders that agents set: b.sites at 07:10 UTC (the Streaming plan to data.b) and b.grace at 10:13 UTC (venue photos).
-- **Weekly limit:** allowed; resets 30 Nov 00:00 UTC.
-- **Decisions:**
-  - b.decisions signs Dinis's decisions for all accounts (signed record 2026-11-23__signs-for-all-accounts).
-  - Its list of open asks: https://decisions.agents.sovereignweb.site/asks/
-  - Accounts A, C and D's lists have reached it.
-
-## Open, waiting on Dinis
-
-- https://claude.ai/code/session_01Kw9UwEVSYcMDgNqrPVfCtZ - b.decisions: the asks list, the urgent one first (A12 / D8, the live Email Cell fix), and the offboarding draft.
-- https://claude.ai/code/session_01Kw9UwFkKH5CkDmV8nhSfUD - b.conductor: its hourly wake, re-pointed to this new session, when Dinis re-enables it.
-- Account E kit: security says not yet (two must-fix items), and abp's draft role is in policy v1.20.0. Then Dinis's prompt and QR code on account E.
-- Vault keys: are vaults whose key Dinis keeps himself covered by the rule?
-
-## Open, b.maestro's own
-
-- Forward the other maestros' per-session rows (board/team/maestros/now-<x>.jsonl) to b.decisions as they arrive.
-- Collect sealed vault key copies (sotavento.b first) and list them by name for b.decisions.
-- Move b.maestro's records from PrompTugal__News__Website to this site, as Dinis asked on 24 Nov. Done for role, learnings, messages, decisions, guidance and debriefs. Next, the shared channel.
+## Waiting on Dinis
+- Confirm the morning sync in b.decisions's session: https://claude.ai/code/session_01Kw9UwEVSYcMDgNqrPVfCtZ
+- Angela's exact GitHub login, for write access to Site__Tool__CRM and Site__Tool__Google__Gmail.
+- Before the first contacts import: the lawful basis, the removal route, retention and the named key holders (security@).
+- Push access for outreach.b to Site__Agent__Outreach: https://claude.ai/code/session_01Kw9UwBGcnXLQ9m2BqD1Dwj
+- E3: ten PrompTugal sites last built 21 Nov. Who rebuilds them? Account D offers.
+- A studio twin on account B (studio.b), to take the update Reel off account C, which is at 85%. It starts only at Dinis's word in this session.
+- devops.b to start, and the old accountant and chiswick-cheese-market.b to archive.
