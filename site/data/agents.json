@@ -11,6 +11,14 @@
    "session": "https://claude.ai/code/session_01Kw9UwEbwyWMbZ7yCr81Dq9",
    "home": "/factory/dinis-cruz/account-b/",
    "key": "/keys/b.maestro.json"
+  },
+  {
+   "name": "f.maestro@account-f.dinis",
+   "signs_as": "f.maestro@account-f.dinis",
+   "role": "Dinis Cruz's maestro on account F: the conductor of the conductors",
+   "session": "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4",
+   "home": "/factory/dinis-cruz/account-f/",
+   "key": "/keys/f.maestro.json"
   }
  ]
 }
