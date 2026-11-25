@@ -2,16 +2,62 @@
  "owner": "dinis-cruz",
  "account": "account-f",
  "kept_by": "f.maestro",
- "updated": "2026-11-24T14:05Z",
+ "updated": "2026-11-25T22:50Z",
  "note": "The sessions f.maestro sees on account F, the 30 most recent from list_sessions. Titles are as the sessions carry them.",
  "sessions": [
-  { "name": "f.maestro@account-f.dinis", "session": "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4", "does": "this maestro" },
-  { "name": "@newsroom.accountant", "session": "https://claude.ai/code/session_017CXhuyj9ChMBdZPAnKHWjR", "does": "the wires' run costs (daily scheduled task)" },
-  { "name": "newsroom.sgit.ai | industry wire", "session": "https://claude.ai/code/session_012upJe5DoHF9CNdwjQPdXqX", "does": "the Industry Wire" },
-  { "name": "newsroom.sgit.ai | write article", "session": "https://claude.ai/code/session_01Pi4ycRPnDCg1ef8Yq7Jggj", "does": "newsroom articles" },
-  { "name": "@newsroom.ux", "session": "https://claude.ai/code/session_01LciV6TkbKRgdxynAwMSM2f", "does": "newsroom reading experience" },
-  { "name": "@newsroom.vault", "session": "https://claude.ai/code/session_01Nb1u3Nndh7jfgY77debUL5", "does": "newsroom vault viewer" },
-  { "name": "api.newsroom.sgit.ai", "session": "https://claude.ai/code/session_01JhLQ6MiJuTv6FGLNT8TQ5P", "does": "the newsroom API site" },
-  { "name": "sgit-ai cli | security review", "session": "https://claude.ai/code/session_019h8FuSstSk1ANp93DrBbnz", "does": "sgit CLI review (blocked, says it waits on an API key)" }
+  {
+   "name": "f.maestro@account-f.dinis",
+   "session": "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4",
+   "does": "this maestro"
+  },
+  {
+   "name": "cl-6.infra@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJMTBpiuD87CmNWcUd6",
+   "does": "keeps PrompTugal__IaC (GitHub and AWS as code); home PrompTugal__Agent__Infrastructure",
+   "started": "2026-11-25T22:48Z",
+   "model": "opus"
+  },
+  {
+   "name": "cl-6.conductor@PrompTugal.dinis",
+   "session": "https://claude.ai/code/session_016CrbJKttr9TiHHDsuGnmF1",
+   "does": "conductor of PrompTugal.news, restarted on PrompTugal__News__Website",
+   "started": "2026-11-25T22:48Z",
+   "model": "opus"
+  },
+  {
+   "name": "@newsroom.accountant",
+   "session": "https://claude.ai/code/session_017CXhuyj9ChMBdZPAnKHWjR",
+   "does": "the wires' run costs (daily scheduled task)"
+  },
+  {
+   "name": "newsroom.sgit.ai | industry wire",
+   "session": "https://claude.ai/code/session_012upJe5DoHF9CNdwjQPdXqX",
+   "does": "the Industry Wire"
+  },
+  {
+   "name": "newsroom.sgit.ai | write article",
+   "session": "https://claude.ai/code/session_01Pi4ycRPnDCg1ef8Yq7Jggj",
+   "does": "newsroom articles"
+  },
+  {
+   "name": "@newsroom.ux",
+   "session": "https://claude.ai/code/session_01LciV6TkbKRgdxynAwMSM2f",
+   "does": "newsroom reading experience"
+  },
+  {
+   "name": "@newsroom.vault",
+   "session": "https://claude.ai/code/session_01Nb1u3Nndh7jfgY77debUL5",
+   "does": "newsroom vault viewer"
+  },
+  {
+   "name": "api.newsroom.sgit.ai",
+   "session": "https://claude.ai/code/session_01JhLQ6MiJuTv6FGLNT8TQ5P",
+   "does": "the newsroom API site"
+  },
+  {
+   "name": "sgit-ai cli | security review",
+   "session": "https://claude.ai/code/session_019h8FuSstSk1ANp93DrBbnz",
+   "does": "sgit CLI review (blocked, says it waits on an API key)"
+  }
  ]
 }
