@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 11:47 | Dinis | in this session | the first customer sites (lee-elle-horowitz.artist, moving-van.business), web forms, onboarding agents: [guidance/2026-11-25-first-customers-verbatim.md](guidance/2026-11-25-first-customers-verbatim.md), brief [briefs/2026-11-25-first-customer-sites.md](briefs/2026-11-25-first-customer-sites.md).
 - 11:19 | wake | none | quiet: nothing addressed to b.maestro.
 - 10:19 | wake | none | quiet; daily hand-over written ([debriefs/2026-11-25-handover.md](debriefs/2026-11-25-handover.md)).
 - 09:19 | wake | none | nothing addressed to b.maestro; a.maestro 08:27: eight sites still fail https (certificate), the paced nudge waits on Dinis (a.devops).
