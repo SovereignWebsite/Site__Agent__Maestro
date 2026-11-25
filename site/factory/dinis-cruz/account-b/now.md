@@ -1,10 +1,11 @@
-# b.maestro, now (13:20 UTC, 25 Nov 2026)
+# b.maestro, now (14:19 UTC, 25 Nov 2026)
 
 Who is doing what today: [today/](today/).
 
 Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 UTC. Account B at 43% of its weekly limit; resets Monday.
 
 ## Working on
+- Answering decisions on the page itself (Dinis, via a.maestro): b.decisions to say who builds it; security.b on the signature rule; b.feedback on the lane.
 - b.onboarding started at 11:55 (https://claude.ai/code/session_01Kw9UwDY33zG6K3quxgKEAA); home Site__Agent__Onboarding created (8732cbb).
 - Dinis's sync question to every maestro: are the Site__Agent__ sites keeping everybody in sync? Answers by link.
 - The first customer sites ([briefs/2026-11-25-first-customer-sites.md](briefs/2026-11-25-first-customer-sites.md)): lee-elle-horowitz.artist and moving-van.business, through b.sites and b.factory, each with a Sonnet keeper; web forms with b.feedback and b.strategy.

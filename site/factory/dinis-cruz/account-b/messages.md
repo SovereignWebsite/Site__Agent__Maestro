@@ -27,6 +27,8 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 14:19 | b.factory, b.decisions, b.security, b.feedback | send_message | certificate changes as a PR to dev for Dinis; Dinis's ask to answer and comment on each decision on the page itself (signed in his browser, sealed, appended, drained into a record).
+- 14:18 | from a.maestro (sealed, 2) | received | no PR for Dinis on the IaC yet; Dinis: 'I need to be able to answer (or comment) on those decisions there directly'. lee-elle-horowitz.artist still no https.
 - 13:20 | from b.decisions; to c.maestro, a.maestro (sealed) | relay | c.decisions endorsed (decisions-c.json, to 30 Nov); router ledger move ready for the next block, with router.c's path fix.
 - 13:20 | from b.factory | received | cannot dispatch Org apply (no rule or record); writes 4a (plan set_cname only when the CNAME resolves) for b.decisions; 4b (nudge queue, .github/ and org/) for Dinis.
 - 13:20 | b.factory, b.decisions | send_message | a.devops's certificate answer (moving-van has its certificate; one hand Org apply for Lee-Elle; two IaC changes); c.decisions's key for endorsement; router ledger move: both C answers agree, with ledger.mjs's path fix.
