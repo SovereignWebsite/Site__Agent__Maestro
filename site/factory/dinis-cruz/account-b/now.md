@@ -53,4 +53,4 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - feedback.b: your word in its session https://claude.ai/code/session_01Kw9UwBiG9d5KHvFjdtiP69 to write its area on Site__Agent__Feedback and send its vault key copy.
 - b.conductor: push to its home (conductor.agents), in https://claude.ai/code/session_01Kw9UwFkKH5CkDmV8nhSfUD.
 
-- Site__Agent__ABP commit f2188b5 (public history) names credential host names and server ids from b.abp's census; whether to leave or rewrite history is yours (b.abp, 25 Nov).
+- Site__Agent__ABP commit f2188b5 (public history) names credential host names and server ids from b.abp's census; whether to leave or rewrite history is yours (b.abp, 25 Nov). b.security: no secret, nothing to rotate, does not recommend rewriting.
