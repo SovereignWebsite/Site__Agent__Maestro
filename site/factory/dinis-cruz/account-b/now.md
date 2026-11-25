@@ -22,7 +22,7 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - b.onboarding: allow add_repo with push for SovereignWebsite/Site__Agent__Onboarding, in its session https://claude.ai/code/session_01Kw9UwDY33zG6K3quxgKEAA (its classifier refused).
 - Public enquiry forms for the two customer sites (top of your Now list at https://decisions.agents.sovereignweb.site/asks/ ; b.decisions recommends yes, with a rate limit per lane, a privacy line, a short retention class and delivery only to the keeper and owner): your word in b.feedback's session (https://claude.ai/code/session_01Kw9UwBiG9d5KHvFjdtiP69) or via b.decisions: a second exception to 'no anonymous messages'; unsigned or not; rate limits; enquiries' personal data to the keeper only.
 - The Spotlight photos for Lee-Elle Horowitz, to her keeper: https://claude.ai/code/session_01Kw9UwDZSNqZutb2soCwE8r
-- The moving company's made-up name, proposed by its keeper: https://claude.ai/code/session_01Kw9UwF697Jhhmbn9y8bSn7
+- The moving-van keeper (https://claude.ai/code/session_01Kw9UwF697Jhhmbn9y8bSn7): allow add_repo with push for its repository once b.factory has renamed it Site__Template__Business__Moving-Van (it stays generic, a [Firm name] placeholder).
 - Yesterday's voice memo on web forms: where is it?
 - Whether kate-curtis-evans.founder may be listed on the Hub (its address carries its owner's name; the owner or Dinis says).
 - a.maestro's doorbell artifact (https://claude.ai/artifact/NKg2uWsA2EHyidpppd7tp7): share it with account B with edit access, if the event-driven wake test should include B.
