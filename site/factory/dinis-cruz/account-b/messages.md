@@ -27,7 +27,9 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
-- 12:00 | Dinis | in this session | 'yes, start b.onboarding'; check with the other maestros that the Site__Agent__ sites keep everybody in sync; do we have an outreach agent on B?
+- 11:55 | b.factory; a, c, d maestros (sealed); b.outreach | send_message, relay | Site__Agent__Onboarding requested; Dinis's sync question to every maestro (what is live, what blocks reading another's area, one change); outreach and onboarding to agree the line.
+- 11:55 | b.onboarding (https://claude.ai/code/session_01Kw9UwDY33zG6K3quxgKEAA) | create_session | started on Sonnet at Dinis's word, on Site__Agent__Maestro dev for reading; start prompt start-prompts/b.onboarding.md.
+- 11:54 | Dinis | in this session | 'yes, start b.onboarding'; check with the other maestros that the Site__Agent__ sites keep everybody in sync; do we have an outreach agent on B?
 - 11:52 | from b.strategy | received | intake workflow page https://strategy.agents.sovereignweb.site/accounts/b/intake/ (two doors: /send/ for known people, the hub's 'I want one' box for strangers); no voice memo.
 - 11:50 | b.decisions, b.factory; a.maestro (sealed) for a.devops | send_message, relay | record asked for 35ec05e (the two site requests); keeper names b.site.*; certificate priority for the two sites.
 - 11:49 | from b.decisions, b.factory | received | enquiry lanes on Dinis's Now list, with a recommendation; both site requests written (35ec05e, business group), waiting on a record.

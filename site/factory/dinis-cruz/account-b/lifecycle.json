@@ -22,6 +22,13 @@
    "at": "2026-11-23T12:20Z",
    "basis": "Dinis's word in b.maestro's session",
    "budget": "none set; no wake"
+  },
+  {
+   "name": "b.onboarding",
+   "session": "session_01Kw9UwDY33zG6K3quxgKEAA",
+   "at": "2026-11-25T11:55Z",
+   "by": "Dinis's word in b.maestro's session",
+   "model": "sonnet"
   }
  ],
  "to_start": [

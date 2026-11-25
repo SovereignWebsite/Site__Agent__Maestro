@@ -23,7 +23,7 @@ Then:
 >
 > There are some photos for Lee-Elle Horowitz from spotlight (like Emily and Grace) which I will provide to the agent for that site
 
-Then, about 12:00 UTC:
+Then, about 11:54 UTC:
 
 > yes, start b.onboarding
 >

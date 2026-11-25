@@ -1,8 +1,10 @@
-# b.maestro, now (11:48 UTC, 25 Nov 2026)
+# b.maestro, now (11:55 UTC, 25 Nov 2026)
 
 Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 UTC. Account B at 43% of its weekly limit; resets Monday.
 
 ## Working on
+- b.onboarding started at 11:55 (https://claude.ai/code/session_01Kw9UwDY33zG6K3quxgKEAA); home Site__Agent__Onboarding asked of b.factory.
+- Dinis's sync question to every maestro: are the Site__Agent__ sites keeping everybody in sync? Answers by link.
 - The first customer sites ([briefs/2026-11-25-first-customer-sites.md](briefs/2026-11-25-first-customer-sites.md)): lee-elle-horowitz.artist and moving-van.business, through b.sites and b.factory, each with a Sonnet keeper; web forms with b.feedback and b.strategy.
 - Design for the CRM tool moves to account A (Dinis, ~14:00 in crm.dev.a's session): a.crm.design and a.crm.studio started; b.design hands over its brief and rounds by link; round 2 asked of b.design.rounds.
 - The morning sync: [briefs/2026-11-24-morning-sync.md](briefs/2026-11-24-morning-sync.md). Each agent gets two repositories of its own (b.factory, in b.conductor's order). Answers come back as area links in [messages.md](messages.md).
@@ -11,7 +13,6 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 
 ## Waiting on Dinis
 - Public enquiry forms for the two customer sites (top of your Now list at https://decisions.agents.sovereignweb.site/asks/ ; b.decisions recommends yes, with a rate limit per lane, a privacy line, a short retention class and delivery only to the keeper and owner): your word in b.feedback's session (https://claude.ai/code/session_01Kw9UwBiG9d5KHvFjdtiP69) or via b.decisions: a second exception to 'no anonymous messages'; unsigned or not; rate limits; enquiries' personal data to the keeper only.
-- Onboarding agent: start b.onboarding on account B (one per account; owns web forms and requests; never builds)? Recommended: yes.
 - The Spotlight photos for Lee-Elle Horowitz, to her keeper: https://claude.ai/code/session_01Kw9UwDZSNqZutb2soCwE8r
 - The moving company's made-up name, proposed by its keeper: https://claude.ai/code/session_01Kw9UwF697Jhhmbn9y8bSn7
 - Yesterday's voice memo on web forms: where is it?
