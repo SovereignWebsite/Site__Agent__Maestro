@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 22:36 UTC: b.design handover done: session 2 (session_01Kw9UwDmfLmMC1vktxw9rF1) passed the checklist; old key retired (IaC e08a8d9); old session archived. Both test handovers complete.
 - 22:30 UTC: b.observability handover done: session 2 (session_01Kw9UwCWpbdQcxFY1GgbC2J) passed the checklist; old session archived. One snag: old key in the Factory's keys.json (retired by b.conductor, 35a0523). b.design still to say ready.
 - 22:22 UTC: Dinis said go on the handover test (guidance/2026-11-25-handover-test-verbatim.md). Asked b.design and b.observability to capture (handover.md, restart.md, keys by id) and say ready. Environment checked: nothing to add. Tracker: handovers/2026-11-25-test.md.
 - 22:18 UTC wake: nothing new (no sealed mail, no new from-a/c/d rows). Earlier (21:55): handover protocol v1 test proposed to Dinis: b.design (50%) then b.observability (70%, vault key); b.conductor 71% and b.factory 70% are sensitive and next with Dinis. Waiting on his go. Account A's moves plan puts the CRM team (a.crm.dev, a.crm.design, a.crm.studio) on B: needs his word here.
