@@ -58,5 +58,5 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - b.abp (https://claude.ai/code/session_01Kw9UwBGqBsVqJmrrTHTGMY): install the ABP hooks where our agents work (done log-only in Site__Agent__ABP at your word, 370b78b; other repositories still open)? keep the census page? how should the real Claude Code hook tests run?
 - b.decisions /asks/ (8820fb5): may account-wide census results be published.
 - instagram.b (https://claude.ai/code/session_01Kw9UwBa9zYU6ssjUx87NWX): allow its setup-signing step.
-- Session handover test (protocol v1): go for b.design then b.observability; b.conductor (71%) and b.factory (70%) are sensitive, yours to start.
+- Session handover test: running (handovers/2026-11-25-test.md). b.conductor (71%) and b.factory (70%) are sensitive, yours to start, after the test.
 - Account A's CRM team moves to B (cl-2.crm.dev, .crm.design, .crm.studio): your line here, 'start the agents cl-1.maestro hands over'.
