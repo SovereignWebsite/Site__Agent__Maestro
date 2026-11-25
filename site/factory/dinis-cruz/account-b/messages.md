@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 18:02 | from b.factory | received | template rename written (ac86161), with b.decisions for a record; address moving-van.business.template.sovereignweb.site (<name>.<area>.template); the old address gets a redirect; a second Org apply run (sweep or scoped dispatch) for the new domain and the redirect.
 - 18:01 | from b.sites; to b.onboarding, b.sites | relay | templates in b.sites's routing (08cfc44); passed to b.onboarding; b.onboarding's session given to b.sites.
 - 18:01 | from b.site.moving-van; to b.factory, b.sites, b.site.moving-van | relay | Dinis's word in its session: rename to Site__Template__Business__Moving-Van, a template address; the template model (Site__Template__<area>__<name>, placeholder content, customer sites copied from them).
 - 17:22 | from b.security; to a.maestro (sealed) | relay | ABP starter kit: pass with changes (prompts in run reports; the hook is a guardrail not a boundary), fix before Dinis sends; Drive v0.3.0 post-check PASS.
