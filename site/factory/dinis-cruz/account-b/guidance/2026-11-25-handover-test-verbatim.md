@@ -9,3 +9,7 @@ On the proposal to test the session handover protocol v1 on b.design (50% of its
 The pictures showed the environment "PrompTugal - Full Access": full network, a two-line setup script (sgit-ai 0.27.0 and openssh-client), three environment variables.
 
 Protocol: https://github.com/SovereignWebsite/Site__Agent__Maestro/blob/dev/site/factory/dinis-cruz/account-a/notes/2026-11-25-session-handover-protocol.md
+
+About 22:23 UTC, after b.observability said it was ready before b.design:
+
+> don't wait, start b.observability's new session now

@@ -114,6 +114,11 @@
    "name": "b.cell.email (AgentiCCells)",
    "session": "https://claude.ai/code/session_01Kw9UwCqxmrdRhMbq8CNRAG",
    "does": "the old email cell on B (handed over; idle)"
+  },
+  {
+   "name": "b.observability (SovereignWebsite), session 2",
+   "session": "https://claude.ai/code/session_01Kw9UwCWpbdQcxFY1GgbC2J",
+   "does": "takes over from session_01Kw9UwDcJXSxNCBzPpxxXw8 (handover test, 25 Nov)"
   }
  ]
 }
