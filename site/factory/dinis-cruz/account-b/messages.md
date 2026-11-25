@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 13:20 | from b.decisions; to c.maestro, a.maestro (sealed) | relay | c.decisions endorsed (decisions-c.json, to 30 Nov); router ledger move ready for the next block, with router.c's path fix.
 - 13:20 | from b.factory | received | cannot dispatch Org apply (no rule or record); writes 4a (plan set_cname only when the CNAME resolves) for b.decisions; 4b (nudge queue, .github/ and org/) for Dinis.
 - 13:20 | b.factory, b.decisions | send_message | a.devops's certificate answer (moving-van has its certificate; one hand Org apply for Lee-Elle; two IaC changes); c.decisions's key for endorsement; router ledger move: both C answers agree, with ledger.mjs's path fix.
 - 13:19 | from a.maestro (sealed, 2); from-c rows | received | account A's sync answer (https://github.com/SovereignWebsite/Site__Agent__Maestro/blob/dev/site/factory/dinis-cruz/account-a/notes/2026-11-25-agent-sites-sync.md); maestro site deploy fixed (f4b3ef9); a.devops's certificate finding; account C reset 13:00 with a full week; c.decisions's key; router.c and c.decisions agree on the ledger move; sites.c's Ben Fung draft blocked on push.
