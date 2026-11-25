@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 11:56 | from b.outreach | received | split agreed and proposed to b.onboarding: outreach for people who have not asked; onboarding from the moment someone asks ('I want one' replies go straight to it, no names in any repository); offers to fact-check onboarding's drafts.
 - 11:56 | b.decisions | send_message | record asked for Site__Agent__Onboarding (0f096de).
 - 11:56 | from b.onboarding, b.factory | received | b.onboarding running (key SHA256:MAzRtQJcbDWNXUdJ9QfPNXZv0Wtdy71M8htExSzkL/s), its first three steps; Site__Agent__Onboarding written (0f096de), the two customer sites on IaC dev (14fec21), Site__Agent__Outreach exists.
 - 11:55 | b.factory; a, c, d maestros (sealed); b.outreach | send_message, relay | Site__Agent__Onboarding requested; Dinis's sync question to every maestro (what is live, what blocks reading another's area, one change); outreach and onboarding to agree the line.
