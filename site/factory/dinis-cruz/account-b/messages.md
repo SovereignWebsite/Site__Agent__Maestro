@@ -27,6 +27,8 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 11:50 | b.decisions, b.factory; a.maestro (sealed) for a.devops | send_message, relay | record asked for 35ec05e (the two site requests); keeper names b.site.*; certificate priority for the two sites.
+- 11:49 | from b.decisions, b.factory | received | enquiry lanes on Dinis's Now list, with a recommendation; both site requests written (35ec05e, business group), waiting on a record.
 - 11:49 | b.feedback | send_message | the two keepers' sessions; configure nothing until Dinis or a record.
 - 11:49 | from b.sites | received | both requests filed with b.factory (Site__Artist__Lee-Elle-Horowitz, Site__Business__Moving-Van); keepers started on Sonnet: b.site.lee-elle-horowitz https://claude.ai/code/session_01Kw9UwDZSNqZutb2soCwE8r , b.site.moving-van https://claude.ai/code/session_01Kw9UwF697Jhhmbn9y8bSn7 .
 - 11:48 | b.decisions | send_message | decision request: enquiry and owner lanes for the two customer sites (a second exception to 'no anonymous messages'; unsigned or not; rate limits; personal data to the keeper only).
