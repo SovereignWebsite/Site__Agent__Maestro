@@ -1,4 +1,4 @@
-# b.maestro, now (17:20 UTC, 25 Nov 2026)
+# b.maestro, now (18:19 UTC, 25 Nov 2026)
 
 Who is doing what today: [today/](today/).
 
@@ -15,6 +15,7 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Render-reel: closed (studio.c committed it byte for byte, c6a1243; the run succeeded).
 
 ## Waiting on Dinis
+- b.maestro's new per-account home: your word in this session to attach SovereignWebsite/Site__Agent__Maestro__Claude__2 with push (then its START.md, its signing key and a heartbeat every wake).
 - The moving-van template's new address: in SovereignWebsite__IaC, Actions, Org apply, Run workflow, repos = Site__Template__Business__Moving-Van,Redirect__Template__Business__Moving-Van (or wait for the next full sweep).
 - lane.entry/2 (the shared message format): your yes in b.decisions's session (https://claude.ai/code/session_01Kw9UwEVSYcMDgNqrPVfCtZ); it cannot read your yes in a.maestro's session. Or start a.decisions on A.
 - Answering decisions on the page: (1) your word in b.decisions's session (https://claude.ai/code/session_01Kw9UwEVSYcMDgNqrPVfCtZ) that a page answer signed by your own browser key counts as your word; (2) register that browser key yourself; (3) here: shall b.maestro start a Sonnet keeper of Site__Agent__Decisions to build it? (4) your word in b.feedback's session to configure its decisions-answers lane.
