@@ -17,13 +17,13 @@ a.maestro (account-a), 25 Nov 2026, at Dinis's ask ("if we're going to make chan
   - Add blobs. An entry carries a small sealed envelope that references attachments by hash, uploaded separately (chunked or resumable, each sealed). Readers fetch blobs only when they need them.
   - Allow a per-lane quota (bytes and entries) that the lane's owner sets at configure time.
 
-## 2. Names
+## 2. Names stay on the client, by design
 
-- **The problem.** A lane is known only by a vault id (`zxehwe8t`), and an entry only by an opaque `file_id`. A reader can't tell what an entry is without decrypting it. Our drains print `"received": null`, so the server's arrival time doesn't reach us.
-- **Suggested changes:**
-  - Lane aliases: a readable slug such as `crm-requests`, scoped to its owner, resolving to the vault id. Keep the vault id canonical.
-  - Optional plaintext entry metadata, set by the writer and never trusted for security: `kind` (request, answer, vault-key, message), `sealed_to` fingerprint, `content_type`, `size`.
-  - Server-stamped `received_at` and a monotonic `seq` per lane, returned on write and on list.
+- **The rule (Dinis, 25 Nov).** The server holds no identifiers and no data about what it stores: no aliases, no readable names, no plaintext metadata. Confidential information leaks into names and labels, so the server sees ciphertext and nothing else.
+- **What that means for clients:**
+  - Names, kinds (request, answer, vault-key), recipients and references all live inside the sealed envelope, so only the reader sees them.
+  - Readable lane names belong in the published `inbox.json` and in each agent's own notes, never on the server.
+  - The double-base64 confusion we hit is fixed by a client convention (one documented envelope format), not by server-side labels.
 
 ## 3. A soft drop, so nothing is lost by accident
 
@@ -41,19 +41,18 @@ a.maestro (account-a), 25 Nov 2026, at Dinis's ask ("if we're going to make chan
 
 - **The problem.** The append token is public on purpose, so anyone can fill a lane. Today we filter after the fact: signatures checked against requesters.json, replay ids, a 24 h window and site checks, all in the keeper's code (security.b's conditions for the /send/ seed).
 - **Suggested changes:**
-  - An optional signed-append mode. The lane holds a list of allowed signing keys, or one endorsing key, such as Dinis's endorsement rule. The server verifies an ECDSA or Ed25519 signature over the payload hash before storing.
+  - An optional signed-append mode, in which the server verifies a signature over the payload before storing. Note the trade-off: the server would have to hold the allowed public keys, which is identifying data. So it stays off by default, and the keeper's own checks (requesters.json, replay ids, a 24 h window) remain the main filter.
   - Per-token and per-IP rate limits, and token rotation and revocation without recreating the lane.
 
 ## 5. Waking the reader
 
 - **The problem.** Agents poll: hourly scheduled tasks, or a 15-minute loop for f.maestro. A message waits up to an hour, and a quiet poll still costs a wake.
-- **Suggested change:** an optional webhook per lane. On append, POST `{vault_id, seq, received_at, kind}` (no content) to a URL the owner registers. Our cloud sessions already have inbound webhooks (watch_url), so an agent would wake on the message itself.
+- **Suggested change:** an optional webhook per lane. On append, POST a bare signal (no content, no metadata) to a URL the owner registers. A webhook URL is itself something stored server side, so it should be optional and owner-set. Our cloud sessions already have inbound webhooks (watch_url), so an agent would wake on the message itself.
 
 ## 6. Reading
 
 - **Suggested changes:**
   - One read call instead of list plus fetch. Fetch currently needs each entry's `inbox` token, takes at most 20 ids, and a fallback call without the token.
-  - Pagination by `seq`.
   - Per-reader read keys, so several keepers (a feedback keeper, the site's keeper, the maestro) each read with their own key and each can be revoked, instead of sharing one enum key.
 
 ## 7. Creating a lane
@@ -65,15 +64,14 @@ a.maestro (account-a), 25 Nov 2026, at Dinis's ask ("if we're going to make chan
 
 ## 8. Integrity
 
-- **Suggested change:** a server-side hash chain over a lane's entries (`seq`, `prev` hash), so a reader can prove nothing was removed or reordered. This matches crm.ios's lane.entry/1 (seq/prev chain, agreed with the Email Cell). A signed lane head lets clients compare.
+- **Suggested change:** keep the chain inside the sealed entries (crm.ios's lane.entry/1 seq/prev chain, agreed with the Email Cell), so readers can prove nothing was removed or reordered without the server holding any sequence data.
 
 ## Priorities (a.maestro's suggestion)
 
 1. Soft drop and acknowledgement (read cursor, soft delete, retention, export): the "don't lose everything" fix.
 2. Size: explicit limits, a single base64 layer, then blobs for attachments.
-3. Server `received_at` and `seq`, and optional entry `kind`.
-4. Webhook on append.
-5. One-call lane creation, with the read key sealed to the caller.
-6. Signed-append mode and per-reader keys.
+3. Webhook on append (a bare signal).
+4. One-call lane creation, with the read key sealed to the caller.
+5. Per-reader read keys; signed-append mode only if holding public keys on the server is acceptable.
 
 Not checked: SGraph's own design notes for the append API. Read them first if they exist.
