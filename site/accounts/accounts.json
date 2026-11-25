@@ -1,0 +1,139 @@
+{
+ "about": "Which account is which: the account ids of the naming model (site/factory/dinis-cruz/account-a/notes/2026-11-25-naming-model.md), what each runs and its room. Public, not confidential, and no logins or email addresses. Each account's maestro keeps its own row current; a.maestro started it.",
+ "updated": "2026-11-25T17:30Z",
+ "login_hint": "Dinis may add, per row, a hint that tells him which browser profile or login it is, in his own words, never an email address.",
+ "accounts": [
+  {
+   "id": "cl-1",
+   "was": "A",
+   "platform": "Claude",
+   "owner": "dinis",
+   "maestro": "a.maestro (becomes cl-1.maestro@dinis)",
+   "session": "https://claude.ai/code/session_018yvwtLiem1AqdA1YkKse4h",
+   "area": "/factory/dinis-cruz/account-a/agent.json",
+   "focus": "coordination, router, infra (factory), devops, CRM, Gmail, Drive and Chat tools, sites",
+   "room": "about 81% of the week used (25 Nov); resets Sun 29 Nov 20:00 UTC",
+   "status": "running"
+  },
+  {
+   "id": "cl-2",
+   "was": "B",
+   "platform": "Claude",
+   "owner": "dinis",
+   "maestro": "b.maestro",
+   "session": "https://claude.ai/code/session_01Kw9UwEbwyWMbZ7yCr81Dq9",
+   "area": "/factory/dinis-cruz/account-b/",
+   "focus": "decisions, security, feedback, factory.b, onboarding, first customer sites, reviews of A's work",
+   "room": "43% on 24 Nov ~11:15 UTC; resets Mon 00:00 UTC",
+   "status": "running"
+  },
+  {
+   "id": "cl-3",
+   "was": "C",
+   "platform": "Claude",
+   "owner": "dinis",
+   "maestro": "c.maestro",
+   "session": "https://claude.ai/code/session_01Kw9UwEYkVCthc5KiVo3bAp",
+   "area": "",
+   "focus": "router.c, c.decisions, studio.c, abp@",
+   "room": "reset Wed 25 Nov 13:00 UTC: a full week",
+   "status": "running; its session id shares account B's prefix, to confirm which account it runs on"
+  },
+  {
+   "id": "cl-4",
+   "was": "D",
+   "platform": "Claude",
+   "owner": "dinis",
+   "maestro": "d.maestro",
+   "session": "https://claude.ai/code/session_015gaHdbdtdAPC4v2AstRS8T",
+   "area": "",
+   "focus": "d.design, d.decisions, d.bulletins, d.sherpa, d.strategy",
+   "room": "about 30% (24 Nov)",
+   "status": "running"
+  },
+  {
+   "id": "cl-5",
+   "was": "E",
+   "platform": "Claude",
+   "owner": "to confirm",
+   "maestro": "none yet (the account E kit)",
+   "session": "",
+   "area": "",
+   "focus": "to confirm",
+   "room": "unknown",
+   "status": "no maestro yet"
+  },
+  {
+   "id": "cl-6",
+   "was": "F",
+   "platform": "Claude",
+   "owner": "dinis",
+   "maestro": "f.maestro",
+   "session": "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4",
+   "area": "/factory/dinis-cruz/account-f/README.md",
+   "focus": "waiting for a repository; no wakes",
+   "room": "unknown",
+   "status": "waiting"
+  },
+  {
+   "id": "cl-7",
+   "was": "",
+   "platform": "Claude",
+   "owner": "to confirm",
+   "maestro": "",
+   "session": "",
+   "area": "",
+   "focus": "to confirm: does a 7th account exist?",
+   "room": "",
+   "status": "unknown"
+  },
+  {
+   "id": "cl-8",
+   "was": "",
+   "platform": "Claude",
+   "owner": "dinis",
+   "maestro": "cl-8.maestro@dinis (to start)",
+   "session": "",
+   "area": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__8",
+   "focus": "new; router home Site__Agent__Router__Claude__8",
+   "room": "fresh",
+   "status": "ready to start (START.md)"
+  },
+  {
+   "id": "mi-1",
+   "was": "m1",
+   "platform": "Mistral",
+   "owner": "dinis",
+   "maestro": "",
+   "session": "",
+   "area": "",
+   "focus": "outside agent reached by router.a's lane; studio job 1 (video)",
+   "room": "",
+   "status": "needs a nudge in its chat to take a turn"
+  },
+  {
+   "id": "gpt-1",
+   "was": "c1",
+   "platform": "ChatGPT",
+   "owner": "dinis",
+   "maestro": "",
+   "session": "",
+   "area": "",
+   "focus": "outside agent reached by router.a's lane",
+   "room": "",
+   "status": "as needed"
+  },
+  {
+   "id": "gem-1",
+   "was": "",
+   "platform": "Gemini",
+   "owner": "",
+   "maestro": "",
+   "session": "",
+   "area": "",
+   "focus": "none yet",
+   "room": "",
+   "status": "none"
+  }
+ ]
+}
