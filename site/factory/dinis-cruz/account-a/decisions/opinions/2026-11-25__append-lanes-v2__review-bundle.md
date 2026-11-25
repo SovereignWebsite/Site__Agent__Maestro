@@ -2,7 +2,7 @@
 
 Collected by a.maestro (account-a) at Dinis Cruz's request, from the agents who use the append lanes every day. Plan reviewed: https://github.com/the-cyber-boardroom/SGraph-AI__App__Send/blob/claude/vault-inbox-append-api-jj79bn/team/roles/dev/reviews/11/25/v0.33.69__dev-plan__append-lanes-v2-implementation.md
 
-**Overall: every reviewer agrees with the plan. Phase 1 can start now.** The changes below are asked for before the phase named. Account B's reviewers (security.b, b.decisions, DevOps) have not answered yet; their views will be added here when they do.
+**Overall: every reviewer agrees with the plan. Phase 1 can start now.** The changes below are asked for before the phase named. b.decisions and security.b (account B) answered at 02:22 UTC; there is no DevOps reviewer yet (devops.b is not started), so the S3 lifecycle and CORS items wait for one.
 
 ## The reviews (one file each, in the reviewer's own repository)
 
@@ -13,6 +13,8 @@ Collected by a.maestro (account-a) at Dinis Cruz's request, from the agents who 
 | sites-pages.a (the sites' /request/ and /send/ pages) | 1, 2, 4 | https://github.com/SovereignWebsite/Site__Agent__Sites/blob/dev/site/factory/dinis-cruz/account-a/sites-pages/opinions/2026-11-25__append-lanes-v2.md |
 | a.mail.conductor and mail.dev.a (Email Cell and Gmail tool) | 3 | https://github.com/AgentiCCells/AgentiCCells__Cell__Email/blob/work/mail.conductor.a/team/mail.conductor.a/notes/opinions/2026-11-25__append-lanes-v2-phase3.md and https://github.com/SovereignWebsite/Site__Tool__Google__Gmail/blob/dev/docs/opinions/2026-11-25__append-lanes-v2-phase3.md |
 | crm.ios (the iOS CRM) | 4, envelope | https://github.com/VoiceDebrief/VoiceDebrief__App__iOS/blob/work/crm/cells/crm-ios/opinions/2026-11-25__append-lanes-v2.md |
+| b.decisions (account B) | decisions | https://github.com/SovereignWebsite/Site__Agent__Decisions/blob/dev/site/factory/dinis-cruz/account-b/opinions/2026-11-25__append-lanes-v2.json |
+| security.b (account B) | 3, 4 | https://github.com/SovereignWebsite/Site__Agent__Security/blob/dev/site/decisions/opinions/2026-11-25__append-lanes-v2.json (ab57590) |
 | router.a (outside agents: Mistral, ChatGPT) | 4 | https://github.com/SovereignWebsite/Site__Agent__Router/blob/dev/site/factory/dinis-cruz/account-a/decisions/opinions/2026-11-25__append-lanes-v2.md |
 
 ## Phase 1: defects found on live lanes (sites-pages.a, lane ttei3vjb)
@@ -77,6 +79,24 @@ Also for Phase 1:
    - sgit CLI: the sgit team, including item 16;
    - agents: a.maestro for account A until a feedback keeper exists;
    - the envelope: crm.ios with the Email Cell.
+
+## security.b's conditions (Phases 3 and 4)
+
+21. One presigned `PUT` expiry of **300 s**; the plan text still says 900 s in one place.
+22. Presigned `GET`s only under the caller's own lane prefix.
+23. Blob purge only by a **lane-scoped** read key (which needs item 6).
+24. Blobs on lanes whose token is published only when the lane is signed.
+25. No bodies, tokens, grants or presigned URLs in Lambda or S3 logs, **tested** (item 4).
+26. Phase 4 ships only after the Phase 2 fail-closed guard ("2.9").
+27. Negative test vectors as well as positive ones.
+28. A writer may use its pki.sgit.ai key only if pki signatures are domain-separated; otherwise use a per-lane writer key.
+29. **Endorsement:** yes, a grant can say who may write, if the owner's published key signs the lane key (published with the site's keys) and keepers verify that chain inside the sealed entry.
+30. security.b could not read the architect or AppSec reviews (its repository is not reachable from account B) and asks to **review the Phase 3 and Phase 4 PRs before they merge**.
+
+## b.decisions on the plan's decisions
+
+- Decisions 1, 3, 4 and 5: agree. On 3, a lane that will hold people's data gets a retention class before its first real entry.
+- Decision 2 (blobs on token lanes) is supported but marked for Dinis. b.decisions also marks two of the reviewers' items for Dinis; see its opinion file.
 
 ## Not needed
 
