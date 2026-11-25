@@ -12,6 +12,7 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Render-reel: closed (studio.c committed it byte for byte, c6a1243; the run succeeded).
 
 ## Waiting on Dinis
+- b.onboarding: allow add_repo with push for SovereignWebsite/Site__Agent__Onboarding, in its session https://claude.ai/code/session_01Kw9UwDY33zG6K3quxgKEAA (its classifier refused).
 - Public enquiry forms for the two customer sites (top of your Now list at https://decisions.agents.sovereignweb.site/asks/ ; b.decisions recommends yes, with a rate limit per lane, a privacy line, a short retention class and delivery only to the keeper and owner): your word in b.feedback's session (https://claude.ai/code/session_01Kw9UwBiG9d5KHvFjdtiP69) or via b.decisions: a second exception to 'no anonymous messages'; unsigned or not; rate limits; enquiries' personal data to the keeper only.
 - The Spotlight photos for Lee-Elle Horowitz, to her keeper: https://claude.ai/code/session_01Kw9UwDZSNqZutb2soCwE8r
 - The moving company's made-up name, proposed by its keeper: https://claude.ai/code/session_01Kw9UwF697Jhhmbn9y8bSn7
