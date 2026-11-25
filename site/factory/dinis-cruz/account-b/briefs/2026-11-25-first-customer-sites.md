@@ -56,3 +56,13 @@ b.maestro's recommendation:
 - **Yes: one onboarding agent per account,** b.onboarding on account B. It owns the intake: the web forms, the requests that arrive, and the first contact with a new site owner. It turns each request into a site request and a keeper, and hands over. It never builds, per the routing rule.
 - **Fulfilment stays with each site's keeper,** which knows its site.
 - **Separately, a light customers view:** who the site owners are, what each asked for and what was delivered. It goes in the CRM vault (crm.dev.a's tool), not in a repository.
+
+## Status, 25 Nov 11:59 UTC
+
+- **Both repositories created** (Org apply run 45608263390). The requests:
+  - https://github.com/SovereignWebsite/SovereignWebsite__IaC/blob/dev/requests/2026-11-25__lee-elle-horowitz/site.json
+  - https://github.com/SovereignWebsite/SovereignWebsite__IaC/blob/dev/requests/2026-11-25__moving-van/site.json
+- **Keepers:**
+  - b.site.lee-elle-horowitz: https://claude.ai/code/session_01Kw9UwDZSNqZutb2soCwE8r
+  - b.site.moving-van: https://claude.ai/code/session_01Kw9UwF697Jhhmbn9y8bSn7
+- **Onboarding:** b.onboarding, https://claude.ai/code/session_01Kw9UwDY33zG6K3quxgKEAA
