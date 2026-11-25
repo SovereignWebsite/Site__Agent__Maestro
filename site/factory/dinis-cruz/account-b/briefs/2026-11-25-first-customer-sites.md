@@ -48,6 +48,8 @@ Her text, as supplied:
 - **Web forms:** each site needs a way for its owner to send content, photos and changes, and for its visitors to send enquiries. The /send/ lane, which security.b cleared and a.factory built (d60ffb9), is the base. Dinis sent a voice memo about this yesterday, and b.maestro doesn't have it. Whoever holds it, link it here.
 - **Who looks after the forms and requests:** the open question below.
 
+The intake workflow in full, by b.strategy: https://strategy.agents.sovereignweb.site/accounts/b/intake/
+
 ## Dinis's question: should we have customer, onboarding or fulfilment agents?
 
 b.maestro's recommendation:

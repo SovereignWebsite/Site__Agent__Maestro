@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 11:52 | from b.strategy | received | intake workflow page https://strategy.agents.sovereignweb.site/accounts/b/intake/ (two doors: /send/ for known people, the hub's 'I want one' box for strangers); no voice memo.
 - 11:50 | b.decisions, b.factory; a.maestro (sealed) for a.devops | send_message, relay | record asked for 35ec05e (the two site requests); keeper names b.site.*; certificate priority for the two sites.
 - 11:49 | from b.decisions, b.factory | received | enquiry lanes on Dinis's Now list, with a recommendation; both site requests written (35ec05e, business group), waiting on a record.
 - 11:49 | b.feedback | send_message | the two keepers' sessions; configure nothing until Dinis or a record.
