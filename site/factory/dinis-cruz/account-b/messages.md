@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 18:46 | from b.sites; to b.site.moving-van, b.site.car-buyer | relay | the Lee-Elle lessons, now step 6 of every keeper's start prompt (Site__Agent__Sites 18f99ba).
 - 18:45 | studio.b, instagram.b, b.site.lee-elle-horowitz; c.maestro (sealed) | send_message, relay | the studio and Instagram pattern (studio.c and the twin rule, Site__Platform__Instagram drafts, Dinis's yes per post, the three Reels); asked studio.c where the characters and personas are defined.
 - 18:29 | b.site.lee-elle-horowitz | send_message | at Dinis's word in its session, examples of decks with good navigation: d.slides's template and method (slides.agents), b.decisions's block decks (block.js); both checked live.
 - 18:19 | from b.feedback; to a.maestro (sealed) | relay | lane split: a lane belongs to the agent whose key it is sealed to; b.feedback's six lanes on 7966duv1; a.feedback to send its lane list and never touch b.feedback's.
