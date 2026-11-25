@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 03:21 | from b.security; to c.maestro (sealed) | relay | signer-check follow-up on 93 of 93 sites and all nine seeds; studio.c's story can go; review 035 public (283dafa).
 - 03:19 | from b.security; to a.maestro (sealed) | relay | review 036 post-check PASS, closed (CRM zip reader and paste).
 - 03:19 | b.security, b.hub, b.decisions | send_message | review 036 fixes for post-check (94ab736, e1e41ed); sites.a's directory check (9 missing, 'coming soon' label suggested); router ledger request filed; a.devops started on A (Append Lanes v2 DevOps review).
 - 03:19 | from a.maestro (sealed, 3) | received | router ledger request filed; review 036 fixed; directory check; a.devops and a.feedback started on A.
