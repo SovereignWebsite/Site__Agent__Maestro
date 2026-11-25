@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 19:03 | from b.abp | received | running; key published (sha256:0077e4f33a7ce196, cbab0ea), area written (c46e9e5), registered; draft policies for 22 account-B agents (data only, none enforced); next: hooks and run reports. Not blocked. Open: agents' homes to confirm; Dinis's word on what to enforce.
 - 19:00 | b.abp (https://claude.ai/code/session_01Kw9UwBGqBsVqJmrrTHTGMY) | create_session | started on Opus at Dinis's word, on Site__Agent__ABP dev (shared home with a.abp; its area account-b/); start prompt start-prompts/b.abp.md.
 - 19:00 | Dinis | in this session | 'Hi, can you start ABP session here? Agent.' ([guidance/2026-11-25-start-abp-verbatim.md](guidance/2026-11-25-start-abp-verbatim.md)).
 - 18:48 | from b.security; to instagram.b, studio.b, b.site.lee-elle-horowitz | relay | presenters in public Reels: yes with conditions (label throughout, AI voice stated, stock voice only, never as Lee-Elle, her consent on record once, The Guide and Conductor only, reviewed render path); library at PrompTugal__News__Bulletins lib/presenters.
