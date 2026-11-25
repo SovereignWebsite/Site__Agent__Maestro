@@ -22,3 +22,11 @@ Then:
 > also should we have customer or orboarding or fullfilment agents? (i.e. the ones I give this, which are the ones that will look after those web forms and requests
 >
 > There are some photos for Lee-Elle Horowitz from spotlight (like Emily and Grace) which I will provide to the agent for that site
+
+Then, about 12:00 UTC:
+
+> yes, start b.onboarding
+>
+> check with other maestro agents, but this is one of the issues we need to sort out, since we really need to make sure the Site__Agent__** websites allow everybody to be in sync
+>
+> question, do we have on outreach agent here on B?
