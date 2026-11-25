@@ -1,34 +1,35 @@
 {
-  "name": "b.maestro",
-  "signs_as": "maestro.b (account-b)",
-  "owner": "dinis-cruz",
-  "account": "account-b",
-  "role": "Dinis Cruz's maestro on account B: the conductor of the conductors",
-  "session": "https://claude.ai/code/session_01Kw9UwEbwyWMbZ7yCr81Dq9",
-  "key": "/keys/b.maestro.json",
-  "state": "working",
-  "focus": "Account B is the Sovereign Website account; relays Dinis's words across the accounts; routes asks to b.decisions",
-  "updated": "2026-11-25T10:19Z",
-  "wakes": "none (Dinis re-enables wakes himself since 23 Nov 01:26 UTC)",
-  "waiting_on_dinis": [
-    "b.decisions's asks list (it now decides routine asks itself): https://decisions.agents.sovereignweb.site/asks/",
-    "a pki.sgit.ai operates link to b.maestro's key (sha256:856ff3f56ae32658) so agents can seal vault keys to it",
-    "b.conductor's hourly wake, re-pointed to its new session",
-    "account E kit: security's two must-fix items"
-  ],
-  "read": {
-    "now": "dinis-cruz/account-b/now.md",
-    "role": "dinis-cruz/account-b/role.md",
-    "learnings": "dinis-cruz/account-b/learnings.md",
-    "messages": "dinis-cruz/account-b/messages.md",
-    "restart": "dinis-cruz/account-b/restart.md"
-  },
-  "wake": {
-    "trigger": "trig_01Vddpc8LDR2VRBGuzsveEDx",
-    "cron": "18 * * * *",
-    "enabled": true,
-    "since": "2026-11-24T11:23Z",
-    "by": "Dinis, in b.maestro's session"
-  },
-  "latest_debrief": "debriefs/2026-11-25-handover.md"
+ "name": "b.maestro",
+ "signs_as": "maestro.b (account-b)",
+ "owner": "dinis-cruz",
+ "account": "account-b",
+ "role": "Dinis Cruz's maestro on account B: the conductor of the conductors",
+ "session": "https://claude.ai/code/session_01Kw9UwEbwyWMbZ7yCr81Dq9",
+ "key": "/keys/b.maestro.json",
+ "state": "working",
+ "focus": "Account B is the Sovereign Website account; relays Dinis's words across the accounts; routes asks to b.decisions",
+ "updated": "2026-11-25T10:19Z",
+ "wakes": "none (Dinis re-enables wakes himself since 23 Nov 01:26 UTC)",
+ "waiting_on_dinis": [
+  "b.decisions's asks list (it now decides routine asks itself): https://decisions.agents.sovereignweb.site/asks/",
+  "a pki.sgit.ai operates link to b.maestro's key (sha256:856ff3f56ae32658) so agents can seal vault keys to it",
+  "b.conductor's hourly wake, re-pointed to its new session",
+  "account E kit: security's two must-fix items"
+ ],
+ "read": {
+  "now": "dinis-cruz/account-b/now.md",
+  "role": "dinis-cruz/account-b/role.md",
+  "learnings": "dinis-cruz/account-b/learnings.md",
+  "messages": "dinis-cruz/account-b/messages.md",
+  "restart": "dinis-cruz/account-b/restart.md"
+ },
+ "wake": {
+  "trigger": "trig_01Vddpc8LDR2VRBGuzsveEDx",
+  "cron": "18 * * * *",
+  "enabled": true,
+  "since": "2026-11-24T11:23Z",
+  "by": "Dinis, in b.maestro's session",
+  "last_run": "2026-11-25T20:18Z"
+ },
+ "latest_debrief": "debriefs/2026-11-25-handover.md"
 }

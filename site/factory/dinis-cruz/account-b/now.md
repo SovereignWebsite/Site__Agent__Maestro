@@ -55,3 +55,6 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 
 - Site__Agent__ABP commit f2188b5 (public history) names credential host names and server ids from b.abp's census; whether to leave or rewrite history is yours (b.abp, 25 Nov). b.security: no secret, nothing to rotate, does not recommend rewriting.
 - Which account does design from now on (b.abp relayed your note); b.design writes its hand-over once named.
+- b.abp (https://claude.ai/code/session_01Kw9UwBGqBsVqJmrrTHTGMY): install the ABP hooks where our agents work? keep the census page? how should the real Claude Code hook tests run?
+- b.decisions /asks/ (8820fb5): may account-wide census results be published.
+- instagram.b (https://claude.ai/code/session_01Kw9UwBa9zYU6ssjUx87NWX): allow its setup-signing step.
