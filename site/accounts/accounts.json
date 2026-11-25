@@ -1,6 +1,6 @@
 {
  "about": "Which account is which: the account ids of the naming model (site/factory/dinis-cruz/account-a/notes/2026-11-25-naming-model.md), what each runs and its room. Public, not confidential, and no logins or email addresses. Each account's maestro keeps its own row current; a.maestro started it.",
- "updated": "2026-11-25T17:30Z",
+ "updated": "2026-11-25T18:50Z",
  "login_hint": "Dinis may add, per row, a hint that tells him which browser profile or login it is, in his own words, never an email address.",
  "accounts": [
   {
@@ -55,13 +55,13 @@
    "id": "cl-5",
    "was": "E",
    "platform": "Claude",
-   "owner": "to confirm",
-   "maestro": "none yet (the account E kit)",
+   "owner": "angelo",
+   "maestro": "cl-5.maestro@angelo (to start)",
    "session": "",
    "area": "",
-   "focus": "to confirm",
+   "focus": "Angelo's account; homes Site__Agent__Maestro__Claude__5 and Router__Claude__5 requested",
    "room": "unknown",
-   "status": "no maestro yet"
+   "status": "homes requested"
   },
   {
    "id": "cl-6",
@@ -77,15 +77,15 @@
   },
   {
    "id": "cl-7",
-   "was": "",
+   "was": "G",
    "platform": "Claude",
-   "owner": "to confirm",
-   "maestro": "",
+   "owner": "a team member",
+   "maestro": "none",
    "session": "",
    "area": "",
-   "focus": "to confirm: does a 7th account exist?",
+   "focus": "not part of the swarm for now (Dinis, 25 Nov)",
    "room": "",
-   "status": "unknown"
+   "status": "not in the swarm"
   },
   {
    "id": "cl-8",
