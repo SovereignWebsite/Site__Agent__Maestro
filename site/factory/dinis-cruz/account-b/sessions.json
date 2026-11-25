@@ -119,6 +119,11 @@
    "name": "b.observability (SovereignWebsite), session 2",
    "session": "https://claude.ai/code/session_01Kw9UwCWpbdQcxFY1GgbC2J",
    "does": "takes over from session_01Kw9UwDcJXSxNCBzPpxxXw8 (handover test, 25 Nov)"
+  },
+  {
+   "name": "b.design (SovereignWebsite), session 2",
+   "session": "https://claude.ai/code/session_01Kw9UwDmfLmMC1vktxw9rF1",
+   "does": "takes over from session_01Kw9UwCvZbGkWo3D9DEpRMv (handover test, 25 Nov)"
   }
  ]
 }
