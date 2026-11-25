@@ -14,6 +14,7 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Render-reel: closed (studio.c committed it byte for byte, c6a1243; the run succeeded).
 
 ## Waiting on Dinis
+- Lee-Elle's certificate: in SovereignWebsite__IaC, Actions, Org apply, Run workflow, repos = Site__Artist__Lee-Elle-Horowitz, nudge_missing_certificates = true (b.factory cannot start a workflow).
 - Which account A work moves to account C (reset at 13:00 with a full week) and to B (43% on 24 Nov): new keepers, reviews, the AWS team restart.
 - Org apply's schedule change for certificates (a.devops): merge the plan-only input 737cd3a first.
 - b.onboarding: allow add_repo with push for SovereignWebsite/Site__Agent__Onboarding, in its session https://claude.ai/code/session_01Kw9UwDY33zG6K3quxgKEAA (its classifier refused).
