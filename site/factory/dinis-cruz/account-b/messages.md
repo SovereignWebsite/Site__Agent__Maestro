@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 21:19 UTC wake: one sealed from a.maestro (20:24): step 0 of the naming model, hook role parsing for the cl-N prefix; relayed to b.abp (follow-up closed). No new from-a/c/d rows for me. Account A runs no census until Dinis pastes it with him present.
 - 20:57 UTC: from b.abp: at Dinis's word, ABP hooks installed log-only in Site__Agent__ABP (370b78b); whoAmI regex bug in the kit's abp-hook.mjs (greedy capture, every agent unidentified; fix lazy). Both mailed to a.maestro for a.abp and the kit keepers.
 - 20:41 UTC: b.security passed c7577ef as a draft guardrail with three notes; b.abp's round 2 (70ab741) answers them and needs a tools/sign.sh wrapper not yet written. Mailed a.maestro to use 70ab741.
 - 20:39 UTC: from b.abp, two tested policies.template.json lines covering our key stores (Site__Agent__ABP lab/2026-11-25-fixes-1-2.md, c7577ef); mailed to a.maestro for the kit keepers, to wait for b.security's post-check (kit hashes change).
