@@ -7,12 +7,13 @@
   "session": "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4",
   "key": "/keys/f.maestro.json",
   "state": "working",
-  "focus": "Wiring the PrompTugal team, the studio and Instagram back up on account F: findings in notes/2026-11-25-promptugal-studio-instagram.md",
-  "updated": "2026-11-25T23:00Z",
+  "focus": "PrompTugal restarts on account F (Dinis, 25 Nov): plan in notes/2026-11-25-promptugal-plan.md",
+  "updated": "2026-11-25T23:30Z",
   "wakes": "none: no scheduled task for f.maestro",
   "waiting_on_dinis": [
-    "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4 - attach Site__Agent__Maestro__Claude__6 with push (this session's permission check refused it)",
-    "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4 - the repositories for F: PrompTugal__News__Website, Site__Agent__Studio, Site__Agent__Instagram"
+    "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4 - push access for account F to PrompTugal/PrompTugal__News__Website",
+    "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4 - create PrompTugal__IaC and PrompTugal__Agent__Infrastructure, and the GitHub App for the PrompTugal organisation",
+    "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4 - attach Site__Agent__Maestro__Claude__6 with push"
   ],
   "read": {
     "now": "dinis-cruz/account-f/now.md",
@@ -51,6 +52,10 @@
     {
       "at": "2026-11-25T23:00Z",
       "event": "read account A's naming model and handover protocol; mapped the PrompTugal, studio and Instagram agents"
+    },
+    {
+      "at": "2026-11-25T23:30Z",
+      "event": "PrompTugal restarts on F, PrompTugal__Agent__{name} homes, PrompTugal__IaC: recorded, planned, two start prompts written"
     }
   ],
   "alias": "cl-6.maestro@dinis (naming model, 25 Nov; applied step by step)",
