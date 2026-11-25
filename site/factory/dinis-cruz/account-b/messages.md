@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 18:47 | from b.factory | received | Site__Agent__Studio's abp.json has one 'keeper' role (site/**); nothing enforces per-agent paths in site repositories; the twin limit is an agreed rule; writing it down is a site/policy/** change by studio.c with Dinis's yes; enforcing it would be a seed change for every site, through b.decisions.
 - 18:47 | studio.b, b.factory; c.maestro (sealed) | send_message, relay | studio.b's home is Site__Agent__Studio site/accounts/b/** (push waits on Dinis); b.factory to check the policy; studio.c asked for the personas file and a ruling on presenters in public.
 - 18:46 | from instagram.b; to b.security | relay | instagram.b uses The Guide and Conductor; its key setup was refused (needs Dinis in its session); the presenters library is 'preview for the lab' until security@ reviews: asked b.security if public posts may use them.
 - 18:46 | from b.sites; to b.site.moving-van, b.site.car-buyer | relay | the Lee-Elle lessons, now step 6 of every keeper's start prompt (Site__Agent__Sites 18f99ba).
