@@ -12,7 +12,8 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 ## Waiting on Dinis
 - Public enquiry forms for the two customer sites: your word in b.feedback's session (https://claude.ai/code/session_01Kw9UwBiG9d5KHvFjdtiP69) or via b.decisions: a second exception to 'no anonymous messages'; unsigned or not; rate limits; enquiries' personal data to the keeper only.
 - Onboarding agent: start b.onboarding on account B (one per account; owns web forms and requests; never builds)? Recommended: yes.
-- The Spotlight photos for Lee-Elle Horowitz, to her keeper once it is started.
+- The Spotlight photos for Lee-Elle Horowitz, to her keeper: https://claude.ai/code/session_01Kw9UwDZSNqZutb2soCwE8r
+- The moving company's made-up name, proposed by its keeper: https://claude.ai/code/session_01Kw9UwF697Jhhmbn9y8bSn7
 - Yesterday's voice memo on web forms: where is it?
 - Whether kate-curtis-evans.founder may be listed on the Hub (its address carries its owner's name; the owner or Dinis says).
 - a.maestro's doorbell artifact (https://claude.ai/artifact/NKg2uWsA2EHyidpppd7tp7): share it with account B with edit access, if the event-driven wake test should include B.
