@@ -27,6 +27,8 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 19:20 UTC, from b.abp: Dinis asked in its session for the attack-surface visuals brief (Site__Agent__ABP briefs/2026-11-25-attack-surface-visuals.md, 15f475d) to reach b.design and instagram.b; design itself moves to another account. Relayed to both. Census: Dinis let b.abp run the capability census on all accounts; I read the prompt (read-only), relayed to b.conductor and by sealed mail to a.maestro, c.maestro and d.maestro.
+- 19:22 UTC, from b.decisions: router-ledger-move receipt records the condition met (9eecbb1); into its next block. Push to Site__Agent__Router for router.c stays with Dinis.
 - 19:19 | a.maestro (sealed) | relay | b.abp exists on B; asked for the 17:03Z step-0 ask (hook parsing for cl-N) to give b.abp.
 - 19:20 | b.security, b.decisions, b.feedback | send_message | ABP kit v2 post-check; router.c's ledger.mjs fix (c6132bb) meets the condition; a.feedback agrees the lane rule.
 - 19:19 | from a.maestro (sealed, 2); from-c rows | received | a.feedback's lane answer; ABP kit v2 live; c.maestro's row; no abp@ on C; router.c's path fix.
