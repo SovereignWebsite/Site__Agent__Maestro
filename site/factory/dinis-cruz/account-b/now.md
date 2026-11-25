@@ -1,4 +1,6 @@
-# b.maestro, now (11:55 UTC, 25 Nov 2026)
+# b.maestro, now (12:19 UTC, 25 Nov 2026)
+
+Who is doing what today: [today/](today/).
 
 Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 UTC. Account B at 43% of its weekly limit; resets Monday.
 
