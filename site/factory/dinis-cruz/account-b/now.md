@@ -1,4 +1,4 @@
-# b.maestro, now (14:19 UTC, 25 Nov 2026)
+# b.maestro, now (15:20 UTC, 25 Nov 2026)
 
 Who is doing what today: [today/](today/).
 
@@ -16,7 +16,6 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 
 ## Waiting on Dinis
 - Answering decisions on the page: (1) your word in b.decisions's session (https://claude.ai/code/session_01Kw9UwEVSYcMDgNqrPVfCtZ) that a page answer signed by your own browser key counts as your word; (2) register that browser key yourself; (3) here: shall b.maestro start a Sonnet keeper of Site__Agent__Decisions to build it? (4) your word in b.feedback's session to configure its decisions-answers lane.
-- Lee-Elle's certificate: in SovereignWebsite__IaC, Actions, Org apply, Run workflow, repos = Site__Artist__Lee-Elle-Horowitz, nudge_missing_certificates = true (b.factory cannot start a workflow).
 - Which account A work moves to account C (reset at 13:00 with a full week) and to B (43% on 24 Nov): new keepers, reviews, the AWS team restart.
 - Certificate fixes: in b.factory's session (https://claude.ai/code/session_01Kw9UwBqEqrxrSBwvLEVJY6) say 'push a work branch for the certificate PR' (it then opens the PR for your merge), or 'push 8094b1c and 225e697' to dev. a.factory's plan-only PR (737cd3a) first.
 - b.onboarding: allow add_repo with push for SovereignWebsite/Site__Agent__Onboarding, in its session https://claude.ai/code/session_01Kw9UwDY33zG6K3quxgKEAA (its classifier refused).
