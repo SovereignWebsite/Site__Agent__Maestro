@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 18:47 | studio.b, b.factory; c.maestro (sealed) | send_message, relay | studio.b's home is Site__Agent__Studio site/accounts/b/** (push waits on Dinis); b.factory to check the policy; studio.c asked for the personas file and a ruling on presenters in public.
 - 18:46 | from instagram.b; to b.security | relay | instagram.b uses The Guide and Conductor; its key setup was refused (needs Dinis in its session); the presenters library is 'preview for the lab' until security@ reviews: asked b.security if public posts may use them.
 - 18:46 | from b.sites; to b.site.moving-van, b.site.car-buyer | relay | the Lee-Elle lessons, now step 6 of every keeper's start prompt (Site__Agent__Sites 18f99ba).
 - 18:45 | studio.b, instagram.b, b.site.lee-elle-horowitz; c.maestro (sealed) | send_message, relay | the studio and Instagram pattern (studio.c and the twin rule, Site__Platform__Instagram drafts, Dinis's yes per post, the three Reels); asked studio.c where the characters and personas are defined.

@@ -15,6 +15,7 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Render-reel: closed (studio.c committed it byte for byte, c6a1243; the run succeeded).
 
 ## Waiting on Dinis
+- studio.b (https://claude.ai/code/session_01Kw9UwBRfW5naDzfcr53Hji): your word in its session to attach SovereignWebsite/Site__Agent__Studio with push (its folder site/accounts/b/**).
 - instagram.b (https://claude.ai/code/session_01Kw9UwBa9zYU6ssjUx87NWX): your word in its session to run tools/setup-signing.sh instagram.b in Site__Agent__Instagram (its classifier refused), so it can make its key and first commit.
 - b.maestro's new per-account home: your word in this session to attach SovereignWebsite/Site__Agent__Maestro__Claude__2 with push (then its START.md, its signing key and a heartbeat every wake).
 - The moving-van template's new address: in SovereignWebsite__IaC, Actions, Org apply, Run workflow, repos = Site__Template__Business__Moving-Van,Redirect__Template__Business__Moving-Van (or wait for the next full sweep).
