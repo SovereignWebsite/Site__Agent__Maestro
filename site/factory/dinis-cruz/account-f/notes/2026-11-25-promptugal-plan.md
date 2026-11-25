@@ -30,7 +30,6 @@ From board/schedule.json's roles. Workers (dev.search, dev.pages, the place agen
 | PrompTugal__Agent__Accountant | the accountant |
 | PrompTugal__Agent__Outreach | outreach and investors |
 | PrompTugal__Agent__Places | the places team (a place agent per municipality as workers) |
-| PrompTugal__Agent__Studio | the videos (with PrompTugal__News__Videos as its work) and the Instagram drafts |
 
 Sherpa and synthetic (reviewers) run as sub-agents of the conductor until they need homes.
 
@@ -38,5 +37,5 @@ Sherpa and synthetic (reviewers) run as sub-agents of the conductor until they n
 
 1. The GitHub App and AWS role for PrompTugal__IaC: a new App on the PrompTugal organisation, or SovereignWebsite__IaC's App extended to it?
 2. The table above: one home per role as listed, or one per old role (about 25)?
-3. Does the PrompTugal studio replace a cl-6.studio on the Sovereign Website side, or are there two (one per project)?
+3. Answered 25 Nov: the videos on F are for the Sovereign Website, not PrompTugal ([../decisions/2026-11-25-videos-on-f-are-sovereign-website.md](../decisions/2026-11-25-videos-on-f-are-sovereign-website.md)).
 4. Models: Opus for infra and conductor, Sonnet for the rest (as the agent lifecycle record has it)?

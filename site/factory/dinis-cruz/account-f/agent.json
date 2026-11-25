@@ -8,12 +8,12 @@
   "key": "/keys/f.maestro.json",
   "state": "working",
   "focus": "PrompTugal restarts on account F (Dinis, 25 Nov): plan in notes/2026-11-25-promptugal-plan.md",
-  "updated": "2026-11-25T23:30Z",
+  "updated": "2026-11-25T23:55Z",
   "wakes": "none: no scheduled task for f.maestro",
   "waiting_on_dinis": [
     "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4 - push access for account F to PrompTugal/PrompTugal__News__Website",
     "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4 - create PrompTugal__IaC and PrompTugal__Agent__Infrastructure, and the GitHub App for the PrompTugal organisation",
-    "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4 - attach Site__Agent__Maestro__Claude__6 with push"
+    "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4 - Site__Agent__Studio and Site__Agent__Instagram attached to account F, for the Sovereign Website videos"
   ],
   "read": {
     "now": "dinis-cruz/account-f/now.md",
@@ -56,8 +56,13 @@
     {
       "at": "2026-11-25T23:30Z",
       "event": "PrompTugal restarts on F, PrompTugal__Agent__{name} homes, PrompTugal__IaC: recorded, planned, two start prompts written"
+    },
+    {
+      "at": "2026-11-25T23:55Z",
+      "event": "Site__Agent__Maestro__Claude__6 attached; key published there as cl-6.maestro@dinis; videos on F are for the Sovereign Website"
     }
   ],
   "alias": "cl-6.maestro@dinis (naming model, 25 Nov; applied step by step)",
-  "home": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__6 (exists; not yet attached to this session)"
+  "home": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__6 (exists; not yet attached to this session)",
+  "current_home": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/tree/dev/site/factory/dinis-cruz/account-f (cl-6.maestro@dinis; this area keeps the history)"
 }
