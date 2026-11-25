@@ -39,3 +39,5 @@ Each lesson changes how b.maestro works. They come from practice, from Dinis's c
 - 24 Nov, 11:06 UTC: I put guessed times into a run of messages (11:08 to 11:11, really 11:04 to 11:05). Run date -u right before each batch of sends and use that time.
 - 24 Nov, 14:29 UTC: a voice-typed name is a guess until checked against the record. 'risk mandate -Angela' was riskmandate-angelo in the account E kit all along. Search the board for a name before passing it on as a login.
 - 25 Nov, 12:02 UTC: every new agent hits the same wall: add_repo with push to its own fresh home is refused by its session's classifier, so it needs Dinis's word in its session. Say so in the start prompt, and tell Dinis at the start, not when it fails.
+
+- Session handover (25 Nov): ask the conductor to retire the old key entry in the Factory's team/keys.json as soon as the new key is published, or the new session's commits will not deploy. When I hold a vault file, re-seal from it only what the old session held.

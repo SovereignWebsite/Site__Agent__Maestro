@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 22:30 UTC: b.observability handover done: session 2 (session_01Kw9UwCWpbdQcxFY1GgbC2J) passed the checklist; old session archived. One snag: old key in the Factory's keys.json (retired by b.conductor, 35a0523). b.design still to say ready.
 - 22:22 UTC: Dinis said go on the handover test (guidance/2026-11-25-handover-test-verbatim.md). Asked b.design and b.observability to capture (handover.md, restart.md, keys by id) and say ready. Environment checked: nothing to add. Tracker: handovers/2026-11-25-test.md.
 - 22:18 UTC wake: nothing new (no sealed mail, no new from-a/c/d rows). Earlier (21:55): handover protocol v1 test proposed to Dinis: b.design (50%) then b.observability (70%, vault key); b.conductor 71% and b.factory 70% are sensitive and next with Dinis. Waiting on his go. Account A's moves plan puts the CRM team (a.crm.dev, a.crm.design, a.crm.studio) on B: needs his word here.
 - 21:21 UTC: b.abp: step 0 on dev in Site__Agent__ABP's hook (87376b5); catch: setup-signing.sh turns dots into hyphens in key labels, so renamed agents need ABP_ROLE or a label change; same change needed in the kit hook, PrompTugal board/abp, IaC checks (their keepers). Mailed a.maestro for a.factory.
