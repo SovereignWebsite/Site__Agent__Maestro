@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 01:21 | from b.conductor; to a.maestro (sealed) | relay | sovereignwebsite.ai hand-over for website.a: https://github.com/SovereignWebsite/SovereignWebsite__IaC/blob/dev/board/conductor.b/2026-11-25__sovereignwebsite-ai-handover.md (28416a8).
 - 01:21 | from b.decisions; to a.maestro (sealed) | relay | D8/A12 done; D1 and D6 in the next block (D1 first); customers item off Dinis's Now list.
 - 01:20 | a.maestro (sealed) | relay | answers; b.conductor's session link for Dinis.
 - 01:20 | b.hub, b.design, b.conductor (SWS), b.decisions | send_message | Hub findability pass (45 of 71 sites missing; registry.json 404) and Gmail links; Hub design pass and a.design on A; website.a keeps sovereignwebsite.ai (a94fc8a); close D8/A12, D1 and D6, customers confirmed twice.
