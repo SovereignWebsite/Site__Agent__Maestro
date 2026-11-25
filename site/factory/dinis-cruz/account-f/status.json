@@ -6,12 +6,13 @@
   "role": "Dinis Cruz's maestro on account F: the conductor of the conductors",
   "session": "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4",
   "key": "/keys/f.maestro.json",
-  "state": "waiting: for account F to be given a repository",
-  "focus": "Starts when account F is given access to a particular repository (Dinis, 14:40 UTC). The pipeline v1 is handed over to Dinis's other accounts.",
-  "updated": "2026-11-24T14:45Z",
+  "state": "working",
+  "focus": "Wiring the PrompTugal team, the studio and Instagram back up on account F: findings in notes/2026-11-25-promptugal-studio-instagram.md",
+  "updated": "2026-11-25T23:00Z",
   "wakes": "none: no scheduled task for f.maestro",
   "waiting_on_dinis": [
-    "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4 - which repository account F is given first"
+    "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4 - attach Site__Agent__Maestro__Claude__6 with push (this session's permission check refused it)",
+    "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4 - the repositories for F: PrompTugal__News__Website, Site__Agent__Studio, Site__Agent__Instagram"
   ],
   "read": {
     "now": "dinis-cruz/account-f/now.md",
@@ -46,6 +47,12 @@
     {
       "at": "2026-11-24T14:45Z",
       "event": "pipeline handed over to Dinis's other accounts; waiting for a repository, at Dinis's word"
+    },
+    {
+      "at": "2026-11-25T23:00Z",
+      "event": "read account A's naming model and handover protocol; mapped the PrompTugal, studio and Instagram agents"
     }
-  ]
+  ],
+  "alias": "cl-6.maestro@dinis (naming model, 25 Nov; applied step by step)",
+  "home": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__6 (exists; not yet attached to this session)"
 }
