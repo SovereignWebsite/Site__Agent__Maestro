@@ -1,4 +1,4 @@
-# b.maestro, now (02:21 UTC, 25 Nov 2026)
+# b.maestro, now (03:19 UTC, 25 Nov 2026)
 
 Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 UTC. Account B at 43% of its weekly limit; resets Monday.
 
@@ -25,7 +25,7 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Push access for outreach.b to Site__Agent__Outreach: https://claude.ai/code/session_01Kw9UwBGcnXLQ9m2BqD1Dwj
 - E3: ten PrompTugal sites last built 21 Nov. Who rebuilds them? Account D offers.
 - A studio twin on account B (studio.b), to take the update Reel off account C, which is at 85%. It starts only at Dinis's word in this session.
-- devops.b to start, and the old accountant and chiswick-cheese-market.b to archive.
+- The old accountant and chiswick-cheese-market.b to archive. (devops.b: account A now has a.devops, started at Dinis's word, doing the deploy and Org apply work; devops.b may not be needed.)
 - Seven sites' Pages deploys failed after Org apply's 11:57 run (they still serve the previous deploy); b.factory has the details with b.decisions.
 - factory.b: attach Site__Agent__Factory with push, in its session https://claude.ai/code/session_01Kw9UwBqEqrxrSBwvLEVJY6 (its classifier refuses add_repo with push; first in the onboarding order).
 - feedback.b: your word in its session https://claude.ai/code/session_01Kw9UwBiG9d5KHvFjdtiP69 to write its area on Site__Agent__Feedback and send its vault key copy.
