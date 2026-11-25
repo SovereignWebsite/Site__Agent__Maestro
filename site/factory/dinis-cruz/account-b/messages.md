@@ -27,6 +27,8 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 11:56 | b.decisions | send_message | record asked for Site__Agent__Onboarding (0f096de).
+- 11:56 | from b.onboarding, b.factory | received | b.onboarding running (key SHA256:MAzRtQJcbDWNXUdJ9QfPNXZv0Wtdy71M8htExSzkL/s), its first three steps; Site__Agent__Onboarding written (0f096de), the two customer sites on IaC dev (14fec21), Site__Agent__Outreach exists.
 - 11:55 | b.factory; a, c, d maestros (sealed); b.outreach | send_message, relay | Site__Agent__Onboarding requested; Dinis's sync question to every maestro (what is live, what blocks reading another's area, one change); outreach and onboarding to agree the line.
 - 11:55 | b.onboarding (https://claude.ai/code/session_01Kw9UwDY33zG6K3quxgKEAA) | create_session | started on Sonnet at Dinis's word, on Site__Agent__Maestro dev for reading; start prompt start-prompts/b.onboarding.md.
 - 11:54 | Dinis | in this session | 'yes, start b.onboarding'; check with the other maestros that the Site__Agent__ sites keep everybody in sync; do we have an outreach agent on B?
