@@ -10,6 +10,7 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Render-reel: closed (studio.c committed it byte for byte, c6a1243; the run succeeded).
 
 ## Waiting on Dinis
+- Public enquiry forms for the two customer sites: your word in b.feedback's session (https://claude.ai/code/session_01Kw9UwBiG9d5KHvFjdtiP69) or via b.decisions: a second exception to 'no anonymous messages'; unsigned or not; rate limits; enquiries' personal data to the keeper only.
 - Onboarding agent: start b.onboarding on account B (one per account; owns web forms and requests; never builds)? Recommended: yes.
 - The Spotlight photos for Lee-Elle Horowitz, to her keeper once it is started.
 - Yesterday's voice memo on web forms: where is it?

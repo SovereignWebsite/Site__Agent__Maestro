@@ -27,6 +27,8 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 25 Nov 2026
 
+- 11:48 | b.decisions | send_message | decision request: enquiry and owner lanes for the two customer sites (a second exception to 'no anonymous messages'; unsigned or not; rate limits; personal data to the keeper only).
+- 11:48 | from b.feedback | received | can give two lanes per site on vault 7966duv1, a token-free /send/ pack and hourly drains; needs Dinis's word in its session or a b.decisions record for the public enquiry form, the keepers' ids and keys, security.b and design.b reviews; no voice memo; vault key copy waits on Dinis in its session.
 - 11:48 | b.sites, b.factory, b.strategy, b.feedback | send_message | the two customer sites (file requests, start Sonnet keepers b.site.lee-elle-horowitz and b.site.moving-van); the business group and certificate priority; the web-forms intake workflow and the onboarding-agent question; forms for the two sites.
 - 11:47 | Dinis | in this session | the first customer sites (lee-elle-horowitz.artist, moving-van.business), web forms, onboarding agents: [guidance/2026-11-25-first-customers-verbatim.md](guidance/2026-11-25-first-customers-verbatim.md), brief [briefs/2026-11-25-first-customer-sites.md](briefs/2026-11-25-first-customer-sites.md).
 - 11:19 | wake | none | quiet: nothing addressed to b.maestro.
