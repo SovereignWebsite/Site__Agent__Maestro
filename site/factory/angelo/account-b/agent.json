@@ -1,0 +1,50 @@
+{
+  "name": "g.maestro",
+  "signs_as": "g.maestro@account-b.angelo",
+  "owner": "angelo",
+  "account": "account-b",
+  "role": "angelo's maestro on account B: the conductor of the conductors",
+  "session": "https://claude.ai/code/session_01Xp7gj2Ti4J71Cadtg2oxxh",
+  "key": "/keys/g.maestro.json",
+  "state": "set up: waiting on angelo's answers and his word for dev",
+  "focus": "Area, key and pipeline v1 (70 rows) written. Next, at angelo's go: the Factory request for riskmandate-angelo's write access to Site__Tool__CRM and the Gmail tool's repository.",
+  "updated": "2026-11-25T16:50Z",
+  "wakes": "none: no scheduled task for g.maestro",
+  "conductors": [
+    {
+      "name": "conductor.b@PrompTugal.angelo",
+      "session": "https://claude.ai/code/session_01Xp7gj4Wfi7egysEC47fuzU",
+      "state": "idle"
+    }
+  ],
+  "waiting_on_angelo": [
+    "https://claude.ai/code/session_01Xp7gj2Ti4J71Cadtg2oxxh - the questions in questions.md, and the word to merge into dev"
+  ],
+  "read": {
+    "now": "angelo/account-b/now.md",
+    "role": "angelo/account-b/role.md",
+    "learnings": "angelo/account-b/learnings.md",
+    "messages": "angelo/account-b/messages.md",
+    "restart": "angelo/account-b/restart.md",
+    "pipeline": "angelo/account-b/pipeline/README.md",
+    "questions": "angelo/account-b/questions.md"
+  },
+  "timeline": [
+    {
+      "at": "2026-11-25T16:32Z",
+      "event": "session started by angelo: join the team as g.maestro@account-b.angelo"
+    },
+    {
+      "at": "2026-11-25T16:33Z",
+      "event": "key published at /keys/g.maestro.json (ff153f6)"
+    },
+    {
+      "at": "2026-11-25T16:40Z",
+      "event": "account read: sessions and scheduled tasks, status and names only"
+    },
+    {
+      "at": "2026-11-25T16:50Z",
+      "event": "area and pipeline v1 written at /factory/angelo/account-b/"
+    }
+  ]
+}
