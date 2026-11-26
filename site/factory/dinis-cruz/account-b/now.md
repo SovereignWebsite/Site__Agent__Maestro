@@ -72,3 +72,4 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - b.social's questions: channels beyond Instagram and LinkedIn, posting frequency, approval day, who puts posts into Buffer.
 - In suno.b's session (https://claude.ai/code/session_01Kw9UwAwZ5JHkJXJQh9Ym17): yes to episode 1 as a public Suno playlist (nine liked songs and eleven labelled synthetic presenter clips), and whether to spend download credits for a single file for Spotify.
 - Starting the keepers b.site.buffer, b.site.linkedin, b.site.self-publishing (homes exist, IaC c1ae026), and on which account (b.sites is asking in its session).
+- In b.factory's session: "push 1af7538" (the refresh gate), which unblocks the 'navigate before you ask' rule for every agent; and merging its sessions.json freshness check when drafted.

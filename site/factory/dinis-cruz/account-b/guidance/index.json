@@ -186,7 +186,18 @@
     "b.feedback",
     "b.accountant"
    ],
-   "work": []
+   "work": [
+    {
+     "by": "suno.b",
+     "work": "songs show episode 1 (v1, public Suno playlist, 20 items, about 33 min)",
+     "where": "suno.com/playlist/b2d2b845-75cc-4483-bf3d-654d3e12d595; Site__Platform__Suno 76ba4d8"
+    },
+    {
+     "by": "b.stories",
+     "work": "second story 0001",
+     "where": "artifact QnnBfWUWqekupE7VWMy4yH"
+    }
+   ]
   }
  ]
 }
