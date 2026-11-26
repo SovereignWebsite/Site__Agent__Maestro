@@ -28,3 +28,9 @@ Dinis's own website: he wants to understand it, make requests and changes, propo
 - **Rollout:** Dinis's own site first (a signed lane for his person key), then each team member's site, then public lanes.
 
 **Needs Dinis:** (1) how checkers open messages: a sealed copy of the inbox key per checker, or re-sealing each message; and which accounts check; (2) one agent or account holding six hourly tasks; (3) claim files committed in each site's repository; (4) who may start keepers, and the cap N; (5) the publish notice and consent (per message, or only with the sender's yes on the answer), since b.feedback's rule is never to publish a visitor's message; (6) where the CRM lives, who reads it, how long it is kept; (7) which is his site, its keeper, and his person key for the lane.
+
+**Four more for Dinis, where his words go further than v0 (b.feedback, 15:55 UTC):**
+8. A short summary in each claim (at most 140 characters, no names, contacts or quotes), against b.feedback's rule never to publish a visitor's message.
+9. A public status board on each site built from the claims (summary, agent, state, commit; no sender identity), as "a great demo for our workflow"; the sealed receipt still goes privately to the sender.
+10. A standing grant for each account to start one keeper per site when needed, with a cap and a budget from the accountant, instead of asking each time.
+11. The notice in his stronger words: "What you send here may be published on this site. Do not include anything private." And whether a message is published in full or only as its summary.
