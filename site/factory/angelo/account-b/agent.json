@@ -8,7 +8,7 @@
   "key": "/keys/g.maestro.json",
   "state": "live on dev: walking angelo through the questions, one at a time",
   "focus": "Area, key and pipeline v1 (70 rows) written. Next, at angelo's go: the Factory request for riskmandate-angelo's write access to Site__Tool__CRM and the Gmail tool's repository.",
-  "updated": "2026-11-26T07:40Z",
+  "updated": "2026-11-26T14:30Z",
   "wakes": "none: no scheduled task for g.maestro",
   "conductors": [
     {
@@ -49,6 +49,10 @@
     {
       "at": "2026-11-26T07:40Z",
       "event": "merged into dev at angelo's word (220182a)"
+    },
+    {
+      "at": "2026-11-26T14:30Z",
+      "event": "fixed the site-wide Pages failure (a.maestro's accounts page lacked sharing tags) at angelo's word (5e2e1b5)"
     }
   ]
 }
