@@ -1,6 +1,6 @@
 {
  "about": "Index of Dinis's own words received in maestro.b's session (account B), one page each, by date. Every brief and message that follows from a memo carries its id; each agent that takes work replies with its work id and where it lives, recorded under 'work'. Proposal: briefs/2026-11-26-provenance-ids.md.",
- "updated": "2026-11-26T15:45Z",
+ "updated": "2026-11-26T15:38Z",
  "memos": [
   {
    "id": "dinis.2026-11-24T1100Z.b",
@@ -64,7 +64,23 @@
     "cl-2.mail.dev",
     "b.calendar"
    ],
-   "work": []
+   "work": [
+    {
+     "by": "b.vault.keeper",
+     "work": "demo owner vault demo-0001; home",
+     "where": "Site__Agent__Vault-Keeper 87f299b, 5b4b3ef"
+    },
+    {
+     "by": "cl-2.crm.dev",
+     "work": "hot list",
+     "where": "AgentiCCells__Cell__Email work/crm.dev.a e2fda24"
+    },
+    {
+     "by": "cl-2.mail.dev",
+     "work": "demo onboarding drafts",
+     "where": "Site__Tool__Google__Gmail 27c9282"
+    }
+   ]
   },
   {
    "id": "dinis.2026-11-26T1525Z.b",
@@ -97,7 +113,23 @@
     "b.outreach",
     "b.sites"
    ],
-   "work": []
+   "work": [
+    {
+     "by": "suno.b",
+     "work": "songs podcast: plan and episode 1 script",
+     "where": "Site__Platform__Suno docs/podcast/ (c8417e0)"
+    },
+    {
+     "by": "b.factory",
+     "work": "Site__Agent__Social home",
+     "where": "IaC 910bf50"
+    },
+    {
+     "by": "b.factory",
+     "work": "Buffer, LinkedIn and Self-Publishing site homes",
+     "where": "IaC 3ba79d9, waiting on b.decisions"
+    }
+   ]
   },
   {
    "id": "dinis.2026-11-26T1534Z.b",
