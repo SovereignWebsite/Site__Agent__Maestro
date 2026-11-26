@@ -59,7 +59,8 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - b.decisions /asks/ (8820fb5): may account-wide census results be published.
 - instagram.b (https://claude.ai/code/session_01Kw9UwBa9zYU6ssjUx87NWX): allow its setup-signing step.
 - Session handover test: both done (handovers/2026-11-25-test.md). Next: b.conductor (71%) and b.factory (70%), sensitive, yours to start; b.outreach (67%) and b.strategy (51%) push first; b.feedback (53%, six lane keys).
-- Account A's CRM team moves to B (cl-2.crm.dev, .crm.design, .crm.studio): your line here, 'start the agents cl-1.maestro hands over'.
+- Account A's CRM team: cl-2.crm.dev started on B at your word (26 Nov); a.crm.design and a.crm.studio not moved (design is on other accounts): your call.
 - A deploy-check fix across many sites (b.security found it, sent to b.factory privately; the .github change is yours). Details stay private until every site is fixed.
 - Where sovereignwebsite.ai's keeper runs: website.a is due to move from A to D (cl-4); B has room and no website keeper. Your call.
 - studio.c's 10 posted Reels miss two of b.security's conditions (label cut by the grid crop; encoder tags): re-cut and replace them as video-v3, or leave them with the platform AI labels (c.maestro's session). b.security advises replacing at least the covers.
+- Owners' vaults plan (briefs/2026-11-26-plan-of-action.md): push access for the new sessions if refused; how the CRM vault keys reach cl-2.crm.dev; the Calendar tool's Google client; the consent wording after b.security.

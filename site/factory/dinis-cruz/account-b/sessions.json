@@ -124,6 +124,26 @@
    "name": "b.design (SovereignWebsite), session 2",
    "session": "https://claude.ai/code/session_01Kw9UwDmfLmMC1vktxw9rF1",
    "does": "takes over from session_01Kw9UwCvZbGkWo3D9DEpRMv (handover test, 25 Nov)"
+  },
+  {
+   "name": "b.vault.keeper (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwCUDLQXnbN4p3v3aSi",
+   "does": "the only agent that holds onboarding vault keys (started 26 Nov, Opus)"
+  },
+  {
+   "name": "cl-2.crm.dev (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwDtVrNDaZZiNceBp5H",
+   "does": "the CRM, moved from crm.dev.a on A (started 26 Nov, Opus)"
+  },
+  {
+   "name": "cl-2.mail.dev (AgentiCCells)",
+   "session": "https://claude.ai/code/session_01Kw9UwBXbhLqW5YqytqTBTn",
+   "does": "the Gmail tool, moved from mail.dev.a on A (started 26 Nov, Sonnet)"
+  },
+  {
+   "name": "b.calendar (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwCLJpupMBWBJU774B1",
+   "does": "the Google Calendar tool (started 26 Nov, Sonnet)"
   }
  ]
 }
