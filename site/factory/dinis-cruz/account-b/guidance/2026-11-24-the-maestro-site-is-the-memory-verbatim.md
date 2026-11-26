@@ -1,5 +1,7 @@
 # Dinis's guidance, verbatim: the agent's site is its memory and its channel (24 Nov 2026)
 
+id: dinis.2026-11-24.the-maestro-site-is-the-memory.b
+
 Dinis Cruz, in b.maestro's session (https://claude.ai/code/session_01Kw9UwEbwyWMbZ7yCr81Dq9), about 00:15 UTC on 24 November 2026. It is copied exactly as he dictated it; the transcription's spelling "site__maestro ... site__agent_maestro" means this repository, Site__Agent__Maestro.
 
 ---

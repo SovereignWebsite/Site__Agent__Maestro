@@ -1,5 +1,7 @@
 # Dinis, 24 Nov 2026 about 22:10 UTC, in sites.b's session (relayed by sites.b)
 
+id: dinis.2026-11-24.routing-agents-never-build-sites-relayed.b
+
 Relayed, not heard here: check against https://claude.ai/code/session_01Kw9UwBucXVUaNYRMcWwk67 . Quotes as sites.b gave them.
 
 1. "You should never create a site here, because we should not be using the tokens and the context of this site for this." (A routing agent starts a dedicated keeper per site, which can start on Sonnet.)

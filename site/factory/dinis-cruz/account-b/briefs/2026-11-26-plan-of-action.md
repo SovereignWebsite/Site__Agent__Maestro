@@ -1,5 +1,7 @@
 # Plan of action: owners' vaults, CRM, mail and calendar (26 Nov 2026, draft 1)
 
+Source: dinis.2026-11-26T1321Z.b
+
 At Dinis's word in maestro.b's session, about 13:20 UTC 26 Nov (guidance/2026-11-26-onboarding-vaults-verbatim.md). The build brief: briefs/2026-11-26-onboarding-vaults.md. Each agent's own plan comes back as a link in its area and is added here.
 
 ## Who does what

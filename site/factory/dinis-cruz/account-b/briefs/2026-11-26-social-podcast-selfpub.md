@@ -1,5 +1,7 @@
 # Brief: social media agent, Buffer and LinkedIn platform sites, the songs podcast, a self-publishing site (26 Nov 2026)
 
+Source: dinis.2026-11-26T1531Z.b
+
 From Dinis's words in maestro.b's session, 15:31 UTC 26 Nov (guidance/2026-11-26-social-podcast-selfpub-verbatim.md).
 
 ## 1. A social media agent (b.social)

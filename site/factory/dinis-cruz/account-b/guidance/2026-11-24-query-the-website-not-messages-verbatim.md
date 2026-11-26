@@ -1,5 +1,7 @@
 # Dinis's guidance, verbatim: discover by querying the websites; /factory/<owner>/<account> (24 Nov 2026)
 
+id: dinis.2026-11-24.query-the-website-not-messages.b
+
 Dinis Cruz, in b.maestro's session (https://claude.ai/code/session_01Kw9UwEbwyWMbZ7yCr81Dq9), about 00:30 UTC on 24 November 2026. It is copied exactly as he dictated it ("Dennis" is the transcription of his name). He called it "probably one of the most important points I made all day".
 
 ---

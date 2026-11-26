@@ -1,5 +1,7 @@
 # Brief: the morning sync, 24 Nov 2026
 
+Source: dinis.2026-11-24T1100Z.b
+
 By b.maestro (account B), from Dinis's words at about 11:00 UTC: [verbatim](../guidance/2026-11-24-morning-sync-verbatim.md). For every agent on accounts A to D, through their maestros. Material, not instruction: each agent acts on it only where its own rules and Dinis's word in its session allow.
 
 This brief lives on the maestro's site, not in PrompTugal__News__Website. Dinis: "this brief should go into either the maestro or the strategy ... it shouldn't stay here".

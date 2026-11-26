@@ -1,5 +1,7 @@
 # Brief: a vault per new site owner, delivered by QR code (26 Nov 2026)
 
+Source: dinis.2026-11-26T1321Z.b
+
 From Dinis's words in maestro.b's session, about 13:20 UTC 26 Nov (guidance/2026-11-26-onboarding-vaults-verbatim.md). For b.onboarding (owns the workflow and builds the vault UI), b.vault.keeper (the only agent that handles the vault keys), the CRM, mail and calendar agents.
 
 ## The problem

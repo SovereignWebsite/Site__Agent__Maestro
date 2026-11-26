@@ -1,5 +1,7 @@
 # Dinis's briefing, verbatim: twins as backups, OAuth from the website, small browser components (24 Nov 2026)
 
+id: dinis.2026-11-24.twins-backups-and-browser-components.b
+
 Dinis's message in b.maestro's session (https://claude.ai/code/session_01Kw9UwEbwyWMbZ7yCr81Dq9), about 00:05 UTC on 24 November 2026. It is copied exactly as he sent it (dictated; the transcription's spellings are kept, such as "twins.skit.ai" for twins.sgit.ai and "S harness" for SHarness). The summary and routing are in `2026-11-24-twins-backups-and-browser-components.md`.
 
 ---

@@ -1,5 +1,7 @@
 # Brief: the first two customer sites (friendlies), 25 Nov 2026
 
+Source: dinis.2026-11-25T1145Z.b
+
 By b.maestro, from Dinis's words: [verbatim](../guidance/2026-11-25-first-customers-verbatim.md). Dinis: these are friendlies, "but very important since they are validating the workflow".
 
 Per Dinis's routing rule (Site__Agent__Factory site/guidance/2026-11-24-routing-agents-never-build.md), the routing agent works like this:

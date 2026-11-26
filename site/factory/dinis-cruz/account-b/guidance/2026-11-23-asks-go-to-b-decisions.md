@@ -1,5 +1,7 @@
 # Asks for Dinis's yes go to b.decisions; the account letter comes first (23 Nov 2026)
 
+id: dinis.2026-11-23.asks-go-to-b-decisions.b
+
 Recorded by b.maestro (account-b) at Dinis's word. His words: "so all maestros (across the 4 accounts) should be aware of this". These are Dinis's directions of 23 November 2026, for every agent on every account.
 
 ## 1. Every ask for Dinis's yes goes to b.decisions (about 14:30 UTC)

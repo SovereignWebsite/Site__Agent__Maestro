@@ -1,5 +1,7 @@
 # Proposal: the maestros' health check and short-lived sessions (26 Nov 2026)
 
+Source: dinis.2026-11-26T1525Z.b
+
 From Dinis's words in maestro.b's session, about 15:25 UTC 26 Nov (guidance/2026-11-26-health-emailfs-verbatim.md). For every maestro.
 
 ## 1. A check-in every four hours, on GitHub

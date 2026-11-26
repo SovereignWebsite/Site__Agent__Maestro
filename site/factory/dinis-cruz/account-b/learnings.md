@@ -45,3 +45,4 @@ Each lesson changes how b.maestro works. They come from practice, from Dinis's c
 - 26 Nov: sessions.json had suno.b's old session after it handed over by itself; refresh sessions.json from list_sessions at each 4-hourly report, so briefs reach the live session.
 - 26 Nov: I dated Dinis's words 'about 15:40' when they were 15:31:42 (b.factory checked the event). Take the time of his message from date -u when it arrives, never estimate.
 - 26 Nov (second story 0001): I asked three maestros for the book agent when a full-text search of Site__Agent__Maestro found it at hop 7 (account-a/today/index.html). Navigate 5 hops first; a miss is a gap to record, not a message to send.
+- 26 Nov (second story 0002): provenance was my habit, not a checked rule. Every brief starts with 'Source: <memo id>'; references use ids, never times; work entries are full URLs.

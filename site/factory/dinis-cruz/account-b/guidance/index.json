@@ -1,7 +1,70 @@
 {
  "about": "Index of Dinis's own words received in maestro.b's session (account B), one page each, by date. Every brief and message that follows from a memo carries its id; each agent that takes work replies with its work id and where it lives, recorded under 'work'. Proposal: briefs/2026-11-26-provenance-ids.md. Each memo may list its separate asks under 'asks', each with its owner and state.",
- "updated": "2026-11-26T15:48Z",
+ "updated": "2026-11-26T19:56Z",
  "memos": [
+  {
+   "id": "dinis.2026-11-19.the-maestro.b",
+   "file": "guidance/2026-11-19-the-maestro.md",
+   "topic": "the maestro",
+   "time_from": "time not recorded: these pages were moved in together on 24 Nov at 00:17 UTC, so the id uses the date in the file name and its topic",
+   "briefs": [],
+   "delegated_to": [],
+   "work": []
+  },
+  {
+   "id": "dinis.2026-11-23.asks-go-to-b-decisions.b",
+   "file": "guidance/2026-11-23-asks-go-to-b-decisions.md",
+   "topic": "asks go to b decisions",
+   "time_from": "time not recorded: these pages were moved in together on 24 Nov at 00:17 UTC, so the id uses the date in the file name and its topic",
+   "briefs": [],
+   "delegated_to": [],
+   "work": []
+  },
+  {
+   "id": "dinis.2026-11-24.query-the-website-not-messages.b",
+   "file": "guidance/2026-11-24-query-the-website-not-messages-verbatim.md",
+   "topic": "query the website not messages",
+   "time_from": "time not recorded: these pages were moved in together on 24 Nov at 00:17 UTC, so the id uses the date in the file name and its topic",
+   "briefs": [],
+   "delegated_to": [],
+   "work": []
+  },
+  {
+   "id": "dinis.2026-11-24.routing-agents-never-build-sites-relayed.b",
+   "file": "guidance/2026-11-24-routing-agents-never-build-sites-relayed.md",
+   "topic": "routing agents never build sites relayed",
+   "time_from": "time not recorded: these pages were moved in together on 24 Nov at 00:17 UTC, so the id uses the date in the file name and its topic",
+   "briefs": [],
+   "delegated_to": [],
+   "work": []
+  },
+  {
+   "id": "dinis.2026-11-24.the-maestro-site-is-the-memory.b",
+   "file": "guidance/2026-11-24-the-maestro-site-is-the-memory-verbatim.md",
+   "topic": "the maestro site is the memory",
+   "time_from": "time not recorded: these pages were moved in together on 24 Nov at 00:17 UTC, so the id uses the date in the file name and its topic",
+   "briefs": [],
+   "delegated_to": [],
+   "work": []
+  },
+  {
+   "id": "dinis.2026-11-24.twins-backups-and-browser-components.b",
+   "file": "guidance/2026-11-24-twins-backups-and-browser-components-verbatim.md",
+   "topic": "twins backups and browser components",
+   "time_from": "time not recorded: these pages were moved in together on 24 Nov at 00:17 UTC, so the id uses the date in the file name and its topic",
+   "briefs": [],
+   "delegated_to": [],
+   "work": []
+  },
+  {
+   "id": "dinis.2026-11-24.twins-backups-and-browser-components.summary.b",
+   "file": "guidance/2026-11-24-twins-backups-and-browser-components.md",
+   "topic": "twins backups and browser components (summary of the verbatim page beside it)",
+   "time_from": "time not recorded: these pages were moved in together on 24 Nov at 00:17 UTC, so the id uses the date in the file name and its topic",
+   "briefs": [],
+   "delegated_to": [],
+   "work": []
+  },
   {
    "id": "dinis.2026-11-24T1100Z.b",
    "file": "guidance/2026-11-24-morning-sync-verbatim.md",
@@ -156,7 +219,7 @@
     {
      "by": "b.stories",
      "work": "second story 0001: why maestro.b could not find the book agent",
-     "where": "artifact QnnBfWUWqekupE7VWMy4yH (to commit in Site__Agent__Stories)"
+     "where": "https://stories.agents.sovereignweb.site/factory/dinis-cruz/account-b/stories/0001-book-agent/"
     }
    ],
    "asks": [
@@ -195,12 +258,17 @@
     {
      "by": "b.stories",
      "work": "second story 0001",
-     "where": "artifact QnnBfWUWqekupE7VWMy4yH"
+     "where": "https://stories.agents.sovereignweb.site/factory/dinis-cruz/account-b/stories/0001-book-agent/"
     },
     {
      "by": "suno.b",
      "work": "audio platforms research (upload API, live stats, AI terms)",
      "where": "Site__Platform__Suno docs/podcast/platforms-research.md (8185782)"
+    },
+    {
+     "by": "b.stories",
+     "work": "second story 0002: backlinks",
+     "where": "https://stories.agents.sovereignweb.site/factory/dinis-cruz/account-b/stories/0002-backlinks/"
     }
    ]
   }

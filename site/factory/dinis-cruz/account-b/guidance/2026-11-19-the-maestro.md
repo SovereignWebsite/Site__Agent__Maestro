@@ -1,5 +1,7 @@
 # The maestro: the conductor of the conductors (19 November 2026)
 
+id: dinis.2026-11-19.the-maestro.b
+
 Dinis, in conductor.b@'s session, about 01:50 to 01:55 UTC on 19 November 2026:
 
 > "Hi can you create a conductor.b [at] account-b.dinis which is going to be my main conductor here and the one that will help to manage and support all more specific and focused conductors"
