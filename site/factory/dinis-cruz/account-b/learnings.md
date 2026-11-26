@@ -46,3 +46,4 @@ Each lesson changes how b.maestro works. They come from practice, from Dinis's c
 - 26 Nov: I dated Dinis's words 'about 15:40' when they were 15:31:42 (b.factory checked the event). Take the time of his message from date -u when it arrives, never estimate.
 - 26 Nov (second story 0001): I asked three maestros for the book agent when a full-text search of Site__Agent__Maestro found it at hop 7 (account-a/today/index.html). Navigate 5 hops first; a miss is a gap to record, not a message to send.
 - 26 Nov (second story 0002): provenance was my habit, not a checked rule. Every brief starts with 'Source: <memo id>'; references use ids, never times; work entries are full URLs.
+- 26 Nov (story 0003, fix 6): every start prompt that asks for a key names the step in words: 'make your key with tools/setup-signing.sh; it writes one mode-600 signing file outside the repository'.
