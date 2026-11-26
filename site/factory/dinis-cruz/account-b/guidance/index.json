@@ -196,6 +196,11 @@
      "by": "b.stories",
      "work": "second story 0001",
      "where": "artifact QnnBfWUWqekupE7VWMy4yH"
+    },
+    {
+     "by": "suno.b",
+     "work": "audio platforms research (upload API, live stats, AI terms)",
+     "where": "Site__Platform__Suno docs/podcast/platforms-research.md (8185782)"
     }
    ]
   }
