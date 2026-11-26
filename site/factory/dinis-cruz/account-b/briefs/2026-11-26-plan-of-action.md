@@ -53,3 +53,11 @@ At Dinis's word in maestro.b's session, about 13:20 UTC 26 Nov (guidance/2026-11
 - Whether a.crm.design and a.crm.studio move to B at all, since design now happens on other accounts.
 - The Google client and consent screen for the Calendar tool.
 - The consent wording an owner accepts, once b.security has reviewed it.
+
+## Options note from b.onboarding (15:27 UTC): mini CMS, GitHub and OAuth, where the AI runs
+Not built; items marked "check" are not yet verified.
+1. **Mini CMS:** the vault page grows to edit text/ (plain fields per site type, live preview) and order uploads/; the keeper builds from the vault. Later the same editor writes to the owner's own GitHub repository. The vault stays the owner's inbox; the repository is the site's truth.
+2. **GitHub account plus OAuth:** owner makes a free GitHub account with a short guide; a **GitHub App** (check) rather than a classic OAuth app, so permission is "contents write" on the one site repository only, chosen by the owner. Dinis holds the app registration. A static site cannot keep a client secret, so test the **device flow** first (check), not a server. Tokens in the browser only, short-lived, revocable by the owner. b.security reviews first.
+3. **Where the AI runs** (later; the CMS works without it): open models in the browser (WebGPU, e.g. WebLLM or transformers.js, check): private, free, weak on small phones; Apple Intelligence (check: likely native apps only, not web pages); a browser agent (flexible, hardest to make safe); a cloud session (strongest; the keeper builds while the owner's browser collects and previews).
+**Suggested order:** vault page and plain CMS; GitHub App with device flow on the demo owner only; optional on-device captions; the keeper stays the cloud builder.
+**For Dinis:** the GitHub path for all owners, or only those who want direct control?
