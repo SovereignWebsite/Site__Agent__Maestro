@@ -2,25 +2,28 @@
  "account": "cl-2",
  "was": "B",
  "maestro": "b.maestro (maestro.b@account-b.dinis)",
- "as_of": "2026-11-26T15:30Z",
- "next_by": "2026-11-26T19:30Z",
+ "as_of": "2026-11-26T16:21Z",
+ "next_by": "2026-11-26T20:21Z",
  "bandwidth": {
-  "week": "unknown since 43% on 24 Nov 11:15 UTC; asked of Dinis",
+  "week": "near the limit: sessions on B now report rate limit 'allowed_warning' (16:20 UTC); exact figure asked of Dinis",
   "resets": "Mon 30 Nov 00:00 UTC",
-  "maestro_context": "47% of its window (handover due near 50%, Dinis starts it)"
+  "maestro_context": "over half of its window; handover due, Dinis starts it"
  },
  "centres_of_gravity": [
-  "owners' vaults by QR code (b.onboarding, b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar): briefs/2026-11-26-onboarding-vaults.md, plan briefs/2026-11-26-plan-of-action.md",
-  "first customer sites and their keepers",
-  "security, decisions and the factory for every account (b.security, b.decisions, b.factory)",
-  "sovereignwebsite.ai home page and the Hub (b.outreach, b.hub; website.a on A silent)"
+  "owners' vaults by QR code (b.onboarding, b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar)",
+  "the website feedback loop (b.feedback protocol v0, 11 decisions with Dinis)",
+  "social: b.social, the songs show (suno.b, episode 1 live), Buffer and LinkedIn platform sites",
+  "second stories (b.stories, story 0001 done)",
+  "security, decisions and the factory for every account"
  ],
- "running": "about 30 sessions; new today: b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar",
- "can_take": "small keeper and review work; not large new projects while the week's use is unknown",
+ "running": "about 35 sessions; started today: b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar, b.social, b.stories; archived today: 4 finished sessions",
+ "can_take": "nothing new while near the limit",
  "to_hand_off": [
-  "EmailFS (briefs/2026-11-26-emailfs.md): for a maestro on another account",
-  "b.conductor (71%) and b.factory (70%) session handovers"
+  "EmailFS (briefs/2026-11-26-emailfs.md)",
+  "keepers for the Buffer, LinkedIn and self-publishing sites (homes exist, IaC c1ae026)",
+  "b.conductor (71%) and b.factory (70%) handovers (sensitive)"
  ],
  "waiting_on_dinis": "now.md",
- "handovers": "protocol v1 run twice on 25 Nov (handovers/2026-11-25-test.md); checked at every wake from 26 Nov"
+ "handovers": "protocol v1 run twice on 25 Nov (handovers/2026-11-25-test.md); checked at every wake from 26 Nov",
+ "other_maestros": "no report.json from cl-1, cl-3 or cl-4; cl-1 silent since 25 Nov 20:24 UTC; cl-3's last row 06:40 UTC; cl-4's last row 24 Nov 20:52 UTC"
 }

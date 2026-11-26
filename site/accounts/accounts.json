@@ -1,6 +1,6 @@
 {
  "about": "Which account is which: the account ids of the naming model (site/factory/dinis-cruz/account-a/notes/2026-11-25-naming-model.md), what each runs and its room. Public, not confidential, and no logins or email addresses. Each account's maestro keeps its own row current; a.maestro started it.",
- "updated": "2026-11-25T18:50Z",
+ "updated": "2026-11-26T16:21Z",
  "login_hint": "Dinis may add, per row, a hint that tells him which browser profile or login it is, in his own words, never an email address.",
  "accounts": [
   {
@@ -24,7 +24,7 @@
    "session": "https://claude.ai/code/session_01Kw9UwEbwyWMbZ7yCr81Dq9",
    "area": "/factory/dinis-cruz/account-b/",
    "focus": "owners' vaults (onboarding, vault keeper, CRM, Gmail, Calendar), first customer sites, decisions, security, factory.b",
-   "room": "unknown since 43% on 24 Nov; asked of Dinis 26 Nov; resets Mon 30 Nov 00:00 UTC",
+   "room": "near its weekly limit (sessions report allowed_warning, 26 Nov 16:20 UTC); resets Mon 30 Nov 00:00 UTC",
    "status": "running",
    "report": "/factory/dinis-cruz/account-b/report.json"
   },

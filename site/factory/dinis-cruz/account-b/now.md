@@ -74,3 +74,4 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Starting the keepers b.site.buffer, b.site.linkedin, b.site.self-publishing (homes exist, IaC c1ae026), and on which account (b.sites is asking in its session).
 - In b.factory's session: "push 1af7538" (the refresh gate), which unblocks the 'navigate before you ask' rule for every agent; and merging its sessions.json freshness check when drafted.
 - Design site deploys failing (its own build.mjs fades the version chip): either in b.factory's session "yes, put the seed build.mjs back on Site__Agent__Design and Site__Organisation__Chiswick-Cheese-Market", or tell design.b in its session the edit is allowed.
+- Account B is near its weekly limit (allowed_warning at 16:20 UTC, resets Mon 30 Nov 00:00 UTC): which account takes new work from here (EmailFS, the three site keepers, my own handover)?
