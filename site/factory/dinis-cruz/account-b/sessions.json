@@ -83,7 +83,7 @@
   {
    "name": "b.suno (SovereignWebsite)",
    "session": "https://claude.ai/code/session_01Kw9UwBWVj7sxLdmr1ZKwh4",
-   "does": "music for the Instagram posts"
+   "does": "music for the Instagram posts (handed over 01:13 UTC 26 Nov; archived 15:36)"
   },
   {
    "name": "b.migration (SovereignWebsite)",
@@ -149,6 +149,11 @@
    "name": "b.social (SovereignWebsite)",
    "session": "https://claude.ai/code/session_01Kw9UwF8CPq1t72KDUezjB7",
    "does": "the social media agent: every channel, approved posts to Buffer (started 26 Nov, Sonnet)"
+  },
+  {
+   "name": "suno.b (SovereignWebsite), new session",
+   "session": "https://claude.ai/code/session_01Kw9UwAwZ5JHkJXJQh9Ym17",
+   "does": "music for the posts; songs podcast (took over 01:13 UTC 26 Nov)"
   }
  ]
 }
