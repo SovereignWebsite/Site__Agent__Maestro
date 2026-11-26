@@ -19,6 +19,14 @@
    "session": "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4",
    "home": "/factory/dinis-cruz/account-f/",
    "key": "/keys/f.maestro.json"
+  },
+  {
+   "name": "g.maestro@account-b.angelo",
+   "signs_as": "g.maestro@account-b.angelo",
+   "role": "angelo's maestro on account B: the conductor of the conductors",
+   "session": "https://claude.ai/code/session_01Xp7gj2Ti4J71Cadtg2oxxh",
+   "home": "/factory/angelo/account-b/",
+   "key": "/keys/g.maestro.json"
   }
  ]
 }

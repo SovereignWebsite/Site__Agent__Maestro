@@ -1,0 +1,92 @@
+{
+ "owner": "angelo",
+ "account": "account-b",
+ "kept_by": "g.maestro",
+ "updated": "2026-11-25T16:45Z",
+ "note": "The sessions g.maestro sees on account B that are not archived, from list_sessions. The other 40 or so are archived workers and retired PMs (11 to 24 Nov).",
+ "sessions": [
+  {
+   "name": "g.maestro@account-b.angelo",
+   "session": "https://claude.ai/code/session_01Xp7gj2Ti4J71Cadtg2oxxh",
+   "state": "running",
+   "does": "this maestro"
+  },
+  {
+   "name": "conductor.b@PrompTugal.angelo",
+   "session": "https://claude.ai/code/session_01Xp7gj4Wfi7egysEC47fuzU",
+   "state": "idle",
+   "does": "the account's conductor: angelo's backlog, PMs and workers"
+  },
+  {
+   "name": "followups-bridge.pm@PrompTugal.angelo",
+   "session": "https://claude.ai/code/session_01Xp7gj3kNCdJNCbUzSDG81j",
+   "state": "idle, review ready",
+   "does": "the follow-ups bridge on the team CRM (lead)"
+  },
+  {
+   "name": "followups-bridge-s2 spec (bravo.large.worker@PrompTugal.angelo)",
+   "session": "https://claude.ai/code/session_01Xp7gj3h31smUjMWS265Jmr",
+   "state": "idle, review ready",
+   "does": "spec: joining Dinis's CRM"
+  },
+  {
+   "name": "handover-market.pm@PrompTugal.angelo",
+   "session": "https://claude.ai/code/session_01Xp7gj4cJJFVcZnitjGY3Ax",
+   "state": "idle, blocked on angelo",
+   "does": "the handover market (lead)"
+  },
+  {
+   "name": "handover.agent.b@PrompTugal.angelo",
+   "session": "https://claude.ai/code/session_01Xp7gj51NccENfXgXomcQNB",
+   "state": "idle since 15 Nov",
+   "does": "team requests on account B (wake off)"
+  },
+  {
+   "name": "conductor.fringe@PrompTugal.angelo",
+   "session": "https://claude.ai/code/session_01Xp7gj33JtyMMidyp2h5NBS",
+   "state": "idle since 13 Nov",
+   "does": "Lisbon Fringe, item 05 (stopped under Dinis's HOLD.md)"
+  },
+  {
+   "name": "policy@PrompTugal.angelo",
+   "session": "https://claude.ai/code/session_01Xp7gj36MTEH5cdctV5E5UE",
+   "state": "idle since 13 Nov",
+   "does": "lanes for angelo's agents"
+  }
+ ],
+ "scheduled_tasks": {
+  "note": "From list_triggers: names, state and last run only; prompts are never copied here.",
+  "items": [
+   {
+    "id": "trig_01AVamZUMw45sJAxPkJZnq3k",
+    "name": "followups-bridge.pm@ wake",
+    "state": "enabled, no schedule (fired by its workers)"
+   },
+   {
+    "id": "trig_01AQzbRPx8TT1RzhCZ5N9qJT",
+    "name": "handover.agent.b@ hourly wake",
+    "state": "disabled since 15 Nov"
+   },
+   {
+    "id": "trig_01Sp6G7mUcG4f97btiJRmgK4",
+    "name": "handover-market.pm@ wake",
+    "state": "disabled since 13 Nov"
+   },
+   {
+    "id": "trig_01CvoEzp8UjqACZ2EXV3hnFW",
+    "name": "accountant.b@ every 4 hours",
+    "state": "disabled since 13 Nov"
+   },
+   {
+    "id": "trig_019P5mmH76wN24vNXQTvbU5C",
+    "name": "digest.b@ hourly",
+    "state": "disabled since 11 Nov"
+   },
+   {
+    "id": "trig_01UqsUe1kvf2qvWkjLiF2hPk",
+    "name": "conductor.fringe@ hourly wake",
+    "state": "disabled since 13 Nov"
+   }
+  ]
+ }
+}

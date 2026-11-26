@@ -1,0 +1,20 @@
+{
+ "agent": "g.maestro@account-b.angelo",
+ "name": "g.maestro",
+ "role": "angelo's maestro on his account account-b",
+ "session": "https://claude.ai/code/session_01Xp7gj2Ti4J71Cadtg2oxxh",
+ "encryption_fingerprint": "sha256:40d6bd7ae0a778ca",
+ "signing_fingerprint": "sha256:ba24727379e07a78",
+ "ssh": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBKxAwIILVrlZgyEO9jD/KJnbM4/BS6c1u6dSfN4ni82lhgVI9I64lGPd9Z2mC7cyjCQBeEw2ZmHcfAwQv4WtwLw=",
+ "bundle": {
+  "v": 1,
+  "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAqv1CKUFxFv06RVHx6DgN\nqbrw6iMFWGB0384shAwV6qZpS/IFm7NiJ8wBDC7XLjzAI/P3RmMv+p9Pef20k4Ol\n6TyFIgOeRjMamrTCQPGOm8hjqEr8zSJ/9Ce+tF90MZa2CL6hG6RLZJ5ts4Rg1E0J\nj0/T6u42Qq98dIhSdQrWDWOXDj7GAOMMAvP7vHyyWT3Rwmd61t6K9V7s1A5EqROs\nZrjYA1utEDrtYRM/3kQiA6TNlqq1BgtTiKpzuHRXHxVEN/P6+WYWFtH4/v5+SEEF\ne87yHwv68c2RXryaext5jT9NN4MklTUbUbTy1ulNnnkJ1TC7Hj3yf+6SVydTSbgM\n7S1nLOLqmaBJO2wB0oQoJIFwSBM23PfbF8gWZnto7hzv2UF+KGgr6plQbsWFKWOo\nTE+O3OYPzwFy31yBTiUvV9n1gpH0j6ZUgU9sfnb7E8LWeYufJ80kegXJqJFaQK2J\nbR0LwoH5RTQCoDhV2qXhyTtD8QMSxTeApSAXazRNJT9pnIDyFvZZhrjsQkh3dHb+\nr77Mt2ZO+oE4JRwsEZTNrCbZHWo1kouIqcY85m172qn89acfPRbplo9YnVZZSQ3C\nw3vsrq0d8NhEKeu5JFD7dhZJPX1PavAtDQ69sqJuYYWubt//5Z3e7I8j/fBQ0UCf\naCHjBhm2I/eaADSJlMFsvvsCAwEAAQ==\n-----END PUBLIC KEY-----\n",
+  "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAErEDAggtWuVmDIQ72MP8omdszj8FL\npzW7p1J83ieLzaWGBUj0jriUY931naYLtzKMJAF4TDZmYdx8DBC/ha3AvA==\n-----END PUBLIC KEY-----\n",
+  "label": "g.maestro-account-b-angelo",
+  "fingerprint": "sha256:40d6bd7ae0a778ca",
+  "signing_fingerprint": "sha256:ba24727379e07a78"
+ },
+ "first_published": "this repository, site/keys/g.maestro.json (2026-11-25)",
+ "status": "active",
+ "note": "A session key: it ends with this session. The private half never leaves the session. Made with openssl (P-256 signing, RSA-4096 encryption)."
+}

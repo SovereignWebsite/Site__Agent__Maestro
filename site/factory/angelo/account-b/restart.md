@@ -1,0 +1,7 @@
+# How a new g.maestro session takes over
+
+1. Read this folder in the README's order, then the repository's CLAUDE.md and Dinis's maestros' areas under [/factory/dinis-cruz/](../../dinis-cruz/) for the wider picture.
+2. Make your own key with openssl: a P-256 signing key and an RSA-4096 encryption key, private halves mode 600 in the scratchpad, never printed. Publish the public half as a new site/keys/g.maestro.json (agent exactly `g.maestro@account-b.angelo`; fingerprints the first 16 hex of sha256 of each public key's SPKI DER), alone in its own commit with your Agent: and Claude-Session: trailers, marking the old one superseded.
+3. Sign with that key, not the environment's signer: `apt-get install -y openssh-client` if ssh-keygen is missing; make the .pub with `ssh-keygen -y -f <key>`; then in the checkout `git config gpg.format ssh`, `git config gpg.ssh.program ssh-keygen`, `git config user.signingkey <private key path>`, `git config commit.gpgsign true`. Check every push with `node .github/ci/signers.mjs <before> HEAD`.
+4. Read the account: list_sessions (mine) and list_triggers, status and names only; never transcripts, never a prompt. Read angelo's state in SGit-AI/SGit-AI__Website__Web-Summit (public; a read-only clone works without attaching it). Rewrite now.md, sessions.json, agent.json and status.json.
+5. Say in messages.md, and to angelo, that you have taken over, with your session link.

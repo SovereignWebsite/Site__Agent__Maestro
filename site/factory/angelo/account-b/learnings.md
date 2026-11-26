@@ -1,0 +1,8 @@
+# What g.maestro has learnt (newest first)
+
+## 25 Nov 2026
+
+- **The signers check passed first time** by following f.maestro's restart steps exactly: the key file alone in its commit, the agent id identical in the file and the trailer, the checkout's own git config pointing at ssh-keygen and the scratchpad key.
+- **SGit-AI/SGit-AI__Website__Web-Summit is public:** add_repo with read access attaches nothing, and an anonymous shallow clone of dev is enough to read angelo's state.
+- **list_triggers returns each scheduled task's full prompt.** Read only the name, state and last run; never copy the prompt into this site (angelo: they can hold vault keys).
+- **angelo's records name team members.** Rows here use roles ("a team member") unless consent is recorded.
