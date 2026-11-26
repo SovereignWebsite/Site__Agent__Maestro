@@ -68,3 +68,5 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Each account's bandwidth (week used, reset) until the maestros report it themselves; which spare accounts to set up with a maestro (cl-5, cl-6, cl-8 and others).
 - Who takes EmailFS (asked the maestros; C last had the most room).
 - My own handover: this session is at 47% of its window; a maestro is sensitive, so you start the new one (restart.md is current).
+- The partner approach drafted by b.outreach (with the platform site link once live): read and send it yourself; and whether it may be named in public files (I have kept it out for now).
+- b.social's questions: channels beyond Instagram and LinkedIn, posting frequency, approval day, who puts posts into Buffer.

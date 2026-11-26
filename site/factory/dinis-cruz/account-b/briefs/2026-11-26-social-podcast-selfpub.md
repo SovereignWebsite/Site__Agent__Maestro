@@ -10,8 +10,8 @@ Today instagram.b does much of the posting. A social media agent coordinates eve
 - **Site__Platform__LinkedIn**: the same, for LinkedIn. (Site__Platform__Instagram exists.)
 - Compare the services honestly; show how Dinis works.
 
-## 3. Outreach to Buffer
-Dinis wants to go to market with a Buffer offering and sell it as a package with Buffer. b.outreach drafts the approach, leading with the Buffer platform site; the CRM tracks Buffer as an organisation. A person sends.
+## 3. A partner approach
+Held in the CRM and with b.outreach, not in public files, until Dinis says it may be public. A person sends.
 
 ## 4. The songs podcast (b.suno)
 - A podcast or radio show of our Suno songs: start with the songs Dinis has liked (he plays the playlist and likes the ones he enjoys).
