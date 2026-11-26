@@ -61,3 +61,4 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Session handover test: both done (handovers/2026-11-25-test.md). Next: b.conductor (71%) and b.factory (70%), sensitive, yours to start; b.outreach (67%) and b.strategy (51%) push first; b.feedback (53%, six lane keys).
 - Account A's CRM team moves to B (cl-2.crm.dev, .crm.design, .crm.studio): your line here, 'start the agents cl-1.maestro hands over'.
 - A deploy-check fix across many sites (b.security found it, sent to b.factory privately; the .github change is yours). Details stay private until every site is fixed.
+- Where sovereignwebsite.ai's keeper runs: website.a is due to move from A to D (cl-4); B has room and no website keeper. Your call.
