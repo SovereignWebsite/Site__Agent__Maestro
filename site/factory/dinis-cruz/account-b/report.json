@@ -2,21 +2,22 @@
  "account": "cl-2",
  "was": "B",
  "maestro": "b.maestro (maestro.b@account-b.dinis)",
- "as_of": "2026-11-26T16:21Z",
- "next_by": "2026-11-26T20:21Z",
+ "as_of": "2026-11-26T20:19Z",
+ "next_by": "2026-11-27T00:19Z",
  "bandwidth": {
   "week": "near the limit: sessions on B now report rate limit 'allowed_warning' (16:20 UTC); exact figure asked of Dinis",
   "resets": "Mon 30 Nov 00:00 UTC",
   "maestro_context": "over half of its window; handover due, Dinis starts it"
  },
  "centres_of_gravity": [
-  "owners' vaults by QR code (b.onboarding, b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar)",
-  "the website feedback loop (b.feedback protocol v0, 11 decisions with Dinis)",
-  "social: b.social, the songs show (suno.b, episode 1 live), Buffer and LinkedIn platform sites",
-  "second stories (b.stories, story 0001 done)",
-  "security, decisions and the factory for every account"
+  "owners' onboarding end to end (b.onboarding owns; b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar, b.github-tool)",
+  "sovereignwebsite.ai home and invite page (b.website, from website.a; b.outreach checks copy)",
+  "the website feedback loop (b.feedback v0, 11 decisions with Dinis)",
+  "social and the songs show (b.social, suno.b; episode 1 live)",
+  "second stories (b.stories: 0001, 0002 done; 0003 after 23:50 UTC)",
+  "provenance: memo ids and index (guidance/index.json, 16 memos)"
  ],
- "running": "about 35 sessions; started today: b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar, b.social, b.stories; archived today: 4 finished sessions",
+ "running": "about 37 sessions; started today: b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar, b.social, b.stories, b.website, b.github-tool; archived today: 4",
  "can_take": "nothing new while near the limit",
  "to_hand_off": [
   "EmailFS (briefs/2026-11-26-emailfs.md)",
@@ -25,5 +26,5 @@
  ],
  "waiting_on_dinis": "now.md",
  "handovers": "protocol v1 run twice on 25 Nov (handovers/2026-11-25-test.md); checked at every wake from 26 Nov",
- "other_maestros": "no report.json from cl-1, cl-3 or cl-4; cl-1 silent since 25 Nov 20:24 UTC; cl-3's last row 06:40 UTC; cl-4's last row 24 Nov 20:52 UTC"
+ "other_maestros": "no report.json from cl-1, cl-3 or cl-4; cl-1 silent since 25 Nov 20:24 UTC; cl-3 answered by row at 18:34 UTC; cl-4 silent since 24 Nov 20:52 UTC"
 }
