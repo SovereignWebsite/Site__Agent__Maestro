@@ -159,6 +159,16 @@
    "name": "b.stories (SovereignWebsite)",
    "session": "https://claude.ai/code/session_01Kw9UwBqHKCrsuwSn6sYuNb",
    "does": "second stories: the gap behind each problem (started 26 Nov, Opus)"
+  },
+  {
+   "name": "b.website (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwCsL8VDCDCpWnAFBRR",
+   "does": "keeper of sovereignwebsite.ai, from website.a (record a11d1d3, 26 Nov, Sonnet)"
+  },
+  {
+   "name": "b.github-tool (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwC59W4aRGQCQtPtxzz",
+   "does": "keeper of the GitHub browser tool, from github-tool.a (record a11d1d3, 26 Nov, Sonnet)"
   }
  ]
 }
