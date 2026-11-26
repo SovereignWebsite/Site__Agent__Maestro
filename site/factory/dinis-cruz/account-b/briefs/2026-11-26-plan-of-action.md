@@ -45,6 +45,7 @@ At Dinis's word in maestro.b's session, about 13:20 UTC 26 Nov (guidance/2026-11
 - **In b.vault.keeper's session** (https://claude.ai/code/session_01Kw9UwCUDLQXnbN4p3v3aSi): confirm, in your own words, your own key's fingerprint (b.security gives sha256:db7f79fdd87e030a), so it pins it from you and not from a record. Until then it seals no backup and signs nothing as endorsed.
 - **For b.vault.keeper:** its keys live only in its session, and a reclaimed container loses every owner's keys. It suggests a backup copy sealed to your public key only (ciphertext in maestro.b's sealed/ folder), so only you can recover it. Yes or no.
 - **Who keeps sgit-ai**, for the two feature asks (I have asked the other maestros too).
+- **In b.factory's session** (https://claude.ai/code/session_01Kw9UwBqEqrxrSBwvLEVJY6): "yes, b.calendar keeps the calendar site (push b1cee50)" if you want it to keep it; b.decisions would not sign it from your 13:21 words alone (receipt 0b0c389).
 - **cl-2.mail.dev's wake:** the old Gmail keeper had an hourly wake; I create the new one only on your word.
 - **For b.calendar:** push to Site__Tool__Google__Calendar, in its session (https://claude.ai/code/session_01Kw9UwCLJpupMBWBJU774B1): refused, needs your yes there; the Google client and consent screen (freebusy and calendar.events only), which calendar, your working hours.
 - Push access for each new session, in its own session, if refused.
