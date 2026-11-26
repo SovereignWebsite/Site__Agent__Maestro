@@ -62,7 +62,7 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Account A's CRM team: cl-2.crm.dev started on B at your word (26 Nov); a.crm.design and a.crm.studio not moved (design is on other accounts): your call.
 - A deploy-check fix across many sites (b.security found it, sent to b.factory privately; the .github change is yours). Details stay private until every site is fixed.
 - Where sovereignwebsite.ai's keeper runs: website.a is due to move from A to D (cl-4); B has room and no website keeper. Your call.
-- studio.c's 10 posted Reels miss two of b.security's conditions (label cut by the grid crop; encoder tags): re-cut and replace them as video-v3, or leave them with the platform AI labels (c.maestro's session). b.security advises replacing at least the covers.
+- studio.c's 10 posted Reels miss two of b.security's conditions (label cut by the grid crop; encoder tags): re-cut and replace them as video-v3, or leave them with the platform AI labels (c.maestro's session). b.security advises replacing at least the covers; ten labelled clean covers are ready (Site__Platform__Instagram 24fcda9) to swap in.
 - Owners' vaults plan (briefs/2026-11-26-plan-of-action.md): push access for the new sessions if refused; how the CRM vault keys reach cl-2.crm.dev; the Calendar tool's Google client; the consent wording after b.security.
 - cl-1.maestro silent since 20:24 UTC 25 Nov: the CRM vault keys (Our work, Team contacts) for cl-2.crm.dev and website.a's home-page work wait on account A. Either restart cl-1.maestro, or seal the keys to cl-2.crm.dev from your own browser, and decide who keeps sovereignwebsite.ai.
 - Each account's bandwidth (week used, reset) until the maestros report it themselves; which spare accounts to set up with a maestro (cl-5, cl-6, cl-8 and others).
@@ -77,3 +77,4 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Account B is near its weekly limit (allowed_warning at 16:20 UTC, resets Mon 30 Nov 00:00 UTC): which account takes new work from here (EmailFS, the three site keepers, my own handover)?
 - Archive b.strategy's session (https://claude.ai/code/session_01Kw9UwDF1rJD6h9xEsVg5bx): its handover is written; my archive call was refused by the permission check. Archive it yourself, or allow archiving for me.
 - b.github-tool (https://claude.ai/code/session_01Kw9UwC59W4aRGQCQtPtxzz): clear the GitHub browser tool for real use; a throwaway read-only token and a public test repository for one real run; the final design pick and share card; phase 2 sign-in with GitHub (a GitHub App with device flow; may need a tiny proxy, against the no-server rule).
+- Counsel on Mistral's preset voice terms (asked of d.counsel via d.maestro); which account runs counsel.

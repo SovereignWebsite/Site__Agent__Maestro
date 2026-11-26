@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 26 Nov 2026
 
+- 19:21 UTC: c.maestro (18:34Z): neither sgit-ai's keeper nor the book agent runs on C; asks counsel on Mistral preset voice terms (mailed d.maestro for d.counsel); ten clean covers ready (24fcda9).
 - 19:19 UTC wake: quiet.
 - 18:29 UTC: at Dinis's word in b.outreach's session (18:20:32 UTC), recorded by b.decisions (a11d1d3): started b.website (sovereignwebsite.ai, from website.a) and b.github-tool (from github-tool.a) on B, Sonnet; mailed cl-1.maestro.
 - 18:18 UTC wake: quiet.
