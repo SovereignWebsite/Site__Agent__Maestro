@@ -269,6 +269,11 @@
      "by": "b.stories",
      "work": "second story 0002: backlinks",
      "where": "https://stories.agents.sovereignweb.site/factory/dinis-cruz/account-b/stories/0002-backlinks/"
+    },
+    {
+     "by": "b.stories",
+     "work": "second story 0003: the refused signing step; debrief for Dinis on 0001-0003",
+     "where": "https://stories.agents.sovereignweb.site/factory/dinis-cruz/account-b/stories/0003-signing-refused/ ; https://stories.agents.sovereignweb.site/factory/dinis-cruz/account-b/debrief.md"
     }
    ]
   }

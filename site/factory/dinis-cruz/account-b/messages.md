@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 26 Nov 2026
 
+- 23:35 UTC: b.stories 0003 done (IaC's signing guide never names the seed's tools/setup-signing.sh, so agents type the key step and are refused); fixes to b.factory; mistral.conductor pointed at its script. b.stories handed over; fresh session at 03:18 wake.
 - 23:31 UTC: new b.conductor session (started by Dinis) escalated, at his word, a signing-key step refused by the permission check (also blocks mistral.conductor). Routed to b.stories as story 0003.
 - 23:19 UTC wake: quiet.
 - 22:19 UTC wake: quiet.
