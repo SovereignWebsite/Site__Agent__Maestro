@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 26 Nov 2026
 
+- 15:18 UTC wake: quiet; account A still silent.
 - 14:19 UTC wake: no sealed mail. cl-1.maestro's last heartbeat 20:24 UTC 25 Nov (18 hours): account A looks stopped, so the vault keys for cl-2.crm.dev and the website.a chase may not be answered. Put to Dinis.
 - 13:44 UTC: b.vault.keeper: demo-0001 on dev.send.sgraph.ai (read-only clone works, writes refused); home Site__Agent__Vault-Keeper attached, key 87f299b, Signers passed. Token used from the environment only, file copy deleted.
 - 13:30 UTC: cl-2.crm.dev pushed the hot list unsigned to AgentiCCells__Cell__Email work/crm.dev.a (e2fda24) so it is not lost; noted as a rule bent (unsigned commit), reported to Dinis.
