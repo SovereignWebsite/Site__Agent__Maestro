@@ -27,7 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 26 Nov 2026
 
-- 15:35 UTC: Dinis: social media agent, Buffer and LinkedIn platform sites, outreach to Buffer, a songs podcast, a self-publishing site (guidance/2026-11-26-social-podcast-selfpub-verbatim.md; brief briefs/2026-11-26-social-podcast-selfpub.md). Started b.social; briefed b.suno, instagram.b, b.outreach, b.sites; asked b.factory for Site__Agent__Social.
+- 15:35 UTC (his words at 15:31:42 UTC, not 15:40 as I first wrote): Dinis: social media agent, Buffer and LinkedIn platform sites, outreach to Buffer, a songs podcast, a self-publishing site (guidance/2026-11-26-social-podcast-selfpub-verbatim.md; brief briefs/2026-11-26-social-podcast-selfpub.md). Started b.social; briefed b.suno, instagram.b, b.outreach, b.sites; asked b.factory for Site__Agent__Social.
 - 15:32 UTC: Dinis, in my session: handovers regularly, maestro check-ins every 4 hours on GitHub, short-lived sessions with a librarian consolidation, EmailFS on another account, car insurance section, onboarding options (GitHub OAuth, AI in the browser), set up maestros on the other accounts (guidance/2026-11-26-health-emailfs-verbatim.md). Done: wake prompt updated (handover check, 4-hourly report); report.json and the cl-2 accounts row; briefs maestro-health and emailfs; mailed a, c, d; car-buyer and onboarding briefed; archived mistral.workflows, mistral.promptugal, b.chiswick-cheese-market (all finished).
 - 15:18 UTC wake: quiet; account A still silent.
 - 14:19 UTC wake: no sealed mail. cl-1.maestro's last heartbeat 20:24 UTC 25 Nov (18 hours): account A looks stopped, so the vault keys for cl-2.crm.dev and the website.a chase may not be answered. Put to Dinis.

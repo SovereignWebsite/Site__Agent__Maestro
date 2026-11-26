@@ -1,6 +1,6 @@
 # Brief: social media agent, Buffer and LinkedIn platform sites, the songs podcast, a self-publishing site (26 Nov 2026)
 
-From Dinis's words in maestro.b's session, about 15:40 UTC 26 Nov (guidance/2026-11-26-social-podcast-selfpub-verbatim.md).
+From Dinis's words in maestro.b's session, 15:31 UTC 26 Nov (guidance/2026-11-26-social-podcast-selfpub-verbatim.md).
 
 ## 1. A social media agent (b.social)
 Today instagram.b does much of the posting. A social media agent coordinates every channel: it takes what studio.b and the other agents make, plans the posts across Instagram, LinkedIn and the rest, and hands them to Buffer, which schedules and releases them. instagram.b stays the Instagram specialist. Agents prepare; a person approves; Buffer publishes.

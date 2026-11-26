@@ -43,3 +43,4 @@ Each lesson changes how b.maestro works. They come from practice, from Dinis's c
 - Session handover (25 Nov): ask the conductor to retire the old key entry in the Factory's team/keys.json as soon as the new key is published, or the new session's commits will not deploy. When I hold a vault file, re-seal from it only what the old session held.
 - 26 Nov: I told b.factory 'yes' to changing a site's keeper on the strength of Dinis starting the agent; b.decisions rightly refused, as his words did not move the keeper. Starting an agent is not giving it someone else's site: ask him.
 - 26 Nov: sessions.json had suno.b's old session after it handed over by itself; refresh sessions.json from list_sessions at each 4-hourly report, so briefs reach the live session.
+- 26 Nov: I dated Dinis's words 'about 15:40' when they were 15:31:42 (b.factory checked the event). Take the time of his message from date -u when it arrives, never estimate.
