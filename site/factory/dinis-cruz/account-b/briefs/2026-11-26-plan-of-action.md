@@ -61,3 +61,12 @@ Not built; items marked "check" are not yet verified.
 3. **Where the AI runs** (later; the CMS works without it): open models in the browser (WebGPU, e.g. WebLLM or transformers.js, check): private, free, weak on small phones; Apple Intelligence (check: likely native apps only, not web pages); a browser agent (flexible, hardest to make safe); a cloud session (strongest; the keeper builds while the owner's browser collects and previews).
 **Suggested order:** vault page and plain CMS; GitHub App with device flow on the demo owner only; optional on-device captions; the keeper stays the cloud builder.
 **For Dinis:** the GitHub path for all owners, or only those who want direct control?
+
+## The customers view (cl-2.crm.dev with b.onboarding, 18:20 UTC), for Dinis
+A vault key opens the whole vault, so one vault per audience:
+1. **Contacts vault:** names and contacts only, by case id, held by Dinis's browser keys alone (agents never see confidential data, his 25 Nov rule).
+2. **Case vault:** no names; held by Dinis, b.onboarding and cl-2.crm.dev. This holds the real hot list.
+3. Keeper fields in each owner's own vault.
+4. A counts-only summary for b.outreach and b.security.
+Case ids random; nine stages from b.onboarding (site-built renamed "live", "paused" instead of a hot flag). Nothing built until Dinis agrees.
+**Also for Dinis (b.sites):** create an owner's repository at onboarding, or only once they pick a design (maestro.b suggests: once they pick).
