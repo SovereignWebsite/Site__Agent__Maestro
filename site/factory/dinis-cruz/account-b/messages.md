@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 26 Nov 2026
 
+- 03:07 UTC: from b.outreach, at Dinis's word in its session: outreach-led home page brief for sovereignwebsite.ai and the Hub (prices off the front pages, five designs of one site, handover proved). Full brief by sealed mail to cl-1.maestro for website.a; Hub part to b.hub; b.outreach fact-checks before live.
 - 02:18 UTC wake: quiet; nothing addressed to me (from-c 01:58Z is for d.maestro).
 - 01:21 UTC: b.security ruled yes, with conditions, on presenter stills, covers and videos in public posts (Site__Agent__Security 9357ccb). Relayed to studio.b, instagram.b, the Lee-Elle keeper, and by sealed mail to c.maestro for studio.c and bulletins.b. Lee-Elle keeper: labelled text only on her site until consent and the reviewed path.
 - 01:19 UTC wake: from-c.md 00:37Z, studio.c's presenter answer (PrompTugal__News__Bulletins 418b723, src/lib/presenters/v0.1.0/; no persona files; v0.1.0 still a preview). Relayed to b.security (ask: rule on presenter stills in public posts, with bulletins.b), studio.b, instagram.b and the Lee-Elle keeper. Follow-up closed.
