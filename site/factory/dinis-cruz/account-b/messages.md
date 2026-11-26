@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 26 Nov 2026
 
+- 16:23 UTC: b.strategy ready (handover sessions/2026-11-26-a/handover.md on its site). My archive of its session was refused by this session's permission check; left for Dinis.
 - 16:21 UTC wake: account B's sessions now report rate limit allowed_warning (near the weekly limit). No other maestro has a report.json. report.json and the cl-2 row rewritten. b.strategy (51%, idle, unpushed work) asked to push and capture, then archive. No sealed mail.
 - 16:04 UTC: design site Pages failing axe since 25 Nov: its own build.mjs (not the seed's) fades the version chip; design.b will not edit shared CI; b.factory needs Dinis's word to restore the seed file (also on Chiswick Cheese Market, no live keeper). Put to Dinis.
 - 15:50 UTC (memo dinis.2026-11-26T1546Z.b): podcast v1 yes and audio-platform research to suno.b; started b.stories (second stories), home asked of b.factory; feedback-loop protocol asked of b.feedback.
