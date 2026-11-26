@@ -25,6 +25,12 @@ At Dinis's word in maestro.b's session, about 13:20 UTC 26 Nov (guidance/2026-11
 - Consent: the vault UI writes consent.json as one commit; b.vault.keeper countersigns its commit id and hash into the signed manifest; keepers use only uploads made at or before a countersigned consent.
 - b.security has b.vault.keeper's plan for review. A demo vault for a fictional owner comes next; b.feedback is asked whether an append lane can serve as an upload-only path until temporary write tokens exist.
 
+## b.security's conditions, before any real owner (Site__Agent__Security 6db7195, accepted by b.vault.keeper)
+1. The QR carries the vault key encrypted under a one-time code (8+ random characters) that Dinis gives the owner by another channel: **he hands over a QR and, separately, a short code.**
+2. A strict onboarding page: the key is stripped from the address and kept in memory only, connections limited, no telemetry.
+3. Rekey at the end of the owner's first session, the new key sealed to a browser key made for the owner; an unused QR expires after 24 hours.
+4. The backup sealed only to Dinis's own key, stored where a reclaimed container cannot lose it, with a test restore first.
+
 ## Steps
 1. **Today:** each new agent makes its key and sends its one-page plan; b.factory makes the two homes; the CRM gets its vault keys sealed to its new key.
 2. **Demo:** b.onboarding and b.vault.keeper ship one fictional owner's vault end to end (QR, type, uploads, consent), clearly marked.
@@ -36,6 +42,7 @@ At Dinis's word in maestro.b's session, about 13:20 UTC 26 Nov (guidance/2026-11
 - **In cl-2.crm.dev's session** (https://claude.ai/code/session_01Kw9UwDtVrNDaZZiNceBp5H): attach Site__Tool__CRM (push, dev only); where its key is published; which vault holds the real hot list (it suggests a new confidential "Site owners" vault made in Dinis's browser, so no agent holds the data); whether to rotate the Requests inbox's enum key (crm.dev.a once printed part of it in its own session).
 - **In b.onboarding's session** (https://claude.ai/code/session_01Kw9UwDY33zG6K3quxgKEAA): push to Site__Agent__Onboarding.
 - **In cl-2.mail.dev's session** (https://claude.ai/code/session_01Kw9UwBXbhLqW5YqytqTBTn): push to AgentiCCells__Cell__Email.
+- **In b.vault.keeper's session** (https://claude.ai/code/session_01Kw9UwCUDLQXnbN4p3v3aSi): confirm, in your own words, your own key's fingerprint (b.security gives sha256:db7f79fdd87e030a), so it pins it from you and not from a record. Until then it seals no backup and signs nothing as endorsed.
 - **For b.vault.keeper:** its keys live only in its session, and a reclaimed container loses every owner's keys. It suggests a backup copy sealed to your public key only (ciphertext in maestro.b's sealed/ folder), so only you can recover it. Yes or no.
 - **Who keeps sgit-ai**, for the two feature asks (I have asked the other maestros too).
 - **cl-2.mail.dev's wake:** the old Gmail keeper had an hourly wake; I create the new one only on your word.
