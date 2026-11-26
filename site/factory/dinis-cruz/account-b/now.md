@@ -71,4 +71,4 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - The partner approach drafted by b.outreach (with the platform site link once live): read and send it yourself; and whether it may be named in public files (I have kept it out for now).
 - b.social's questions: channels beyond Instagram and LinkedIn, posting frequency, approval day, who puts posts into Buffer.
 - In suno.b's session (https://claude.ai/code/session_01Kw9UwAwZ5JHkJXJQh9Ym17): yes to episode 1 as a public Suno playlist (nine liked songs and eleven labelled synthetic presenter clips), and whether to spend download credits for a single file for Spotify.
-- Starting the keepers of the Buffer, LinkedIn and self-publishing sites (b.sites is asking in its session).
+- Starting the keepers b.site.buffer, b.site.linkedin, b.site.self-publishing (homes exist, IaC c1ae026), and on which account (b.sites is asking in its session).

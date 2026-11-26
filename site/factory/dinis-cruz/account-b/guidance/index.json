@@ -131,14 +131,14 @@
      "where": "IaC 910bf50"
     },
     {
-     "by": "b.factory",
-     "work": "Buffer, LinkedIn and Self-Publishing site homes",
-     "where": "IaC 3ba79d9, waiting on b.decisions"
-    },
-    {
      "by": "b.social",
      "work": "home, key, area and weekly plan",
      "where": "Site__Agent__Social 4ddbdc4, 6b0df02"
+    },
+    {
+     "by": "b.factory",
+     "work": "Site__Platform__Buffer, Site__Platform__LinkedIn, Site__Services__Self-Publishing created",
+     "where": "IaC c1ae026"
     }
    ]
   },
