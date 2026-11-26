@@ -1,0 +1,115 @@
+{
+ "about": "Index of Dinis's own words received in maestro.b's session (account B), one page each, by date. Every brief and message that follows from a memo carries its id; each agent that takes work replies with its work id and where it lives, recorded under 'work'. Proposal: briefs/2026-11-26-provenance-ids.md.",
+ "updated": "2026-11-26T15:45Z",
+ "memos": [
+  {
+   "id": "dinis.2026-11-24T1100Z.b",
+   "file": "guidance/2026-11-24-morning-sync-verbatim.md",
+   "topic": "morning sync: start maestros, CRM, repos per agent",
+   "briefs": [
+    "briefs/2026-11-24-morning-sync.md"
+   ],
+   "delegated_to": [],
+   "work": []
+  },
+  {
+   "id": "dinis.2026-11-25T1145Z.b",
+   "file": "guidance/2026-11-25-first-customers-verbatim.md",
+   "topic": "first customer sites; onboarding agent",
+   "briefs": [
+    "briefs/2026-11-25-first-customer-sites.md"
+   ],
+   "delegated_to": [
+    "b.site.lee-elle-horowitz",
+    "b.site.moving-van",
+    "b.onboarding"
+   ],
+   "work": []
+  },
+  {
+   "id": "dinis.2026-11-25T1859Z.b",
+   "file": "guidance/2026-11-25-start-abp-verbatim.md",
+   "topic": "start the ABP agent",
+   "briefs": [],
+   "delegated_to": [
+    "b.abp"
+   ],
+   "work": []
+  },
+  {
+   "id": "dinis.2026-11-25T2220Z.b",
+   "file": "guidance/2026-11-25-handover-test-verbatim.md",
+   "topic": "session handover test",
+   "briefs": [
+    "handovers/2026-11-25-test.md"
+   ],
+   "delegated_to": [
+    "b.observability",
+    "b.design"
+   ],
+   "work": []
+  },
+  {
+   "id": "dinis.2026-11-26T1320Z.b",
+   "file": "guidance/2026-11-26-onboarding-vaults-verbatim.md",
+   "topic": "owners' vaults by QR code; CRM, Gmail, Calendar agents",
+   "briefs": [
+    "briefs/2026-11-26-onboarding-vaults.md",
+    "briefs/2026-11-26-plan-of-action.md"
+   ],
+   "delegated_to": [
+    "b.onboarding",
+    "b.vault.keeper",
+    "cl-2.crm.dev",
+    "cl-2.mail.dev",
+    "b.calendar"
+   ],
+   "work": []
+  },
+  {
+   "id": "dinis.2026-11-26T1525Z.b",
+   "file": "guidance/2026-11-26-health-emailfs-verbatim.md",
+   "topic": "handovers regularly; maestro health on GitHub; short-lived sessions; EmailFS; car insurance; onboarding options",
+   "briefs": [
+    "briefs/2026-11-26-maestro-health.md",
+    "briefs/2026-11-26-emailfs.md"
+   ],
+   "delegated_to": [
+    "b.site.car-buyer",
+    "b.onboarding",
+    "a.maestro",
+    "c.maestro",
+    "d.maestro"
+   ],
+   "work": []
+  },
+  {
+   "id": "dinis.2026-11-26T1531Z.b",
+   "file": "guidance/2026-11-26-social-podcast-selfpub-verbatim.md",
+   "topic": "social media agent; Buffer and LinkedIn sites; songs podcast; self-publishing site",
+   "briefs": [
+    "briefs/2026-11-26-social-podcast-selfpub.md"
+   ],
+   "delegated_to": [
+    "b.social",
+    "suno.b",
+    "instagram.b",
+    "b.outreach",
+    "b.sites"
+   ],
+   "work": []
+  },
+  {
+   "id": "dinis.2026-11-26T1543Z.b",
+   "file": "guidance/2026-11-26-provenance-and-book-verbatim.md",
+   "topic": "provenance: memos indexed by date and topic, IDs both ways; book outreach to local shops, author copies",
+   "briefs": [
+    "briefs/2026-11-26-provenance-ids.md"
+   ],
+   "delegated_to": [
+    "b.librarian"
+   ],
+   "work": []
+  }
+ ]
+}
