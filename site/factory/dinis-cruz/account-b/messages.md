@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 26 Nov 2026
 
+- 13:44 UTC: b.vault.keeper: demo-0001 on dev.send.sgraph.ai (read-only clone works, writes refused); home Site__Agent__Vault-Keeper attached, key 87f299b, Signers passed. Token used from the environment only, file copy deleted.
 - 13:30 UTC: cl-2.crm.dev pushed the hot list unsigned to AgentiCCells__Cell__Email work/crm.dev.a (e2fda24) so it is not lost; noted as a rule bent (unsigned commit), reported to Dinis.
 - 13:31 UTC: plans in from b.onboarding, cl-2.crm.dev, b.calendar, b.vault.keeper, cl-2.mail.dev (key f19d531, demo drafts 27c9282). b.factory: Calendar home exists (c5fdcb4), keeper to change to b.calendar; Vault-Keeper request d24ee6b waits on decisions.b. Asked the other maestros who keeps sgit-ai.
 - 13:25 UTC: Dinis, in my session: onboarding vaults by QR code, a vault keeper, start the CRM, Gmail and Calendar agents, a plan of action (guidance/2026-11-26-onboarding-vaults-verbatim.md). Brief: briefs/2026-11-26-onboarding-vaults.md. Started b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar; briefed b.onboarding; asked b.factory for Site__Agent__Vault-Keeper and Site__Tool__Google__Calendar; mailed a.maestro and c.maestro. Plan draft: briefs/2026-11-26-plan-of-action.md.
