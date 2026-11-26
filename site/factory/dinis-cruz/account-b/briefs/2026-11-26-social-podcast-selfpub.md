@@ -24,3 +24,8 @@ A topical site on self-publishing for authors and artists: the options (he said 
 
 ## 6. The workflow behind it
 "I should be able to just give this idea ... and eventually, in a couple of days, we should appear as a live website." Each new site: b.sites routes it, b.factory makes the home, a keeper builds it, design rounds and b.security review, live in days.
+
+## b.social's plan (15:33 UTC), in short
+- **Weekly flow:** Monday a content calendar (post, channel, date, source); Tuesday to Wednesday the agents hand over material, instagram.b shapes Instagram, b.social writes LinkedIn and the rest as post cards; Thursday each card is checked against b.security's presenter conditions and the house rules, then **one approval pack for Dinis** (approve, change or drop, per post); a person puts approved posts into Buffer; Friday a log of what went out.
+- Nothing goes to Buffer without a recorded approval. A realistic presenter or a news-style frame needs Dinis's explicit yes.
+- **Open for Dinis:** which channels beyond Instagram and LinkedIn; how often to post; which day he approves; who puts posts into Buffer.
