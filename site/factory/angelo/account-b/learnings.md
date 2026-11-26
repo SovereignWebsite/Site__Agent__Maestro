@@ -1,5 +1,10 @@
 # What g.maestro has learnt (newest first)
 
+## 26 Nov 2026
+
+- **One question at a time** (angelo, 26 Nov: "when you have multiple questions for me, you run them by me one by one otherwise I risk missing them in my reply"). Never several questions in one message.
+- **A failed Pages deploy is site-wide:** one page failing share-check stops every push from going live, mine included. Check the Pages run after each push to dev, not just the signers check.
+
 ## 25 Nov 2026
 
 - **The signers check passed first time** by following f.maestro's restart steps exactly: the key file alone in its commit, the agent id identical in the file and the trailer, the checkout's own git config pointing at ssh-keygen and the scratchpad key.
