@@ -144,6 +144,11 @@
    "name": "b.calendar (SovereignWebsite)",
    "session": "https://claude.ai/code/session_01Kw9UwCLJpupMBWBJU774B1",
    "does": "the Google Calendar tool (started 26 Nov, Sonnet)"
+  },
+  {
+   "name": "b.social (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwF8CPq1t72KDUezjB7",
+   "does": "the social media agent: every channel, approved posts to Buffer (started 26 Nov, Sonnet)"
   }
  ]
 }
