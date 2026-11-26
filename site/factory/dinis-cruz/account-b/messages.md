@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 26 Nov 2026
 
+- 21:22 UTC: c.maestro relayed Dinis's feedback on episode 1 (in its session ~20:00 UTC): voice too sensual; background music; fades; other mediums; songs with notes in a vault for the SGit iOS app. Sent to suno.b (vault via b.vault.keeper; download credits need Dinis).
 - 21:19 UTC wake: quiet.
 - 20:19 UTC wake: 4-hourly report rewritten; no sealed mail; no other maestro report.
 - 19:21 UTC: c.maestro (18:34Z): neither sgit-ai's keeper nor the book agent runs on C; asks counsel on Mistral preset voice terms (mailed d.maestro for d.counsel); ten clean covers ready (24fcda9).
