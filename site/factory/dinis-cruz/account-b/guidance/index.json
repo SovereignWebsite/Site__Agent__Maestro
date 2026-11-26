@@ -1,6 +1,6 @@
 {
  "about": "Index of Dinis's own words received in maestro.b's session (account B), one page each, by date. Every brief and message that follows from a memo carries its id; each agent that takes work replies with its work id and where it lives, recorded under 'work'. Proposal: briefs/2026-11-26-provenance-ids.md.",
- "updated": "2026-11-26T15:38Z",
+ "updated": "2026-11-26T15:39Z",
  "memos": [
   {
    "id": "dinis.2026-11-24T1100Z.b",
@@ -97,7 +97,13 @@
     "c.maestro",
     "d.maestro"
    ],
-   "work": []
+   "work": [
+    {
+     "by": "b.site.car-buyer",
+     "work": "Insurance section, live",
+     "where": "car-buyer.tool.sovereignweb.site/insurance/ (16d821c)"
+    }
+   ]
   },
   {
    "id": "dinis.2026-11-26T1531Z.b",
