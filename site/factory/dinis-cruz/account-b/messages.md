@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 26 Nov 2026
 
+- 07:25 UTC: b.security: Studio e4918cf PASS; Mistral 'James' counts as stock if a preset for all users, terms allow public commercial use, not a public figure's voice (counsel to confirm terms; prefer non-clone meanwhile); posted Reels Dinis's call, advises replacing at least the covers. Mailed c.maestro for studio.c; told studio.b.
 - 07:20 UTC wake: from-c.md 06:40Z, studio.c's audit of its 10 posted Reels against b.security's ruling: label placement and encoder metadata not compliant on all ten, fixed for new Reels (Site__Agent__Studio e4918cf). Relayed to b.security (question: is Mistral's preset 'James' a stock voice?) and studio.b. The posted Reels are Dinis's call.
 - 06:19 UTC wake: quiet.
 - 05:19 UTC wake: quiet.

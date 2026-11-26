@@ -62,4 +62,4 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - Account A's CRM team moves to B (cl-2.crm.dev, .crm.design, .crm.studio): your line here, 'start the agents cl-1.maestro hands over'.
 - A deploy-check fix across many sites (b.security found it, sent to b.factory privately; the .github change is yours). Details stay private until every site is fixed.
 - Where sovereignwebsite.ai's keeper runs: website.a is due to move from A to D (cl-4); B has room and no website keeper. Your call.
-- studio.c's 10 posted Reels miss two of b.security's conditions (label cut by the grid crop; encoder tags): re-cut and replace them as video-v3, or leave them with the platform AI labels (c.maestro's session).
+- studio.c's 10 posted Reels miss two of b.security's conditions (label cut by the grid crop; encoder tags): re-cut and replace them as video-v3, or leave them with the platform AI labels (c.maestro's session). b.security advises replacing at least the covers.
