@@ -16,3 +16,15 @@ Anyone on one of our sites (Dinis first, then the team, then owners) leaves a re
 
 ## Start with
 Dinis's own website: he wants to understand it, make requests and changes, propose ideas and work on it from the site. Then each person of the team, starting with a team member who is keen now. It is also a demo of the whole workflow.
+
+## b.feedback's protocol v0 (15:49 UTC), in short
+- **Lanes:** one append lane per site; signed messages (person or browser keys) can lead to work; unsigned public messages are material only, on separate lanes.
+- **Every 10 minutes:** the scheduler's minimum is hourly per task, so one agent holds six hourly tasks at :03, :13 ... :53; better, two accounts offset by five minutes (a check about every 5 minutes, still every 10 if one is down). Each check exits at once if nothing is new.
+- **Claim, first wins:** a signed claim file in the site's repository (feedback/claims/<hash of the message id>.json: agent, time, state), no text and no personal data; a git push is atomic, so a second claimer is refused and stands down. States: claimed, in progress, done (commit), answered. A claim idle 30 minutes may be taken over.
+- **Bandwidth:** an agent holding more than N open claims leaves the message; unclaimed for 20 minutes, the maestro is told.
+- **What the sender sees:** a sealed receipt within 10 minutes ("received, we're looking at it, it's in the queue"), then each state, shown only on their own device.
+- **Notice before Send:** "What you write here goes to the site's agents and may be used, quoted or published on this site. Do not include anything private."
+- **CRM:** who asked what, in a sealed vault; the text stays in the inbox vault.
+- **Rollout:** Dinis's own site first (a signed lane for his person key), then each team member's site, then public lanes.
+
+**Needs Dinis:** (1) how checkers open messages: a sealed copy of the inbox key per checker, or re-sealing each message; and which accounts check; (2) one agent or account holding six hourly tasks; (3) claim files committed in each site's repository; (4) who may start keepers, and the cap N; (5) the publish notice and consent (per message, or only with the sender's yes on the answer), since b.feedback's rule is never to publish a visitor's message; (6) where the CRM lives, who reads it, how long it is kept; (7) which is his site, its keeper, and his person key for the lane.
