@@ -10,6 +10,7 @@ Dinis, 24 Nov 2026: "if this session is archived, you should be able to continue
    Then tell every agent holding a vault key sealed to the old key to re-seal it to the new one (record 2026-11-23__vault-keys-to-maestro).
 3. **Open the inboxes first thing, then drain them at every wake:** your sealed maestro inbox (maestro_mail.py open, then drain) and the shared vault channel.
 4. **Find the sessions:**
+   - **Navigate before you ask (second story 0001, 26 Nov):** to find an agent or a piece of work, look up to 5 hops: this area's sessions.json and guidance/index.json, list_sessions on B, site/accounts/accounts.json, each account's agent.json, sessions.json and today page, then a full-text search of Site__Agent__Maestro. Only if all 5 miss, ask; and record the miss as a gap for b.stories before asking.
    - On account B, use list_sessions (titles start with "b.") and get_session for each conductor. The conductors are b.conductor (SovereignWebsite) at https://claude.ai/code/session_01Kw9UwFkKH5CkDmV8nhSfUD and b.decisions at https://claude.ai/code/session_01Kw9UwEVSYcMDgNqrPVfCtZ.
    - Check list_triggers for the wakes. Since 23 Nov 01:26 UTC none are recurring; Dinis re-enables them himself.
 5. **Tell the other maestros and b.decisions that you have taken over,** with your session link, through the channel and the inboxes.

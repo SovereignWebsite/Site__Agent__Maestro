@@ -1,5 +1,5 @@
 {
- "about": "Index of Dinis's own words received in maestro.b's session (account B), one page each, by date. Every brief and message that follows from a memo carries its id; each agent that takes work replies with its work id and where it lives, recorded under 'work'. Proposal: briefs/2026-11-26-provenance-ids.md.",
+ "about": "Index of Dinis's own words received in maestro.b's session (account B), one page each, by date. Every brief and message that follows from a memo carries its id; each agent that takes work replies with its work id and where it lives, recorded under 'work'. Proposal: briefs/2026-11-26-provenance-ids.md. Each memo may list its separate asks under 'asks', each with its owner and state.",
  "updated": "2026-11-26T15:48Z",
  "memos": [
   {
@@ -152,7 +152,25 @@
    "delegated_to": [
     "b.librarian"
    ],
-   "work": []
+   "work": [
+    {
+     "by": "b.stories",
+     "work": "second story 0001: why maestro.b could not find the book agent",
+     "where": "artifact QnnBfWUWqekupE7VWMy4yH (to commit in Site__Agent__Stories)"
+    }
+   ],
+   "asks": [
+    {
+     "ask": "provenance: memo ids, index, backlinks",
+     "owner": "maestro.b (started), b.librarian (scheme)",
+     "state": "started"
+    },
+    {
+     "ask": "book: approach local publishers and bookshops; author copies from Amazon; the legality of reselling them",
+     "owner": "the book agent: probably one-human-nine-agents.a on account A (keeper of the book's site, session_018yvwtNfpegfLMBhUK1FCxb), to confirm with Dinis; account A is silent",
+     "state": "no owner yet"
+    }
+   ]
   },
   {
    "id": "dinis.2026-11-26T1546Z.b",
