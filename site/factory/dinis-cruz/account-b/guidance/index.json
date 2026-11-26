@@ -1,6 +1,6 @@
 {
  "about": "Index of Dinis's own words received in maestro.b's session (account B), one page each, by date. Every brief and message that follows from a memo carries its id; each agent that takes work replies with its work id and where it lives, recorded under 'work'. Proposal: briefs/2026-11-26-provenance-ids.md.",
- "updated": "2026-11-26T15:39Z",
+ "updated": "2026-11-26T15:48Z",
  "memos": [
   {
    "id": "dinis.2026-11-24T1100Z.b",
@@ -151,6 +151,22 @@
    ],
    "delegated_to": [
     "b.librarian"
+   ],
+   "work": []
+  },
+  {
+   "id": "dinis.2026-11-26T1546Z.b",
+   "file": "guidance/2026-11-26-second-stories-feedback-loop-verbatim.md",
+   "topic": "podcast v1; audio platforms with upload APIs and live stats; second stories (root-cause of gaps, budgeted); better briefing; the website feedback loop picked up within 10 minutes; start with Dinis's own site, then the team",
+   "briefs": [
+    "briefs/2026-11-26-second-stories.md",
+    "briefs/2026-11-26-feedback-loop.md"
+   ],
+   "delegated_to": [
+    "suno.b",
+    "b.stories",
+    "b.feedback",
+    "b.accountant"
    ],
    "work": []
   }
