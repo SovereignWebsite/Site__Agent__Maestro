@@ -1,0 +1,26 @@
+{
+ "account": "cl-2",
+ "was": "B",
+ "maestro": "b.maestro (maestro.b@account-b.dinis)",
+ "as_of": "2026-11-26T15:30Z",
+ "next_by": "2026-11-26T19:30Z",
+ "bandwidth": {
+  "week": "unknown since 43% on 24 Nov 11:15 UTC; asked of Dinis",
+  "resets": "Mon 30 Nov 00:00 UTC",
+  "maestro_context": "47% of its window (handover due near 50%, Dinis starts it)"
+ },
+ "centres_of_gravity": [
+  "owners' vaults by QR code (b.onboarding, b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar): briefs/2026-11-26-onboarding-vaults.md, plan briefs/2026-11-26-plan-of-action.md",
+  "first customer sites and their keepers",
+  "security, decisions and the factory for every account (b.security, b.decisions, b.factory)",
+  "sovereignwebsite.ai home page and the Hub (b.outreach, b.hub; website.a on A silent)"
+ ],
+ "running": "about 30 sessions; new today: b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar",
+ "can_take": "small keeper and review work; not large new projects while the week's use is unknown",
+ "to_hand_off": [
+  "EmailFS (briefs/2026-11-26-emailfs.md): for a maestro on another account",
+  "b.conductor (71%) and b.factory (70%) session handovers"
+ ],
+ "waiting_on_dinis": "now.md",
+ "handovers": "protocol v1 run twice on 25 Nov (handovers/2026-11-25-test.md); checked at every wake from 26 Nov"
+}

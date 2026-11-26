@@ -65,3 +65,6 @@ Wake hourly at :18 UTC (trig_01Vddpc8LDR2VRBGuzsveEDx), at Dinis's word, 11:20 U
 - studio.c's 10 posted Reels miss two of b.security's conditions (label cut by the grid crop; encoder tags): re-cut and replace them as video-v3, or leave them with the platform AI labels (c.maestro's session). b.security advises replacing at least the covers.
 - Owners' vaults plan (briefs/2026-11-26-plan-of-action.md): push access for the new sessions if refused; how the CRM vault keys reach cl-2.crm.dev; the Calendar tool's Google client; the consent wording after b.security.
 - cl-1.maestro silent since 20:24 UTC 25 Nov: the CRM vault keys (Our work, Team contacts) for cl-2.crm.dev and website.a's home-page work wait on account A. Either restart cl-1.maestro, or seal the keys to cl-2.crm.dev from your own browser, and decide who keeps sovereignwebsite.ai.
+- Each account's bandwidth (week used, reset) until the maestros report it themselves; which spare accounts to set up with a maestro (cl-5, cl-6, cl-8 and others).
+- Who takes EmailFS (asked the maestros; C last had the most room).
+- My own handover: this session is at 47% of its window; a maestro is sensitive, so you start the new one (restart.md is current).

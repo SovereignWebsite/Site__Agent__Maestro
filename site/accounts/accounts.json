@@ -23,9 +23,10 @@
    "maestro": "b.maestro",
    "session": "https://claude.ai/code/session_01Kw9UwEbwyWMbZ7yCr81Dq9",
    "area": "/factory/dinis-cruz/account-b/",
-   "focus": "decisions, security, feedback, factory.b, onboarding, first customer sites, reviews of A's work",
-   "room": "43% on 24 Nov ~11:15 UTC; resets Mon 00:00 UTC",
-   "status": "running"
+   "focus": "owners' vaults (onboarding, vault keeper, CRM, Gmail, Calendar), first customer sites, decisions, security, factory.b",
+   "room": "unknown since 43% on 24 Nov; asked of Dinis 26 Nov; resets Mon 30 Nov 00:00 UTC",
+   "status": "running",
+   "report": "/factory/dinis-cruz/account-b/report.json"
   },
   {
    "id": "cl-3",

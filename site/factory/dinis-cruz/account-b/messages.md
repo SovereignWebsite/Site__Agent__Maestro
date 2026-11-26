@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 26 Nov 2026
 
+- 15:32 UTC: Dinis, in my session: handovers regularly, maestro check-ins every 4 hours on GitHub, short-lived sessions with a librarian consolidation, EmailFS on another account, car insurance section, onboarding options (GitHub OAuth, AI in the browser), set up maestros on the other accounts (guidance/2026-11-26-health-emailfs-verbatim.md). Done: wake prompt updated (handover check, 4-hourly report); report.json and the cl-2 accounts row; briefs maestro-health and emailfs; mailed a, c, d; car-buyer and onboarding briefed; archived mistral.workflows, mistral.promptugal, b.chiswick-cheese-market (all finished).
 - 15:18 UTC wake: quiet; account A still silent.
 - 14:19 UTC wake: no sealed mail. cl-1.maestro's last heartbeat 20:24 UTC 25 Nov (18 hours): account A looks stopped, so the vault keys for cl-2.crm.dev and the website.a chase may not be answered. Put to Dinis.
 - 13:44 UTC: b.vault.keeper: demo-0001 on dev.send.sgraph.ai (read-only clone works, writes refused); home Site__Agent__Vault-Keeper attached, key 87f299b, Signers passed. Token used from the environment only, file copy deleted.
