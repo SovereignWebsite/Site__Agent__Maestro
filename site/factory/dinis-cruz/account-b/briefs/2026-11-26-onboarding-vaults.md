@@ -30,3 +30,12 @@ Owners whose sites already exist and need their own photos and edits (Emily's, G
 - **CRM** (cl-2.crm.dev): the hot list of owners Dinis is working with now, each one's stage (QR sent, uploads in, site built, editing), and the next step for him.
 - **Mail** (cl-2.mail.dev) and **Calendar** (cl-2.calendar): drafts and follow-ups Dinis sends himself; the calls booked. No agent sends mail.
 - Security: b.security reviews the vault UI, the consent wording and the key handling before the first real owner uses it.
+
+## Extended end to end (from b.outreach, quoting Dinis in its session about 18:20 UTC)
+"Let's build this workflow (which is not for you to build) since it is also needed for our other use cases"; "what I want to nail is the full onboarding experience ... make it super easy to receive that data (already from our environment and vaults, all from an initial QR code)". Free for owners for now.
+1. Invite: one QR or link per owner.
+2. Intake: CV, links, photos and words into the owner's vault, never by email.
+3. Five designs on the owner's own preview link.
+4. The owner picks one; it goes live in the owner's repository on GitHub Pages.
+5. Changes in plain words through the web CMS (phase 1: the GitHub browser tool with a read-only token; phase 2: sign-in with GitHub, Dinis's one-way door, with its own security review).
+Plus a public invite page on sovereignwebsite.ai (one finished site in five designs, three steps, what the owner owns, "free for now", one "Yes, make mine" button); its keeper is with Dinis. b.onboarding owns the flow; b.outreach fact-checks the copy.
