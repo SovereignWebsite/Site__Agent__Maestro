@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 26 Nov 2026
 
+- 23:31 UTC: new b.conductor session (started by Dinis) escalated, at his word, a signing-key step refused by the permission check (also blocks mistral.conductor). Routed to b.stories as story 0003.
 - 23:19 UTC wake: quiet.
 - 22:19 UTC wake: quiet.
 - 21:27 UTC: b.vault.keeper made the songs show vault (ef0qj1ju); id mailed to c.maestro for the SGit iOS player team; keys wait on suno.b's and the account C receiver's bundles; no audio until Dinis approves credits.

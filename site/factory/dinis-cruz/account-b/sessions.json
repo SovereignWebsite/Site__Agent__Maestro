@@ -8,7 +8,7 @@
   {
    "name": "b.conductor (SovereignWebsite)",
    "session": "https://claude.ai/code/session_01Kw9UwFkKH5CkDmV8nhSfUD",
-   "does": "conductor of the Sovereign Website team (fresh session since 22:46 UTC 23 Nov)"
+   "does": "conductor of the Sovereign Website team (fresh session since 22:46 UTC 23 Nov) (replaced by a new session at Dinis's word, 26 Nov ~23:20 UTC)"
   },
   {
    "name": "b.decisions (SovereignWebsite)",
@@ -169,6 +169,11 @@
    "name": "b.github-tool (SovereignWebsite)",
    "session": "https://claude.ai/code/session_01Kw9UwC59W4aRGQCQtPtxzz",
    "does": "keeper of the GitHub browser tool, from github-tool.a (record a11d1d3, 26 Nov, Sonnet)"
+  },
+  {
+   "name": "b.conductor (SovereignWebsite), new session",
+   "session": "https://claude.ai/code/session_01Kw9UwBrWEfUnBbb4gCS9cg",
+   "does": "conductor of the Sovereign Website team (started by Dinis, 26 Nov)"
   }
  ]
 }
