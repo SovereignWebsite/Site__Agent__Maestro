@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 26 Nov 2026
 
+- 13:31 UTC: plans in from b.onboarding, cl-2.crm.dev, b.calendar, b.vault.keeper, cl-2.mail.dev (key f19d531, demo drafts 27c9282). b.factory: Calendar home exists (c5fdcb4), keeper to change to b.calendar; Vault-Keeper request d24ee6b waits on decisions.b. Asked the other maestros who keeps sgit-ai.
 - 13:25 UTC: Dinis, in my session: onboarding vaults by QR code, a vault keeper, start the CRM, Gmail and Calendar agents, a plan of action (guidance/2026-11-26-onboarding-vaults-verbatim.md). Brief: briefs/2026-11-26-onboarding-vaults.md. Started b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar; briefed b.onboarding; asked b.factory for Site__Agent__Vault-Keeper and Site__Tool__Google__Calendar; mailed a.maestro and c.maestro. Plan draft: briefs/2026-11-26-plan-of-action.md.
 - 13:18 UTC wake: quiet.
 - 12:18 UTC wake: quiet. Account A's moves target (12:00 UTC today) has passed with the CRM team still on A, waiting on Dinis's line here.

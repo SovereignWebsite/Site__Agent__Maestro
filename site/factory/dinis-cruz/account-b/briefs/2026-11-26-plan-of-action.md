@@ -9,8 +9,8 @@ At Dinis's word in maestro.b's session, about 13:20 UTC 26 Nov (guidance/2026-11
 | b.onboarding | Sonnet | owns the workflow; builds the vault UI (welcome, site type with examples, gallery and upload, public-use consent, what happens next) | plan in 13:24: agree folders with the keeper, no-LLM demo, reuse vault tools, b.security before any real owner; **push to Site__Agent__Onboarding refused** |
 | b.vault.keeper | Opus | the only agent that creates owners' vaults and holds their keys; QR access; sealing and signing; the "temporary write tokens" ask | plan in 13:25 (below); key made; home asked of b.factory |
 | cl-2.crm.dev | Opus | the CRM, moved from account A; first job: Dinis's hot list of owners and their stage | plan in 13:24: a #/hot page (stage, next step, days waiting), data only in an encrypted vault; tests 24/24 (one maybe flaky); **holds until Dinis speaks in its session** |
-| cl-2.mail.dev | Sonnet | the Gmail tool, moved from A; drafts Dinis sends himself (QR, uploads in, site ready) | working; **push to the Email Cell refused** |
-| b.calendar | Sonnet | a Google Calendar tool, the Gmail tool's twin; calls with owners | plan in 13:24: read Dinis's own calendar in his browser, propose three slots, invite as a draft he creates himself; key made; waits for its home |
+| cl-2.mail.dev | Sonnet | the Gmail tool, moved from A; drafts Dinis sends himself (QR, uploads in, site ready) | key published (f19d531), demo onboarding drafts live in its site (27c9282: QR, uploads in, site ready; fictional owner); **push to the Email Cell refused**; no wake yet |
+| b.calendar | Sonnet | a Google Calendar tool, the Gmail tool's twin; calls with owners | plan in 13:24: read Dinis's own calendar in his browser, propose three slots, invite as a draft he creates himself; key made; its home Site__Tool__Google__Calendar already exists (c5fdcb4), b.factory making it keeper; needs push |
 | b.security | Opus | reviews the vault UI, consent wording and key handling before the first real owner | to brief once the plans are in |
 | each site's keeper | Sonnet | builds the owner's site from the vault's folders | after the demo |
 
@@ -33,7 +33,8 @@ At Dinis's word in maestro.b's session, about 13:20 UTC 26 Nov (guidance/2026-11
 - **In cl-2.mail.dev's session** (https://claude.ai/code/session_01Kw9UwBXbhLqW5YqytqTBTn): push to AgentiCCells__Cell__Email.
 - **For b.vault.keeper:** its keys live only in its session, and a reclaimed container loses every owner's keys. It suggests a backup copy sealed to your public key only (ciphertext in maestro.b's sealed/ folder), so only you can recover it. Yes or no.
 - **Who keeps sgit-ai**, for the two feature asks (I have asked the other maestros too).
-- **For b.calendar:** the Google client and consent screen (freebusy and calendar.events only), which calendar, your working hours.
+- **cl-2.mail.dev's wake:** the old Gmail keeper had an hourly wake; I create the new one only on your word.
+- **For b.calendar:** push to Site__Tool__Google__Calendar, in its session (https://claude.ai/code/session_01Kw9UwCLJpupMBWBJU774B1), if refused; the Google client and consent screen (freebusy and calendar.events only), which calendar, your working hours.
 - Push access for each new session, in its own session, if refused.
 - How the CRM's vault keys reach cl-2.crm.dev (cl-1.maestro holds Our work and Team contacts).
 - Whether a.crm.design and a.crm.studio move to B at all, since design now happens on other accounts.
