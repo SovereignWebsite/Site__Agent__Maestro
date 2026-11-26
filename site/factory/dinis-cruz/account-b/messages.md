@@ -25,6 +25,10 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 | c.maestro | C | sealed inbox maestro.c-account-c |
 | d.maestro | D | sealed inbox maestro.d-account-d |
 
+## 26 Nov 2026
+
+- 00:18 UTC wake: quiet; daily debrief written (debriefs/2026-11-26-handover.md).
+
 ## 25 Nov 2026
 
 - 23:18 UTC wake: no sealed mail; nothing addressed to me. Noted from account C: c.ios started at Dinis's word (takes over conductor.a.ios, which stays stopped).
