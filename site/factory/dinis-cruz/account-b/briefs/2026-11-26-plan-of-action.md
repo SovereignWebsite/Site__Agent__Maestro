@@ -20,6 +20,11 @@ At Dinis's word in maestro.b's session, about 13:20 UTC 26 Nov (guidance/2026-11
 - The QR opens b.onboarding's vault UI with the owner's vault key in the link's fragment (never sent to a server). It is a bearer credential: Dinis hands it over himself; a rekey when the site goes live kills old QRs, then the vault is the owner's for good.
 - Asks for the sgit-ai keeper: temporary write tokens (one vault, one path, create-only, expiring, capped, revocable, server-checked) and path-scoped read keys. Then the QR carries an upload-only token and the full key never leaves the keeper.
 
+## Settled between the agents (13:26)
+- Folder layout agreed between b.onboarding and b.vault.keeper.
+- Consent: the vault UI writes consent.json as one commit; b.vault.keeper countersigns its commit id and hash into the signed manifest; keepers use only uploads made at or before a countersigned consent.
+- b.security has b.vault.keeper's plan for review. A demo vault for a fictional owner comes next; b.feedback is asked whether an append lane can serve as an upload-only path until temporary write tokens exist.
+
 ## Steps
 1. **Today:** each new agent makes its key and sends its one-page plan; b.factory makes the two homes; the CRM gets its vault keys sealed to its new key.
 2. **Demo:** b.onboarding and b.vault.keeper ship one fictional owner's vault end to end (QR, type, uploads, consent), clearly marked.
@@ -34,7 +39,7 @@ At Dinis's word in maestro.b's session, about 13:20 UTC 26 Nov (guidance/2026-11
 - **For b.vault.keeper:** its keys live only in its session, and a reclaimed container loses every owner's keys. It suggests a backup copy sealed to your public key only (ciphertext in maestro.b's sealed/ folder), so only you can recover it. Yes or no.
 - **Who keeps sgit-ai**, for the two feature asks (I have asked the other maestros too).
 - **cl-2.mail.dev's wake:** the old Gmail keeper had an hourly wake; I create the new one only on your word.
-- **For b.calendar:** push to Site__Tool__Google__Calendar, in its session (https://claude.ai/code/session_01Kw9UwCLJpupMBWBJU774B1), if refused; the Google client and consent screen (freebusy and calendar.events only), which calendar, your working hours.
+- **For b.calendar:** push to Site__Tool__Google__Calendar, in its session (https://claude.ai/code/session_01Kw9UwCLJpupMBWBJU774B1): refused, needs your yes there; the Google client and consent screen (freebusy and calendar.events only), which calendar, your working hours.
 - Push access for each new session, in its own session, if refused.
 - How the CRM's vault keys reach cl-2.crm.dev (cl-1.maestro holds Our work and Team contacts).
 - Whether a.crm.design and a.crm.studio move to B at all, since design now happens on other accounts.
