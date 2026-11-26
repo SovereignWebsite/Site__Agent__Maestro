@@ -6,9 +6,9 @@
   "role": "angelo's maestro on account B: the conductor of the conductors",
   "session": "https://claude.ai/code/session_01Xp7gj2Ti4J71Cadtg2oxxh",
   "key": "/keys/g.maestro.json",
-  "state": "live on dev: walking angelo through the questions, one at a time",
+  "state": "AB-01 asked; waiting on Dinis's yes in b.factory's session",
   "focus": "Area, key and pipeline v1 (70 rows) written. Next, at angelo's go: the Factory request for riskmandate-angelo's write access to Site__Tool__CRM and the Gmail tool's repository.",
-  "updated": "2026-11-26T14:30Z",
+  "updated": "2026-11-26T15:15Z",
   "wakes": "none: no scheduled task for g.maestro",
   "conductors": [
     {
@@ -53,6 +53,10 @@
     {
       "at": "2026-11-26T14:30Z",
       "event": "fixed the site-wide Pages failure (a.maestro's accounts page lacked sharing tags) at angelo's word (5e2e1b5)"
+    },
+    {
+      "at": "2026-11-26T15:15Z",
+      "event": "AB-01: ask to b.maestro and b.factory for riskmandate-angelo's write access written; message for Dinis drafted for angelo"
     }
   ]
 }

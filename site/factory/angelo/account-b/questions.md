@@ -1,5 +1,9 @@
 # g.maestro's questions for angelo (newest first)
 
+## 26 Nov 2026
+
+9. **Which account is this in the naming model?** a.maestro's [accounts page](/accounts/) lists cl-5 (Dinis's old "E") as angelo's account, with cl-5.maestro@angelo to start. That is angelo's account A, meant for maestro.e. This account (angelo's B) is not on the page. Should g.maestro add a row for it, and under which id?
+
 ## 25 Nov 2026
 
 1. **Answered 26 Nov: yes ("Yes go ahead"); merged as 220182a.** Was: may g.maestro merge its session branch into dev now, so this area and its key go live on the site?

@@ -2,7 +2,7 @@
  "about": "Every pending task and idea g.maestro has found on Angelo's account B, one row each, for Angelo to prioritise. Version 1. priority is null until Angelo sets it.",
  "owner": "angelo",
  "kept_by": "g.maestro@account-b.angelo",
- "updated": "2026-11-25T16:45Z",
+ "updated": "2026-11-26T15:15Z",
  "sources": [
   "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/tree/dev/people/angelo (dev at 53ef69a): conductor-b/STATE.md, conductor-b/runs.md, backlog.md, projects/*/STATE.md",
   "list_sessions and list_triggers on this account, status only"
@@ -11,13 +11,13 @@
  "items": [
   {
    "id": "AB-01",
-   "title": "Ask Dinis's Factory, through his maestros, for write access for riskmandate-angelo to SovereignWebsite/Site__Tool__CRM and the Gmail tool's repository (Dinis, 25 Nov: \"(b) is the best option\")",
+   "title": "Ask Dinis's Factory, through his maestros, for write access for riskmandate-angelo to SovereignWebsite/Site__Tool__CRM and SovereignWebsite/Site__Tool__Google__Gmail (Dinis, 25 Nov: \"(b) is the best option\")",
    "kind": "task",
    "area": "access",
    "since": "2026-11-25",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/conductor-b/STATE.md",
    "owner": "g.maestro",
-   "status": "waiting on Angelo: the go, once setup is done; the Gmail tool's exact repository name to confirm",
+   "status": "asked 26 Nov (asks/2026-11-26__to-b-maestro-write-access-for-riskmandate-angelo.md); waiting on Dinis's yes in b.factory's session",
    "design_needed": false,
    "priority": null
   },
