@@ -6,9 +6,9 @@
   "role": "angelo's maestro on account B: the conductor of the conductors",
   "session": "https://claude.ai/code/session_01Xp7gj2Ti4J71Cadtg2oxxh",
   "key": "/keys/g.maestro.json",
-  "state": "set up: waiting on angelo's answers and his word for dev",
+  "state": "live on dev: walking angelo through the questions, one at a time",
   "focus": "Area, key and pipeline v1 (70 rows) written. Next, at angelo's go: the Factory request for riskmandate-angelo's write access to Site__Tool__CRM and the Gmail tool's repository.",
-  "updated": "2026-11-25T16:50Z",
+  "updated": "2026-11-26T07:40Z",
   "wakes": "none: no scheduled task for g.maestro",
   "conductors": [
     {
@@ -45,6 +45,10 @@
     {
       "at": "2026-11-25T16:50Z",
       "event": "area and pipeline v1 written at /factory/angelo/account-b/"
+    },
+    {
+      "at": "2026-11-26T07:40Z",
+      "event": "merged into dev at angelo's word (220182a)"
     }
   ]
 }
