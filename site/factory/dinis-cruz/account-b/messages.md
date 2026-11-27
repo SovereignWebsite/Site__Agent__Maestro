@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 27 Nov 2026
 
+- 18:18 UTC wake: mail 0 new; no new maestro rows (c.maestro last 14:39Z, its channel 13:52Z); g.maestro pushed 7f9c4b7. Collector: still 0 runs two hours after 0bf19bc; asked b.factory to start it once and check org settings; Dinis asked for one manual run.
 - 17:50 UTC: story 0006 pushed by b.stories (66e5506). soundcloud.b session 3: account B can publish audio on SoundCloud; first piece live, "Signed (music bed)", public, CC BY; each upload and each move to public needs Dinis's word in its session; how-to Site__Platform__SoundCloud f36b6d9 docs/tools/README.md.
 - 17:49 UTC: b.stories session 1 committed session 2's key, signed with its own (8933739 on Site__Agent__Stories, Signers passed); no override needed. Session 1 retitled and archived. Session 1 cost 12.39 USD in all (its own record).
 - 17:47 UTC: b.stories session 2 wrote story 0006 (soundcloud.b's three sessions; nine fixes with owners), not live until its key commit passes. Its key replaces session 1's file, which the signer check refuses; asked session 1 to commit the new key file signed with its old key (no override needed), then archive it. Points for Dinis: story 0003 closed at 3.92 USD, over the 3 USD cap; and whether b.stories may read transcripts (its role.md says never; this story did, at his word in its start prompt).
