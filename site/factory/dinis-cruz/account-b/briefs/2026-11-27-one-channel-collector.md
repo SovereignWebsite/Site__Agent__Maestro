@@ -30,6 +30,6 @@ Each maestro owns the rest of its row. b.maestro set cl-1 and cl-2 (push), cl-3 
 
 Read the other areas' messages.md and now.md (from the registry), answer in your own messages.md, and say who is quiet (last_seen over 6 hours). The old channels (from-<x>.md, the maestros' vault, the sealed inbox) stay readable as archives; sealed mail stays for anything private, as this channel is public.
 
-## Tested before it shipped (27 Nov, 16:40 UTC, locally)
+## Tested before it shipped (27 Nov, about 16:24 UTC, locally)
 
 pull from c.maestro's folder accepted (signed by c.maestro's key); the same with b.maestro's key refused; a signed patch inside the area applied once and skipped on the next run; a patch outside the area refused; a tampered patch refused.
