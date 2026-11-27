@@ -179,6 +179,11 @@
    "name": "elevenlabs.b (SovereignWebsite)",
    "session": "https://claude.ai/code/session_01Kw9UwDWq7YZCSQSZLPdKNK",
    "does": "ElevenLabs: narration, voiceovers, sound effects, short beds, voice agents; started by b.conductor at Dinis's word, 16:13 UTC 27 Nov; no wake; spends nothing until Dinis gives it work"
+  },
+  {
+   "name": "soundcloud.b (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwDS6rGx2t1yosVMnGR",
+   "does": "builds and keeps Site__Platform__SoundCloud (via sites.b) and publishes the team's audio there; started by b.conductor at Dinis's word (16:48 UTC 27 Nov, in elevenlabs.b's session)"
   }
  ]
 }
