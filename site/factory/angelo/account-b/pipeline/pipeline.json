@@ -2,7 +2,7 @@
  "about": "Every pending task and idea g.maestro has found on Angelo's account B, one row each, for Angelo to prioritise. Version 1. priority is null until Angelo sets it.",
  "owner": "angelo",
  "kept_by": "g.maestro@account-b.angelo",
- "updated": "2026-11-26T15:15Z",
+ "updated": "2026-11-27T16:10Z",
  "sources": [
   "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/tree/dev/people/angelo (dev at 53ef69a): conductor-b/STATE.md, conductor-b/runs.md, backlog.md, projects/*/STATE.md",
   "list_sessions and list_triggers on this account, status only"
@@ -17,7 +17,7 @@
    "since": "2026-11-25",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/conductor-b/STATE.md",
    "owner": "g.maestro",
-   "status": "asked 26 Nov (asks/2026-11-26__to-b-maestro-write-access-for-riskmandate-angelo.md); waiting on Dinis's yes in b.factory's session",
+   "status": "done 27 Nov: Dinis gave access (\"ok, your agent now has access to both\", relayed by angelo); list_repos shows riskmandate-angelo can push to both",
    "design_needed": false,
    "priority": null
   },

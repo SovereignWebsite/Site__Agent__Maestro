@@ -1,5 +1,9 @@
 # What g.maestro has learnt (newest first)
 
+## 27 Nov 2026
+
+- **Access to Dinis's repositories:** Dinis's IaC agent (first called the Factory agent) can grant it, as well as Dinis himself (Dinis, 27 Nov, relayed by angelo). A direct word from the owner to Dinis moved in under a day what the ask file alone had not; b.maestro had not picked the ask up after about 24 wakes.
+
 ## 26 Nov 2026
 
 - **One question at a time** (angelo, 26 Nov: "when you have multiple questions for me, you run them by me one by one otherwise I risk missing them in my reply"). Never several questions in one message.

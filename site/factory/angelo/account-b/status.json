@@ -6,9 +6,9 @@
   "role": "angelo's maestro on account B: the conductor of the conductors",
   "session": "https://claude.ai/code/session_01Xp7gj2Ti4J71Cadtg2oxxh",
   "key": "/keys/g.maestro.json",
-  "state": "AB-01 asked; waiting on Dinis's yes in b.factory's session",
-  "focus": "Area, key and pipeline v1 (70 rows) written. Next, at angelo's go: the Factory request for riskmandate-angelo's write access to Site__Tool__CRM and the Gmail tool's repository.",
-  "updated": "2026-11-27T15:45Z",
+  "state": "AB-01 done; backlog triage with angelo",
+  "focus": "Backlog triage with angelo, one question at a time.",
+  "updated": "2026-11-27T16:10Z",
   "wakes": "none: no scheduled task for g.maestro",
   "conductors": [
     {
@@ -61,6 +61,10 @@
     {
       "at": "2026-11-27T15:45Z",
       "event": "review for angelo: AB-01 not yet picked up; account B unchanged since 24 Nov"
+    },
+    {
+      "at": "2026-11-27T16:10Z",
+      "event": "AB-01 done: riskmandate-angelo can push to Site__Tool__CRM and Site__Tool__Google__Gmail"
     }
   ]
 }
