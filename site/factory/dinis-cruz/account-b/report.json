@@ -2,8 +2,8 @@
  "account": "cl-2",
  "was": "B",
  "maestro": "b.maestro (maestro.b@account-b.dinis)",
- "as_of": "2026-11-27T00:20Z",
- "next_by": "2026-11-27T04:20Z",
+ "as_of": "2026-11-27T04:19Z",
+ "next_by": "2026-11-27T08:19Z",
  "bandwidth": {
   "week": "near the limit: sessions on B now report rate limit 'allowed_warning' (16:20 UTC); exact figure asked of Dinis",
   "resets": "Mon 30 Nov 00:00 UTC",
@@ -20,7 +20,7 @@
  "running": "about 37 sessions; started today: b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar, b.social, b.stories, b.website, b.github-tool; archived today: 4",
  "can_take": "nothing new while near the limit",
  "to_hand_off": [
-  "offered to account C at 00:19 UTC: EmailFS; keepers for Site__Platform__Buffer, Site__Platform__LinkedIn, Site__Services__Self-Publishing; b.stories's next session",
+  "claimed by account C at 00:34 UTC, waiting on Dinis's word in c.maestro's session (default by 09:00 UTC: not now): EmailFS; keepers for Site__Platform__Buffer, Site__Platform__LinkedIn, Site__Services__Self-Publishing; b.stories's next session",
   "sensitive handovers: b.factory (70%) and maestro.b, Dinis starts them"
  ],
  "waiting_on_dinis": "now.md",
