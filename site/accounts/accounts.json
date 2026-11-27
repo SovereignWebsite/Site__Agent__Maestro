@@ -13,7 +13,12 @@
    "area": "/factory/dinis-cruz/account-a/agent.json",
    "focus": "coordination, router, infra (factory), devops, CRM, Gmail, Drive and Chat tools, sites",
    "room": "about 81% of the week used (25 Nov); resets Sun 29 Nov 20:00 UTC",
-   "status": "running"
+   "status": "running",
+   "mode": "push",
+   "source": null,
+   "key": "/keys/a.maestro.json",
+   "channel": "/factory/dinis-cruz/account-a/",
+   "last_seen": null
   },
   {
    "id": "cl-2",
@@ -26,7 +31,12 @@
    "focus": "owners' vaults (onboarding, vault keeper, CRM, Gmail, Calendar), first customer sites, decisions, security, factory.b",
    "room": "near its weekly limit (sessions report allowed_warning, 26 Nov 16:20 UTC); resets Mon 30 Nov 00:00 UTC",
    "status": "running",
-   "report": "/factory/dinis-cruz/account-b/report.json"
+   "report": "/factory/dinis-cruz/account-b/report.json",
+   "mode": "push",
+   "source": null,
+   "key": "/keys/b.maestro.json",
+   "channel": "/factory/dinis-cruz/account-b/",
+   "last_seen": null
   },
   {
    "id": "cl-3",
@@ -35,10 +45,19 @@
    "owner": "dinis",
    "maestro": "c.maestro",
    "session": "https://claude.ai/code/session_01Kw9UwEYkVCthc5KiVo3bAp",
-   "area": "",
+   "area": "/factory/dinis-cruz/account-c/",
    "focus": "router.c, c.decisions, studio.c, abp@",
    "room": "reset Wed 25 Nov 13:00 UTC: a full week",
-   "status": "running; its session id shares account B's prefix, to confirm which account it runs on"
+   "status": "running; its session id shares account B's prefix, to confirm which account it runs on",
+   "mode": "pull",
+   "source": {
+    "repo": "PrompTugal/PrompTugal__News__Website",
+    "branch": "dev",
+    "path": "board/team/maestro.c/channel"
+   },
+   "key": "/keys/c.maestro.json",
+   "channel": "/factory/dinis-cruz/account-c/",
+   "last_seen": null
   },
   {
    "id": "cl-4",
@@ -50,7 +69,12 @@
    "area": "",
    "focus": "d.design, d.decisions, d.bulletins, d.sherpa, d.strategy",
    "room": "about 30% (24 Nov)",
-   "status": "running"
+   "status": "running",
+   "mode": null,
+   "source": null,
+   "key": null,
+   "channel": null,
+   "last_seen": null
   },
   {
    "id": "cl-5",
@@ -62,7 +86,12 @@
    "area": "",
    "focus": "Angelo's account; homes Site__Agent__Maestro__Claude__5 and Router__Claude__5 requested",
    "room": "unknown",
-   "status": "homes requested"
+   "status": "homes requested",
+   "mode": null,
+   "source": null,
+   "key": null,
+   "channel": null,
+   "last_seen": null
   },
   {
    "id": "cl-6",
@@ -74,7 +103,12 @@
    "area": "/factory/dinis-cruz/account-f/README.md",
    "focus": "waiting for a repository; no wakes",
    "room": "unknown",
-   "status": "waiting"
+   "status": "waiting",
+   "mode": null,
+   "source": null,
+   "key": "/keys/f.maestro.json",
+   "channel": "/factory/dinis-cruz/account-f/",
+   "last_seen": null
   },
   {
    "id": "cl-7",
@@ -86,7 +120,12 @@
    "area": "",
    "focus": "not part of the swarm for now (Dinis, 25 Nov)",
    "room": "",
-   "status": "not in the swarm"
+   "status": "not in the swarm",
+   "mode": null,
+   "source": null,
+   "key": null,
+   "channel": null,
+   "last_seen": null
   },
   {
    "id": "cl-8",
@@ -98,7 +137,12 @@
    "area": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__8",
    "focus": "new; router home Site__Agent__Router__Claude__8",
    "room": "fresh",
-   "status": "ready to start (START.md)"
+   "status": "ready to start (START.md)",
+   "mode": null,
+   "source": null,
+   "key": null,
+   "channel": null,
+   "last_seen": null
   },
   {
    "id": "mi-1",
@@ -110,7 +154,12 @@
    "area": "",
    "focus": "outside agent reached by router.a's lane; studio job 1 (video)",
    "room": "",
-   "status": "needs a nudge in its chat to take a turn"
+   "status": "needs a nudge in its chat to take a turn",
+   "mode": null,
+   "source": null,
+   "key": null,
+   "channel": null,
+   "last_seen": null
   },
   {
    "id": "gpt-1",
@@ -122,7 +171,12 @@
    "area": "",
    "focus": "outside agent reached by router.a's lane",
    "room": "",
-   "status": "as needed"
+   "status": "as needed",
+   "mode": null,
+   "source": null,
+   "key": null,
+   "channel": null,
+   "last_seen": null
   },
   {
    "id": "gem-1",
@@ -134,7 +188,13 @@
    "area": "",
    "focus": "none yet",
    "room": "",
-   "status": "none"
+   "status": "none",
+   "mode": null,
+   "source": null,
+   "key": null,
+   "channel": null,
+   "last_seen": null
   }
- ]
+ ],
+ "channel": "One channel for every account (Dinis, 27 Nov 2026: \"Yes one channel in Site__Agent__Maestro\"; memo dinis.2026-11-27T1620Z.b). Per row: mode (push: writes its area here; pull: the collector copies messages.md and now.md from source {repo, branch, path} if the newest commit there is signed by key; diff: the collector applies signed patches listed at source {url}/index.json, only inside its own area), source, key (its published key under /keys/), channel (its area, /factory/<owner>/<account>/) and last_seen (written by the collector, .github/ci/collector.mjs, every 15 minutes: the newest accepted message). Each maestro owns the rest of its row. An account whose last_seen is over 6 hours old is quiet. Every wake, every maestro reads the other areas' messages.md and now.md and answers in its own."
 }
