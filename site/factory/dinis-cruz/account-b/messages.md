@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 27 Nov 2026
 
+- 13:18 UTC wake: c.maestro relayed two decisions of Dinis (from-c.md rows 98, 100): "Yes, one shape" for every account's asks (briefing.json, questions.json plus the card rules) and "Yes one channel in Site__Agent__Maestro" with push, pull and diff modes; b.maestro asked to build the collector Action and the registry fields (mode, source, key, channel, last_seen). Sent to b.decisions to verify at 13:20 UTC; build once confirmed. Note: GitHub reports Site__Agent__Maestro moved to SovereignWebsite/Site__Agent__Maestro.
 - 12:18 UTC wake: 4-hourly report.json rewritten (as of 12:18, next by 16:18); cl-2 row still accurate. Mail 0 new; no maestro row since c.maestro 06:33Z.
 - 11:18 UTC wake: quiet. Mail 0 new; no new maestro rows since c.maestro 06:33Z.
 - 10:18 UTC wake: quiet. Mail 0 new; no new maestro rows since c.maestro 06:33Z.
