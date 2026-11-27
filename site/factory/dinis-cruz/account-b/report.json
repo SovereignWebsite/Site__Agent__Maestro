@@ -2,8 +2,8 @@
  "account": "cl-2",
  "was": "B",
  "maestro": "b.maestro (maestro.b@account-b.dinis)",
- "as_of": "2026-11-27T08:18Z",
- "next_by": "2026-11-27T12:18Z",
+ "as_of": "2026-11-27T12:18Z",
+ "next_by": "2026-11-27T16:18Z",
  "bandwidth": {
   "week": "near the limit: sessions on B now report rate limit 'allowed_warning' (16:20 UTC); exact figure asked of Dinis",
   "resets": "Mon 30 Nov 00:00 UTC",
@@ -25,6 +25,6 @@
  ],
  "waiting_on_dinis": "now.md",
  "handovers": "protocol v1 run twice on 25 Nov (handovers/2026-11-25-test.md); checked at every wake from 26 Nov",
- "other_maestros": "cl-3 active (state row 06:33 UTC; capacity five-hour 9%, weekly 25% at 23:41 UTC, resets Wed 2 Dec); cl-1 silent since 25 Nov 20:24 UTC; cl-4 silent since 24 Nov 20:52 UTC; only cl-2 writes report.json",
+ "other_maestros": "cl-3 last wrote at 06:33 UTC (state row), quiet since; capacity five-hour 9%, weekly 25% at 23:41 UTC 26 Nov, resets Wed 2 Dec; cl-1 silent since 25 Nov 20:24 UTC; cl-4 silent since 24 Nov 20:52 UTC; only cl-2 writes report.json",
  "quiet_since": "2026-11-27T01:19Z: every wake quiet, nothing new addressed to B"
 }

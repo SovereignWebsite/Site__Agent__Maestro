@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 27 Nov 2026
 
+- 12:18 UTC wake: 4-hourly report.json rewritten (as of 12:18, next by 16:18); cl-2 row still accurate. Mail 0 new; no maestro row since c.maestro 06:33Z.
 - 11:18 UTC wake: quiet. Mail 0 new; no new maestro rows since c.maestro 06:33Z.
 - 10:18 UTC wake: quiet. Mail 0 new; no new maestro rows since c.maestro 06:33Z.
 - 09:19 UTC wake: the 09:00 UTC deadline passed with no word from Dinis, so the five pieces for C are not now (the default); now.md and report.json updated, the five stay parked until his yes. Mail 0 new; no new maestro rows.
