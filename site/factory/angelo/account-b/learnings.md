@@ -2,6 +2,8 @@
 
 ## 27 Nov 2026
 
+- **Names angelo gives in this session stay out of the site.** He named his summit leads while triaging; the site records them by role only, and the names belong in the CRM.
+
 - **Access to Dinis's repositories:** Dinis's IaC agent (first called the Factory agent) can grant it, as well as Dinis himself (Dinis, 27 Nov, relayed by angelo). A direct word from the owner to Dinis moved in under a day what the ask file alone had not; b.maestro had not picked the ask up after about 24 wakes.
 
 ## 26 Nov 2026

@@ -2,7 +2,7 @@
  "about": "Every pending task and idea g.maestro has found on Angelo's account B, one row each, for Angelo to prioritise. Version 1. priority is null until Angelo sets it.",
  "owner": "angelo",
  "kept_by": "g.maestro@account-b.angelo",
- "updated": "2026-11-27T16:30Z",
+ "updated": "2026-11-27T16:50Z",
  "sources": [
   "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/tree/dev/people/angelo (dev at 53ef69a): conductor-b/STATE.md, conductor-b/runs.md, backlog.md, projects/*/STATE.md",
   "list_sessions and list_triggers on this account, status only"
@@ -197,7 +197,7 @@
    "since": "2026-11-10",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/conductor-b/STATE.md",
    "owner": "conductor.b@PrompTugal.angelo",
-   "status": "waiting on Angelo: his notes and the consent he recorded",
+   "status": "closed 27 Nov by angelo: the interview did not happen",
    "design_needed": false,
    "priority": null
   },
@@ -285,10 +285,10 @@
    "since": "2026-11-09",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "sheet@PrompTugal.angelo",
-   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: summit passed; not checked",
+   "status": "closed 27 Nov by angelo: no interview happened; lead A goes to follow-ups (FU-01), lead B not identified, lead C open in FU-02",
    "design_needed": false,
    "priority": null,
-   "triage": "clarify"
+   "triage": "close"
   },
   {
    "id": "BL-0-POOL",
@@ -900,6 +900,30 @@
    "design_needed": false,
    "priority": null,
    "triage": "close"
+  },
+  {
+   "id": "FU-01",
+   "title": "Follow up lead A from the summit: the construction exhibitor (two founders), met 9 Nov; in angelo's Web Summit connections",
+   "kind": "task",
+   "area": "leads",
+   "since": "2026-11-09",
+   "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/meetings/leads-2026-11-09.md",
+   "owner": "angelo",
+   "status": "new 27 Nov from the triage; names stay with angelo and the CRM, never on this site",
+   "design_needed": false,
+   "priority": null
+  },
+  {
+   "id": "FU-02",
+   "title": "Lead C from the summit: an enterprise AI director at a large social video platform; angelo unsure where to go from there",
+   "kind": "task",
+   "area": "leads",
+   "since": "2026-11-09",
+   "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/meetings/leads-2026-11-09.md",
+   "owner": "angelo",
+   "status": "new 27 Nov from the triage; names stay with angelo and the CRM, never on this site",
+   "design_needed": false,
+   "priority": null
   }
  ],
  "triage": "https://claude.ai/artifact/HpDLXiz3ERksxpv2hYPLSk (private to angelo): 27 Nov, 2 kept, 17 to clarify, 33 closed"
