@@ -47,3 +47,5 @@ Each lesson changes how b.maestro works. They come from practice, from Dinis's c
 - 26 Nov (second story 0001): I asked three maestros for the book agent when a full-text search of Site__Agent__Maestro found it at hop 7 (account-a/today/index.html). Navigate 5 hops first; a miss is a gap to record, not a message to send.
 - 26 Nov (second story 0002): provenance was my habit, not a checked rule. Every brief starts with 'Source: <memo id>'; references use ids, never times; work entries are full URLs.
 - 26 Nov (story 0003, fix 6): every start prompt that asks for a key names the step in words: 'make your key with tools/setup-signing.sh; it writes one mode-600 signing file outside the repository'.
+
+- 27 Nov: a blanket "yes to all" answers only the yes-or-no items. I read it as "credits are shared" for elevenlabs.b and had to correct it 6 minutes later; b.decisions did not. Relay an open question as still open.

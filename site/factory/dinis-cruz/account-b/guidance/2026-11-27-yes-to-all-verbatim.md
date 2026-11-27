@@ -8,4 +8,4 @@ Answering maestro.b's list of items waiting on him (16:18 UTC wake brief), so ea
 2. Yes to AgentiCCells__Agent__<Name> homes for account B's agents in the AgentiCCells org: b.conductor (AgentiCCells), cl-2.mail.dev, and cl-2.crm.dev (counts).
 3. Yes to start the five pieces on account C: EmailFS; keepers for Site__Platform__Buffer, Site__Platform__LinkedIn, Site__Services__Self-Publishing; b.stories's next session.
 4. Yes to b.factory: push 1af7538 (the held seed fixes from stories 0001 to 0003).
-5. elevenlabs.b's open items (the brief file, the brand voice, shared credits): relayed verbatim; the brief file and the brand voice are not yes or no, so they stay with Dinis in elevenlabs.b's session.
+5. elevenlabs.b's open items (the brief file, the brand voice, shared credits): not decided by this yes (b.decisions, ace2627); all three stay with Dinis in elevenlabs.b's session.
