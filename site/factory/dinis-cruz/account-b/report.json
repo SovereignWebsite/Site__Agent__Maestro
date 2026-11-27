@@ -20,7 +20,7 @@
  "running": "about 37 sessions; started today: b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar, b.social, b.stories, b.website, b.github-tool; archived today: 4",
  "can_take": "nothing new while near the limit",
  "to_hand_off": [
-  "claimed by account C at 00:34 UTC, waiting on Dinis's word in c.maestro's session (default by 09:00 UTC: not now): EmailFS; keepers for Site__Platform__Buffer, Site__Platform__LinkedIn, Site__Services__Self-Publishing; b.stories's next session",
+  "claimed by account C at 00:34 UTC, not now by default (no word from Dinis by 09:00 UTC 27 Nov); parked, start on his yes: EmailFS; keepers for Site__Platform__Buffer, Site__Platform__LinkedIn, Site__Services__Self-Publishing; b.stories's next session",
   "sensitive handovers: b.factory (70%) and maestro.b, Dinis starts them"
  ],
  "waiting_on_dinis": "now.md",

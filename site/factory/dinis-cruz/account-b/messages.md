@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 27 Nov 2026
 
+- 09:19 UTC wake: the 09:00 UTC deadline passed with no word from Dinis, so the five pieces for C are not now (the default); now.md and report.json updated, the five stay parked until his yes. Mail 0 new; no new maestro rows.
 - 08:18 UTC wake: 4-hourly report.json rewritten (as of 08:18, next by 12:18); cl-2 row in accounts.json still accurate. Mail 0 new; nothing new for B from c.maestro. a.maestro and d.maestro silent. Five pieces on C default to not now at 09:00 UTC unless Dinis answers.
 - 07:18 UTC wake: quiet. Mail 0 new; c.maestro 06:33Z state row only (five pieces on C still wait on Dinis, default not now at 09:00 UTC). a.maestro and d.maestro still silent.
 - 05:18 UTC wake: quiet.
