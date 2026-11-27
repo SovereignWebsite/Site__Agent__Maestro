@@ -2,28 +2,28 @@
  "account": "cl-2",
  "was": "B",
  "maestro": "b.maestro (maestro.b@account-b.dinis)",
- "as_of": "2026-11-27T16:18Z",
- "next_by": "2026-11-27T20:18Z",
+ "as_of": "2026-11-27T20:18Z",
+ "next_by": "2026-11-28T00:18Z",
  "bandwidth": {
   "week": "near the limit: sessions on B now report rate limit 'allowed_warning' (16:20 UTC); exact figure asked of Dinis",
   "resets": "Mon 30 Nov 00:00 UTC",
   "maestro_context": "over half of its window; handover due, Dinis starts it"
  },
  "centres_of_gravity": [
-  "owners' onboarding end to end (b.onboarding owns; b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar, b.github-tool)",
-  "sovereignwebsite.ai home and invite page (b.website, from website.a; b.outreach checks copy)",
-  "the website feedback loop (b.feedback v0, 11 decisions with Dinis)",
-  "social and the songs show (b.social, suno.b; episode 1 live)",
-  "second stories (b.stories: 0001-0003 done, handed over; next session waits to move to C)",
-  "provenance: memo ids and index (guidance/index.json, 16 memos)"
+  "one channel: the collector built (0bf19bc) and the registry fields; not yet run (0 runs; waits on one manual run by Dinis)",
+  "audio: elevenlabs.b (started 16:13 UTC) and soundcloud.b (session 3; first piece live on SoundCloud)",
+  "second stories: b.stories session 2; story 0006 (soundcloud.b's sessions, nine fixes) live",
+  "owners' onboarding end to end (b.onboarding; b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar, b.github-tool)",
+  "the website feedback loop (b.feedback v0, decisions with Dinis)",
+  "provenance: memo ids and index (guidance/index.json, 17 memos)"
  ],
- "running": "about 37 sessions; started today: b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar, b.social, b.stories, b.website, b.github-tool; archived today: 4; 27 Nov: elevenlabs.b started by b.conductor at Dinis's word (16:13 UTC)",
+ "running": "about 40 sessions; started 27 Nov: elevenlabs.b, soundcloud.b (sessions 2 and 3; 2 archived), b.stories session 2; archived 27 Nov: b.stories session 1, soundcloud.b session 2",
  "can_take": "nothing new while near the limit",
  "to_hand_off": [
-  "claimed by account C at 00:34 UTC, not now by default (no word from Dinis by 09:00 UTC 27 Nov); parked, start on his yes: EmailFS; keepers for Site__Platform__Buffer, Site__Platform__LinkedIn, Site__Services__Self-Publishing; b.stories's next session",
-  "sensitive handovers: b.factory (70%) and maestro.b, Dinis starts them"
+  "to account C at Dinis's yes (16:20 UTC, record ace2627): EmailFS; keepers for Site__Platform__Buffer, Site__Platform__LinkedIn, Site__Services__Self-Publishing (b.stories now runs on B); AgentiCCells homes for b.conductor (AgentiCCells), cl-2.mail.dev, cl-2.crm.dev via c.factory. Sent 16:22 UTC, not yet acknowledged; C is itself near its weekly limit",
+  "sensitive handovers: b.factory and maestro.b, Dinis starts them"
  ],
- "waiting_on_dinis": "now.md: yes to one shape and one channel (collector held); AgentiCCells homes for B agents; five pieces on C (parked, not now); push 1af7538 in b.factory",
- "handovers": "protocol v1 run twice on 25 Nov (handovers/2026-11-25-test.md); checked at every wake from 26 Nov",
- "other_maestros": "cl-3 last wrote 14:39 UTC (from-c.md) and its area account-c 14:15 UTC, active; cl-6 (account F area) last 26 Nov 02:31 UTC; cl-1 silent since 25 Nov 18:57 UTC; cl-4 silent since 24 Nov 20:52 UTC; angelo's g.maestro (angelo/account-b) active 27 Nov 15:45 UTC, no wake; only cl-2 writes report.json"
+ "waiting_on_dinis": "run the collector once (Actions, Collector, Run workflow on dev); whether b.stories may read transcripts; elevenlabs.b's brief file, brand voice and credit sharing; c.maestro's fresh session; the rest in now.md",
+ "handovers": "protocol v1; 27 Nov: b.stories session 1 to 2, the old session committed the new key signed with its own (8933739), no override needed (learnings.md)",
+ "other_maestros": "cl-3 active (state 18:34 UTC: seven_day allowed_warning, resets Wed 2 Dec ~13:00 UTC; c.maestro context ~79%, fresh session due); cl-6 (account F area) last 26 Nov 02:31 UTC; cl-1 silent since 25 Nov 18:57 UTC; cl-4 silent since 24 Nov 20:52 UTC; angelo's g.maestro active (pushes 27 Nov), no wake"
 }
