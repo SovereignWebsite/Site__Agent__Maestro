@@ -2,7 +2,7 @@
  "about": "Every pending task and idea g.maestro has found on Angelo's account B, one row each, for Angelo to prioritise. Version 1. priority is null until Angelo sets it.",
  "owner": "angelo",
  "kept_by": "g.maestro@account-b.angelo",
- "updated": "2026-11-27T16:50Z",
+ "updated": "2026-11-27T17:10Z",
  "sources": [
   "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/tree/dev/people/angelo (dev at 53ef69a): conductor-b/STATE.md, conductor-b/runs.md, backlog.md, projects/*/STATE.md",
   "list_sessions and list_triggers on this account, status only"
@@ -337,10 +337,10 @@
    "since": "2026-11-09",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "research@",
-   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "closed 27 Nov by angelo: merged into FU-00",
    "design_needed": false,
    "priority": null,
-   "triage": "clarify"
+   "triage": "close"
   },
   {
    "id": "BL-0-URGENT-5",
@@ -922,6 +922,18 @@
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/meetings/leads-2026-11-09.md",
    "owner": "angelo",
    "status": "new 27 Nov from the triage; names stay with angelo and the CRM, never on this site",
+   "design_needed": false,
+   "priority": null
+  },
+  {
+   "id": "FU-00",
+   "title": "Load all angelo's Web Summit connections into Dinis's CRM tool (crm.tool.sovereignweb.site) as follow-up candidates, then log follow-ups there; covers FU-01, FU-02 and the 35 contacts saved on the old follow-up page on 23 Nov",
+   "kind": "task",
+   "area": "crm",
+   "since": "2026-11-27",
+   "source": "this session, 27 Nov",
+   "owner": "angelo",
+   "status": "waiting on Dinis: the team vault for contacts and its key holders, and security's condition 4 (lawful basis, removal route, retention, key holders) before the first real import",
    "design_needed": false,
    "priority": null
   }
