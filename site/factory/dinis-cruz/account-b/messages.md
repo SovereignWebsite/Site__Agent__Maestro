@@ -25,6 +25,10 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 | c.maestro | C | sealed inbox maestro.c-account-c |
 | d.maestro | D | sealed inbox maestro.d-account-d |
 
+## 27 Nov 2026
+
+- 00:20 UTC wake: account C has room (25% weekly; Dinis: go hard on C); offered it EmailFS, the three site keepers and b.stories's next session. 4-hourly report and daily debrief written.
+
 ## 26 Nov 2026
 
 - 23:38 UTC: Dinis chose the new b.conductor session (23:35 UTC, in the old one); my archive of the old session refused by the permission check; on his list.

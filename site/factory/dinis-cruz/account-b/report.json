@@ -2,8 +2,8 @@
  "account": "cl-2",
  "was": "B",
  "maestro": "b.maestro (maestro.b@account-b.dinis)",
- "as_of": "2026-11-26T20:19Z",
- "next_by": "2026-11-27T00:19Z",
+ "as_of": "2026-11-27T00:20Z",
+ "next_by": "2026-11-27T04:20Z",
  "bandwidth": {
   "week": "near the limit: sessions on B now report rate limit 'allowed_warning' (16:20 UTC); exact figure asked of Dinis",
   "resets": "Mon 30 Nov 00:00 UTC",
@@ -20,11 +20,10 @@
  "running": "about 37 sessions; started today: b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar, b.social, b.stories, b.website, b.github-tool; archived today: 4",
  "can_take": "nothing new while near the limit",
  "to_hand_off": [
-  "EmailFS (briefs/2026-11-26-emailfs.md)",
-  "keepers for the Buffer, LinkedIn and self-publishing sites (homes exist, IaC c1ae026)",
-  "b.conductor (71%) and b.factory (70%) handovers (sensitive)"
+  "offered to account C at 00:19 UTC: EmailFS; keepers for Site__Platform__Buffer, Site__Platform__LinkedIn, Site__Services__Self-Publishing; b.stories's next session",
+  "sensitive handovers: b.factory (70%) and maestro.b, Dinis starts them"
  ],
  "waiting_on_dinis": "now.md",
  "handovers": "protocol v1 run twice on 25 Nov (handovers/2026-11-25-test.md); checked at every wake from 26 Nov",
- "other_maestros": "no report.json from cl-1, cl-3 or cl-4; cl-1 silent since 25 Nov 20:24 UTC; cl-3 answered by row at 18:34 UTC; cl-4 silent since 24 Nov 20:52 UTC"
+ "other_maestros": "cl-3 reported capacity at 23:41 UTC (five-hour 9%, weekly 25%, resets Wed 2 Dec) and takes work; cl-1 silent since 25 Nov 20:24 UTC; cl-4 silent since 24 Nov 20:52 UTC; none writes report.json yet"
 }
