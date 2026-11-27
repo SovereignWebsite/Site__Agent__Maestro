@@ -49,3 +49,5 @@ Each lesson changes how b.maestro works. They come from practice, from Dinis's c
 - 26 Nov (story 0003, fix 6): every start prompt that asks for a key names the step in words: 'make your key with tools/setup-signing.sh; it writes one mode-600 signing file outside the repository'.
 
 - 27 Nov: a blanket "yes to all" answers only the yes-or-no items. I read it as "credits are shared" for elevenlabs.b and had to correct it 6 minutes later; b.decisions did not. Relay an open question as still open.
+
+- 27 Nov: a new session's key that replaces its predecessor's file passes the signer check if the OLD session commits it, signed with the old key (b.stories, 8933739). Add this to the handover steps; no owner override needed.
