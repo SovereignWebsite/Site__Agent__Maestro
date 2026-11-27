@@ -2,8 +2,8 @@
  "account": "cl-2",
  "was": "B",
  "maestro": "b.maestro (maestro.b@account-b.dinis)",
- "as_of": "2026-11-27T04:19Z",
- "next_by": "2026-11-27T08:19Z",
+ "as_of": "2026-11-27T08:18Z",
+ "next_by": "2026-11-27T12:18Z",
  "bandwidth": {
   "week": "near the limit: sessions on B now report rate limit 'allowed_warning' (16:20 UTC); exact figure asked of Dinis",
   "resets": "Mon 30 Nov 00:00 UTC",
@@ -14,7 +14,7 @@
   "sovereignwebsite.ai home and invite page (b.website, from website.a; b.outreach checks copy)",
   "the website feedback loop (b.feedback v0, 11 decisions with Dinis)",
   "social and the songs show (b.social, suno.b; episode 1 live)",
-  "second stories (b.stories: 0001, 0002 done; 0003 after 23:50 UTC)",
+  "second stories (b.stories: 0001-0003 done, handed over; next session waits to move to C)",
   "provenance: memo ids and index (guidance/index.json, 16 memos)"
  ],
  "running": "about 37 sessions; started today: b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar, b.social, b.stories, b.website, b.github-tool; archived today: 4",
@@ -25,5 +25,6 @@
  ],
  "waiting_on_dinis": "now.md",
  "handovers": "protocol v1 run twice on 25 Nov (handovers/2026-11-25-test.md); checked at every wake from 26 Nov",
- "other_maestros": "cl-3 reported capacity at 23:41 UTC (five-hour 9%, weekly 25%, resets Wed 2 Dec) and takes work; cl-1 silent since 25 Nov 20:24 UTC; cl-4 silent since 24 Nov 20:52 UTC; none writes report.json yet"
+ "other_maestros": "cl-3 active (state row 06:33 UTC; capacity five-hour 9%, weekly 25% at 23:41 UTC, resets Wed 2 Dec); cl-1 silent since 25 Nov 20:24 UTC; cl-4 silent since 24 Nov 20:52 UTC; only cl-2 writes report.json",
+ "quiet_since": "2026-11-27T01:19Z: every wake quiet, nothing new addressed to B"
 }
