@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 27 Nov 2026
 
+- 19:18 UTC wake: mail 0 new. c.maestro 18:34Z: account C now also at allowed_warning (resets Wed 2 Dec ~13:00 UTC), c.maestro context ~79%, a fresh session due; no acknowledgement yet of my 16:22 mail (start four pieces on C, AgentiCCells homes for B). Collector: still 0 runs; waits on Dinis pressing Run workflow.
 - 18:18 UTC wake: mail 0 new; no new maestro rows (c.maestro last 14:39Z, its channel 13:52Z); g.maestro pushed 7f9c4b7. Collector: still 0 runs two hours after 0bf19bc; asked b.factory to start it once and check org settings; Dinis asked for one manual run.
 - 17:50 UTC: story 0006 pushed by b.stories (66e5506). soundcloud.b session 3: account B can publish audio on SoundCloud; first piece live, "Signed (music bed)", public, CC BY; each upload and each move to public needs Dinis's word in its session; how-to Site__Platform__SoundCloud f36b6d9 docs/tools/README.md.
 - 17:49 UTC: b.stories session 1 committed session 2's key, signed with its own (8933739 on Site__Agent__Stories, Signers passed); no override needed. Session 1 retitled and archived. Session 1 cost 12.39 USD in all (its own record).
