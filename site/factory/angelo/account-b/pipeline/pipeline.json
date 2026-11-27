@@ -2,7 +2,7 @@
  "about": "Every pending task and idea g.maestro has found on Angelo's account B, one row each, for Angelo to prioritise. Version 1. priority is null until Angelo sets it.",
  "owner": "angelo",
  "kept_by": "g.maestro@account-b.angelo",
- "updated": "2026-11-27T16:10Z",
+ "updated": "2026-11-27T16:30Z",
  "sources": [
   "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/tree/dev/people/angelo (dev at 53ef69a): conductor-b/STATE.md, conductor-b/runs.md, backlog.md, projects/*/STATE.md",
   "list_sessions and list_triggers on this account, status only"
@@ -233,9 +233,10 @@
    "since": "2026-11-10",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "writer@ or account B's pool",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: later (Angelo, 10 Nov)",
+   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: later (Angelo, 10 Nov)",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "clarify"
   },
   {
    "id": "BL-0-ACCT",
@@ -245,9 +246,10 @@
    "since": "2026-11-10",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "the desk",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: likely done through account B; not checked",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: likely done through account B; not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0-PUB-AC1",
@@ -257,9 +259,10 @@
    "since": "2026-11-10",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "writer@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked whether published",
+   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked whether published",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "clarify"
   },
   {
    "id": "BL-0-URGENT-4b",
@@ -269,9 +272,10 @@
    "since": "2026-11-09",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "writer@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on Angelo's screenshots; summit passed",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on Angelo's screenshots; summit passed",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0-LEADS",
@@ -281,9 +285,10 @@
    "since": "2026-11-09",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "sheet@PrompTugal.angelo",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: summit passed; not checked",
+   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: summit passed; not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "clarify"
   },
   {
    "id": "BL-0-POOL",
@@ -293,9 +298,10 @@
    "since": "2026-11-09",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: likely done as the twenty worker slots; not checked",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: likely done as the twenty worker slots; not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0-URGENT-4",
@@ -305,9 +311,10 @@
    "since": "2026-11-09",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "research@, then writer@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: summit passed; not checked",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: summit passed; not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0-DEMO",
@@ -317,9 +324,10 @@
    "since": "2026-11-09",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.abp@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: due 10 Nov; not checked",
+   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: due 10 Nov; not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "clarify"
   },
   {
    "id": "BL-0-CONN",
@@ -329,9 +337,10 @@
    "since": "2026-11-09",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "research@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "clarify"
   },
   {
    "id": "BL-0-URGENT-5",
@@ -341,9 +350,10 @@
    "since": "2026-11-09",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "research@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: summit passed",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: summit passed",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0-URGENT-6",
@@ -353,9 +363,10 @@
    "since": "2026-11-09",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "research@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: summit passed",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: summit passed",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0-URGENT",
@@ -365,9 +376,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "research@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: summit passed",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: summit passed",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0-URGENT-2",
@@ -377,9 +389,10 @@
    "since": "2026-11-09",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "research@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0-URGENT-3",
@@ -389,9 +402,10 @@
    "since": "2026-11-09",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "writer@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on research@'s file and Angelo",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on research@'s file and Angelo",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0f2",
@@ -401,9 +415,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.work@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0f3",
@@ -413,9 +428,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.work@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0g",
@@ -425,9 +441,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "writer@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on Angelo: where the site lives and how it is edited",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on Angelo: where the site lives and how it is edited",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0h",
@@ -437,9 +454,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "social-media@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: posting is Angelo's own",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: posting is Angelo's own",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0i",
@@ -449,9 +467,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "writer@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on Angelo's Run now",
+   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on Angelo's Run now",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "clarify"
   },
   {
    "id": "BL-0j",
@@ -461,9 +480,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "writer@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "clarify"
   },
   {
    "id": "BL-0k",
@@ -473,9 +493,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "crm@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "clarify"
   },
   {
    "id": "BL-0l",
@@ -485,9 +506,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "writer@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on Angelo, in a writer session",
+   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on Angelo, in a writer session",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "clarify"
   },
   {
    "id": "BL-0m",
@@ -497,9 +519,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.app@, dev.abp@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: summit passed",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: summit passed",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0n",
@@ -509,9 +532,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "writer@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on Angelo, in a writer session",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on Angelo, in a writer session",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0o",
@@ -521,9 +545,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "writer@, dev.venues@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "clarify"
   },
   {
    "id": "BL-0p",
@@ -533,9 +558,10 @@
    "since": "2026-11-09",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "research@, then the desk",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "clarify"
   },
   {
    "id": "BL-0q",
@@ -545,9 +571,10 @@
    "since": "2026-11-09",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "writer@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on Angelo, in a writer session",
+   "status": "kept 27 Nov by angelo (triage); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on Angelo, in a writer session",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "keep"
   },
   {
    "id": "BL-0r",
@@ -557,9 +584,10 @@
    "since": "2026-11-09",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "research@, then writer@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: later, per the desk's hand-over",
+   "status": "kept 27 Nov by angelo (triage); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: later, per the desk's hand-over",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "keep"
   },
   {
    "id": "BL-0c6",
@@ -569,9 +597,10 @@
    "since": "2026-11-09",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.map@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0c",
@@ -581,9 +610,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.map@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0c2",
@@ -593,9 +623,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.map@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0c0",
@@ -605,9 +636,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.map@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0c4",
@@ -617,9 +649,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.work@, dev.map@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0c3",
@@ -629,9 +662,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.map@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0d",
@@ -641,9 +675,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.map@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0e",
@@ -653,9 +688,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.map@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-0f",
@@ -665,9 +701,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.map@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-00",
@@ -677,9 +714,10 @@
    "since": "2026-11-07",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.map@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-00c",
@@ -689,9 +727,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.map@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: after item 00",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: after item 00",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-00a2",
@@ -701,9 +740,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.app@, dev.android@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: see item 14: on hold",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: see item 14: on hold",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-00d1",
@@ -713,9 +753,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.abp@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "clarify"
   },
   {
    "id": "BL-00d",
@@ -725,9 +766,10 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.abp@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "clarify"
   },
   {
    "id": "BL-0",
@@ -737,9 +779,10 @@
    "since": "2026-11-07",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on Angelo's check",
+   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on Angelo's check",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "clarify"
   },
   {
    "id": "BL-1",
@@ -749,9 +792,10 @@
    "since": "2026-11-07",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "team-collaboration@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on Dinis's four decisions",
+   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on Dinis's four decisions",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "clarify"
   },
   {
    "id": "BL-2",
@@ -761,9 +805,10 @@
    "since": "2026-11-07",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.map@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-3",
@@ -773,9 +818,10 @@
    "since": "2026-11-07",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.venues@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on a security review (WS-181)",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on a security review (WS-181)",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-8",
@@ -785,9 +831,10 @@
    "since": "2026-11-07",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "research@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "clarify"
   },
   {
    "id": "BL-9",
@@ -797,9 +844,10 @@
    "since": "2026-11-07",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "vault.kms@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on vault@'s test of piece 1",
+   "status": "to clarify with angelo (triage 27 Nov); in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on vault@'s test of piece 1",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "clarify"
   },
   {
    "id": "BL-11",
@@ -809,9 +857,10 @@
    "since": "2026-11-07",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "dev.links@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: not checked",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-12",
@@ -821,9 +870,10 @@
    "since": "2026-11-07",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "crm@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on crm@'s own SG/Send token (Dinis)",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on crm@'s own SG/Send token (Dinis)",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-13",
@@ -833,9 +883,10 @@
    "since": "2026-11-07",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "vault@",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on vault@'s token and a security review",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: waits on vault@'s token and a security review",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   },
   {
    "id": "BL-14",
@@ -845,9 +896,11 @@
    "since": "2026-11-08",
    "source": "https://github.com/SGit-AI/SGit-AI__Website__Web-Summit/blob/dev/people/angelo/backlog.md",
    "owner": "Angelo",
-   "status": "in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: on hold; waits on Angelo and conductor.android@'s answer",
+   "status": "closed 27 Nov by angelo (triage); was: in Angelo's backlog; the big stop of 9 to 10 Nov holds most rows: on hold; waits on Angelo and conductor.android@'s answer",
    "design_needed": false,
-   "priority": null
+   "priority": null,
+   "triage": "close"
   }
- ]
+ ],
+ "triage": "https://claude.ai/artifact/HpDLXiz3ERksxpv2hYPLSk (private to angelo): 27 Nov, 2 kept, 17 to clarify, 33 closed"
 }
