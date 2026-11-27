@@ -276,6 +276,19 @@
      "where": "https://stories.agents.sovereignweb.site/factory/dinis-cruz/account-b/stories/0003-signing-refused/ ; https://stories.agents.sovereignweb.site/factory/dinis-cruz/account-b/debrief.md"
     }
    ]
+  },
+  {
+   "id": "dinis.2026-11-27T1620Z.b",
+   "file": "guidance/2026-11-27-yes-to-all-verbatim.md",
+   "topic": "yes to all: one shape and one channel (collector); AgentiCCells homes for B agents incl. cl-2.crm.dev; five pieces on C; b.factory push 1af7538; elevenlabs.b items relayed",
+   "delegated_to": [
+    "maestro.b",
+    "b.decisions",
+    "b.factory",
+    "c.maestro",
+    "elevenlabs.b"
+   ],
+   "work": []
   }
  ]
 }
