@@ -2,8 +2,8 @@
  "account": "cl-2",
  "was": "B",
  "maestro": "b.maestro (maestro.b@account-b.dinis)",
- "as_of": "2026-11-27T12:18Z",
- "next_by": "2026-11-27T16:18Z",
+ "as_of": "2026-11-27T16:18Z",
+ "next_by": "2026-11-27T20:18Z",
  "bandwidth": {
   "week": "near the limit: sessions on B now report rate limit 'allowed_warning' (16:20 UTC); exact figure asked of Dinis",
   "resets": "Mon 30 Nov 00:00 UTC",
@@ -17,14 +17,13 @@
   "second stories (b.stories: 0001-0003 done, handed over; next session waits to move to C)",
   "provenance: memo ids and index (guidance/index.json, 16 memos)"
  ],
- "running": "about 37 sessions; started today: b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar, b.social, b.stories, b.website, b.github-tool; archived today: 4",
+ "running": "about 37 sessions; started today: b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar, b.social, b.stories, b.website, b.github-tool; archived today: 4; 27 Nov: elevenlabs.b started by b.conductor at Dinis's word (16:13 UTC)",
  "can_take": "nothing new while near the limit",
  "to_hand_off": [
   "claimed by account C at 00:34 UTC, not now by default (no word from Dinis by 09:00 UTC 27 Nov); parked, start on his yes: EmailFS; keepers for Site__Platform__Buffer, Site__Platform__LinkedIn, Site__Services__Self-Publishing; b.stories's next session",
   "sensitive handovers: b.factory (70%) and maestro.b, Dinis starts them"
  ],
- "waiting_on_dinis": "now.md",
+ "waiting_on_dinis": "now.md: yes to one shape and one channel (collector held); AgentiCCells homes for B agents; five pieces on C (parked, not now); push 1af7538 in b.factory",
  "handovers": "protocol v1 run twice on 25 Nov (handovers/2026-11-25-test.md); checked at every wake from 26 Nov",
- "other_maestros": "cl-3 last wrote at 06:33 UTC (state row), quiet since; capacity five-hour 9%, weekly 25% at 23:41 UTC 26 Nov, resets Wed 2 Dec; cl-1 silent since 25 Nov 20:24 UTC; cl-4 silent since 24 Nov 20:52 UTC; only cl-2 writes report.json",
- "quiet_since": "2026-11-27T01:19Z: every wake quiet, nothing new addressed to B"
+ "other_maestros": "cl-3 last wrote 14:39 UTC (from-c.md) and its area account-c 14:15 UTC, active; cl-6 (account F area) last 26 Nov 02:31 UTC; cl-1 silent since 25 Nov 18:57 UTC; cl-4 silent since 24 Nov 20:52 UTC; angelo's g.maestro (angelo/account-b) active 27 Nov 15:45 UTC, no wake; only cl-2 writes report.json"
 }

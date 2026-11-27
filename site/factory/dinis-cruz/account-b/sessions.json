@@ -174,6 +174,11 @@
    "name": "b.conductor (SovereignWebsite), new session",
    "session": "https://claude.ai/code/session_01Kw9UwBrWEfUnBbb4gCS9cg",
    "does": "conductor.b of the Sovereign Website team (took over at Dinis's word, 23:35 UTC 26 Nov)"
+  },
+  {
+   "name": "elevenlabs.b (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwDWq7YZCSQSZLPdKNK",
+   "does": "ElevenLabs: narration, voiceovers, sound effects, short beds, voice agents; started by b.conductor at Dinis's word, 16:13 UTC 27 Nov; no wake; spends nothing until Dinis gives it work"
   }
  ]
 }
