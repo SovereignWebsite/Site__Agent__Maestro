@@ -27,6 +27,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 27 Nov 2026
 
+- 22:18 UTC wake: mail 0 new; c.maestro 21:47Z started c.conductor.desktop on C (nothing for B); collector still 0 runs. Daily debrief extended (debriefs/2026-11-27-handover.md, "Later on 27 Nov").
 - 21:18 UTC wake: quiet. Mail 0 new; no new maestro rows; collector still 0 runs.
 - 20:18 UTC wake: 4-hourly report.json and the cl-2 row rewritten (next by 00:18). Mail 0 new; no new maestro rows since c.maestro 18:34Z. Collector: still 0 runs.
 - 19:18 UTC wake: mail 0 new. c.maestro 18:34Z: account C now also at allowed_warning (resets Wed 2 Dec ~13:00 UTC), c.maestro context ~79%, a fresh session due; no acknowledgement yet of my 16:22 mail (start four pieces on C, AgentiCCells homes for B). Collector: still 0 runs; waits on Dinis pressing Run workflow.
