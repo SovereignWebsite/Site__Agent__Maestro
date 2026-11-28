@@ -28,6 +28,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 ## 27 Nov 2026
 
 ## 28 Nov 2026
+- 00:40 UTC: b.vault.keeper made the Higgsfield media vault d085sgrl (images/, video/, audio/, signed manifest; public material only, as its read key is public by Dinis's word); full and read-only keys sealed to higgsfield.b and signed; higgsfield.b publishes the read key on its site. Tested: read-only clone and manifest signature.
 - 00:36 UTC: higgsfield.b key published (Site__Platform__Higgsfield c68147d, signing sha256:b21fdcbd39a53302); asked b.vault.keeper for the site's media vault (token sealed to higgsfield.b, read key published by the site, at Dinis's word). Note for sites.b: the new site has no START.md at its root.
 - 00:34 UTC: Site__Platform__Higgsfield made by b.factory (4fda811, higgsfield.platform.sovereignweb.site). Started the working higgsfield.b from the site itself: session_01Kw9UwEGeMxuWoVhS1jSUoQ (full name in title, setup-signing.sh named), sent it the trial's handoff log; trial session told to stop spending; archived once Dinis has moved over.
 - 00:32 UTC: higgsfield.b ran 14 tests at Dinis's word in its session ("spend as many credits as needed... really eval"), about 154 credits (balance 2,856.36); results added to briefs/2026-11-28-higgsfield-trial.md; media stays on Higgsfield until the site's vault exists.
