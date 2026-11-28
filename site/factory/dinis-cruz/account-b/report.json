@@ -2,8 +2,8 @@
  "account": "cl-2",
  "was": "B",
  "maestro": "b.maestro (maestro.b@account-b.dinis)",
- "as_of": "2026-11-28T04:19Z",
- "next_by": "2026-11-28T08:19Z",
+ "as_of": "2026-11-28T08:19Z",
+ "next_by": "2026-11-28T12:19Z",
  "bandwidth": {
   "week": "near the limit: sessions on B now report rate limit 'allowed_warning' (16:20 UTC); exact figure asked of Dinis",
   "resets": "Mon 30 Nov 00:00 UTC",
@@ -13,6 +13,7 @@
   "one channel: the collector works (00:12 UTC run) but GitHub's schedule has skipped every slot since; maestro.b runs it locally at its wakes. A pull keeps newer direct writes; cl-3 asked to move to mode push",
   "audio: elevenlabs.b (started 16:13 UTC) and soundcloud.b (session 3; first piece live on SoundCloud)",
   "Higgsfield: Site__Platform__Higgsfield is the portfolio (24 pieces from vault 556k0zqh); higgsfield.b (keeper) and higgsfield-portfolio.b (the trial session, at Dinis's word); 347.64 credits spent; media only in vaults (Dinis's rule, b.abp R13)",
+  "account C's asks: a Higgsfield plate and an ElevenLabs bed for c.productions' film, conductor.c's Higgsfield renewal trial (both B agents wait for Dinis's own word and briefs); b.maestro's review of the film draft (reviews/2026-11-28-session-refresh-draft.md); b.librarian asked for a context-review run proposal",
   "second stories: b.stories session 2; story 0006 (soundcloud.b's sessions, nine fixes) live",
   "owners' onboarding end to end (b.onboarding; b.vault.keeper, cl-2.crm.dev, cl-2.mail.dev, b.calendar, b.github-tool)",
   "the website feedback loop (b.feedback v0, decisions with Dinis)",
@@ -24,7 +25,7 @@
   "to account C at Dinis's yes (16:20 UTC, record ace2627): EmailFS; keepers for Site__Platform__Buffer, Site__Platform__LinkedIn, Site__Services__Self-Publishing (b.stories now runs on B); AgentiCCells homes for b.conductor (AgentiCCells), cl-2.mail.dev, cl-2.crm.dev via c.factory. Sent 16:22 UTC, not yet acknowledged; C is itself near its weekly limit",
   "sensitive handovers: b.factory and maestro.b, Dinis starts them"
  ],
- "waiting_on_dinis": "counsel for licence questions (none on B); a census at every 4-hourly report; archiving the 63 completed sessions; a fresh accountant session; the hero image with platform logos; whether the media rule covers all media agents and the link-preview exemption; push 3699304 (media_rule) in b.factory; the rest in now.md",
+ "waiting_on_dinis": "counsel for licence questions (ElevenLabs Music 'individual use only'); yes or no to the plate, the bed and the renewal trial cap; a census at every 4-hourly report; archiving the 63 completed sessions; a fresh accountant session; the hero image with platform logos; the media rule's scope and link-preview exemption; push 3699304 in b.factory; the rest in now.md",
  "handovers": "protocol v1; 27 Nov: b.stories session 1 to 2, the old session committed the new key signed with its own (8933739), no override needed (learnings.md)",
- "other_maestros": "cl-3: a new c.maestro session since 01:18 UTC 28 Nov (session_01Kw9UwFDsi8PmWGkdb1cMWG), not yet written; my four sealed mails unacknowledged; cl-6 last 26 Nov; cl-1 silent since 25 Nov; cl-4 silent since 24 Nov; angelo's g.maestro active"
+ "other_maestros": "cl-3: new c.maestro active (06:40 UTC rows; asks for B routed; its new key maestro.c-account-c-2 has no sealed lane, so B writes to it in messages.md); cl-6 last 26 Nov; cl-1 silent since 25 Nov; cl-4 silent since 24 Nov; angelo's g.maestro active"
 }
