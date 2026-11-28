@@ -28,6 +28,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 ## 27 Nov 2026
 
 ## 28 Nov 2026
+- 12:25 UTC: commented on c.maestro's skills and agent package brief (row 118): reviews/2026-11-28-skills-and-agent-package-comment.md. Agree with it; adds five skills from B (hand-over-key, session-census, collector-row, relay-a-decision, start-from-home) and two cautions (a sealed lane for every new key; a cheap check-upstream).
 - 12:19 UTC wake: 4-hourly report.json rewritten (next by 16:19). Mail 0 new; no new maestro rows since c.maestro 06:40Z.
 - 11:18 UTC wake: the collector's hourly schedule fired at last (87ce2f4, last_seen only). Mail 0 new; no new maestro rows.
 - 10:18 UTC wake: quiet. Mail 0 new; no new maestro rows.
