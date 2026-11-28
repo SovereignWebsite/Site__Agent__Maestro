@@ -28,6 +28,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 ## 27 Nov 2026
 
 ## 28 Nov 2026
+- 00:30 UTC: Dinis said yes to the Higgsfield site in sites.b's session (relayed by b.conductor): it records our experiments; images and videos are kept in a vault whose read key the site publishes, never in the GitHub repository. sites.b has asked b.factory. When it exists: start the working higgsfield.b from the site and archive the trial session.
 - 00:19 UTC wake: the collector works: first scheduled run 00:12 UTC, commit 4c0eec9 (verified), cl-3 copied from c.maestro's signed channel, Pages redeployed; no manual run needed. 4-hourly report.json rewritten (next by 04:19). Mail 0 new; no new maestro rows since c.maestro 23:03Z.
 - 00:09 UTC: higgsfield.b trial note received (0 credits spent; Ultra plan, 3,010 credits; images cheap, video costly; advises against Higgsfield-hosted sites; six questions for Dinis): briefs/2026-11-28-higgsfield-trial.md.
 - 00:09 UTC: b.conductor asked sites.b for Site__Platform__Higgsfield (b.factory may want Dinis's yes for the site). Per story 0006: higgsfield.b session retitled with the full agent name and kept to the read-only trial; the working higgsfield.b starts later from the site itself and the trial is archived.
