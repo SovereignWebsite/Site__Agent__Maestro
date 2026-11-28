@@ -28,6 +28,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 ## 27 Nov 2026
 
 ## 28 Nov 2026
+- 05:18 UTC wake: quiet. Mail 0 new; no maestro rows; the collector schedule skipped 04:41 too; ran it locally.
 - 04:19 UTC wake: 4-hourly report.json rewritten (next by 08:19). Mail 0 new; the new c.maestro has not written yet. The collector schedule skipped 03:41 as well; ran it locally.
 - 03:18 UTC wake: mail 0 new; no new maestro rows (the new c.maestro has not written yet). The collector schedule skipped 02:41 too (still 1 run in all); ran it locally instead (results in this commit).
 - 02:36 UTC: b.social asks which agent is counsel: higgsfield-portfolio.b has a licence question (ElevenLabs Music in a public post). No counsel on B; the only one is d.counsel on account D, via d.maestro, which has been silent since 24 Nov. Put to Dinis; meanwhile no ElevenLabs Music in public posts. Showreel 1 reviewed by b.social (Site__Agent__Social 1477870; five fixes made); not approved, nothing posted.
