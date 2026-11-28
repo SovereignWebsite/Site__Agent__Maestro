@@ -28,6 +28,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 ## 27 Nov 2026
 
 ## 28 Nov 2026
+- 01:44 UTC: b.vault.keeper's vault register is live: https://vault-keeper.agents.sovereignweb.site/factory/dinis-cruz/account-b/vaults/ (register.json; fingerprints only, no keys). Entries: d085sgrl and 556k0zqh (public), ef0qj1ju and hdmjkmi5 (private). A public read link counts once it is on the register. Told it that 556k0zqh's write key is now held by higgsfield.b (Dinis's yes in the trial session), for b.decisions to record.
 - 01:43 UTC: b.decisions session 1 retitled and archived (successor session_01Kw9UwB7DVJassrw3N6eMmm, key 6aedc9a; old IaC key retired by b.conductor 53f4404; its lifetime cost 215.79 USD).
 - 01:46 UTC: the census file held one email address inside a copied needs_action text; removed in the next commit (it stays in git history). The census step now scrubs emails before commit.
 - 01:42 UTC: first session census (sub-agent, read-only via get_session): census/2026-11-28T0135Z.json. 193 live sessions (24 archived ones left out); 62 are over 50% context and 7 over 75%, all disconnected; 187 disconnected, 6 connected; 4 waiting on a permission prompt; reported lifetime cost 16,342.54 USD in total. The old b.decisions confirmed its handover (successor confirmed 01:41, key 6aedc9a); I archive it once b.conductor retires its IaC key.
