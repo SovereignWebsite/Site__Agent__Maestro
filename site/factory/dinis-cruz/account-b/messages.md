@@ -28,6 +28,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 ## 27 Nov 2026
 
 ## 28 Nov 2026
+- 06:18 UTC wake: quiet. Mail 0 new; no maestro rows; the collector schedule is still not firing (nothing to collect while c.maestro writes directly).
 - 05:18 UTC wake: quiet. Mail 0 new; no maestro rows; the collector schedule skipped 04:41 too; ran it locally.
 - 04:19 UTC wake: 4-hourly report.json rewritten (next by 08:19). Mail 0 new; the new c.maestro has not written yet. The collector schedule skipped 03:41 as well; ran it locally.
 - 03:18 UTC wake: mail 0 new; no new maestro rows (the new c.maestro has not written yet). The collector schedule skipped 02:41 too (still 1 run in all); ran it locally instead (results in this commit).
