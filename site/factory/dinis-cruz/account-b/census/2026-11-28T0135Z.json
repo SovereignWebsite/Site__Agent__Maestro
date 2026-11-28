@@ -1,7 +1,7 @@
 {
  "taken_at": "2026-11-28T01:42:07Z",
  "by": "maestro.b (sub-agent), read-only via get_session",
- "note": "context and cost as reported by each session's record; no transcripts read",
+ "note": "context and cost as reported by each session's record; no transcripts read; email addresses removed from needs_action",
  "sessions": [
   {
    "id": "session_01Kw9UwBhzn98NK3Ydio5nEP",
@@ -2479,7 +2479,7 @@
    "autocompact_threshold": 784000,
    "cost_usd": 13.40378066,
    "rate_limit_status": null,
-   "needs_action": "confirm the hub agent keeps the site registry; set HUB_CONTACT to agent@riskmandate.ai in GitHub Settings → Secrets and variables → Actions → Varia..."
+   "needs_action": "confirm the hub agent keeps the site registry; set HUB_CONTACT to [email removed] in GitHub Settings → Secrets and variables → Actions → Varia..."
   },
   {
    "id": "session_01Kw9UwFgyMuNDYCnrW1ZKkm",
