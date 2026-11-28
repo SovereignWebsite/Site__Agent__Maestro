@@ -13,7 +13,7 @@
   {
    "name": "b.decisions (SovereignWebsite)",
    "session": "https://claude.ai/code/session_01Kw9UwEVSYcMDgNqrPVfCtZ",
-   "does": "signs Dinis's decisions for all accounts"
+   "does": "signs Dinis's decisions for all accounts; handing over to session 2 (01:40 UTC 28 Nov); archive once the successor confirms and its key is on dev"
   },
   {
    "name": "b.strategy (SovereignWebsite)",
@@ -204,6 +204,11 @@
    "name": "higgsfield.b (SovereignWebsite), working session",
    "session": "https://claude.ai/code/session_01Kw9UwEGeMxuWoVhS1jSUoQ",
    "does": "keeper of Site__Platform__Higgsfield (b.factory 4fda811); started from the site by maestro.b 00:34 UTC 28 Nov; no wake"
+  },
+  {
+   "name": "b.decisions (SovereignWebsite), session 2",
+   "session": "https://claude.ai/code/session_01Kw9UwB7DVJassrw3N6eMmm",
+   "does": "signs Dinis's decisions; started by b.conductor from Site__Agent__Decisions at Dinis's word, 01:38 UTC 28 Nov"
   }
  ]
 }
