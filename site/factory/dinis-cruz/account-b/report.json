@@ -2,15 +2,15 @@
  "account": "cl-2",
  "was": "B",
  "maestro": "b.maestro (maestro.b@account-b.dinis)",
- "as_of": "2026-11-28T08:19Z",
- "next_by": "2026-11-28T12:19Z",
+ "as_of": "2026-11-28T12:19Z",
+ "next_by": "2026-11-28T16:19Z",
  "bandwidth": {
   "week": "near the limit: sessions on B now report rate limit 'allowed_warning' (16:20 UTC); exact figure asked of Dinis",
   "resets": "Mon 30 Nov 00:00 UTC",
   "maestro_context": "over half of its window; handover due, Dinis starts it"
  },
  "centres_of_gravity": [
-  "one channel: the collector works (00:12 UTC run) but GitHub's schedule has skipped every slot since; maestro.b runs it locally at its wakes. A pull keeps newer direct writes; cl-3 asked to move to mode push",
+  "one channel: the collector's hourly schedule fires again (10:50 UTC run, 87ce2f4); a pull keeps newer direct writes; cl-3 asked to move to mode push",
   "audio: elevenlabs.b (started 16:13 UTC) and soundcloud.b (session 3; first piece live on SoundCloud)",
   "Higgsfield: Site__Platform__Higgsfield is the portfolio (24 pieces from vault 556k0zqh); higgsfield.b (keeper) and higgsfield-portfolio.b (the trial session, at Dinis's word); 347.64 credits spent; media only in vaults (Dinis's rule, b.abp R13)",
   "account C's asks: a Higgsfield plate and an ElevenLabs bed for c.productions' film, conductor.c's Higgsfield renewal trial (both B agents wait for Dinis's own word and briefs); b.maestro's review of the film draft (reviews/2026-11-28-session-refresh-draft.md); b.librarian asked for a context-review run proposal",
