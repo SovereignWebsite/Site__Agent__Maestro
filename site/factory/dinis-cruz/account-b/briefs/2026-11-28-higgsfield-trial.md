@@ -48,3 +48,28 @@ Studio hero and section art, SVG icons and logo drafts, Instagram 4:5 and 9:16 s
 4. Should AI-made media be labelled?
 5. Should Higgsfield-hosted websites be ruled out?
 6. Should the outward-facing tools (TikTok, Meta Ads, publishing, sharing, GPU rental) be blocked in higgsfield.b's settings?
+
+## The evaluation, at Dinis's word (00:15 to 00:31 UTC, 28 Nov)
+
+Dinis, in higgsfield.b's session: "spend as many credits as needed... really eval". higgsfield.b ran 14 tests for about 154 credits, leaving 2,856.36. The media stays on Higgsfield's servers, where any of it can be fetched again by its job id. At Dinis's word it goes into the site's vault, never into GitHub. The job ids are in higgsfield.b's handoff log, sent to maestro.b, for the working session.
+
+| Test | Model | Credits | Verdict |
+|---|---|---|---|
+| hero image, 16:9 | GPT Image 2.6 high | 2 | very good, but has real platform logos (edit them out) |
+| Instagram 4:5 headline | GPT Image 2.6 high | 2 | text perfect, ready to post |
+| rented-vs-owned explainer | Nano Banana (ran as the flash model) | 2 | clear, some clumsy labels |
+| logo, SVG | Recraft vector | 2.5 | decent draft; used cyan instead of teal |
+| YouTube thumbnail | GPT Image 2.6 high | 2 | ready |
+| cinematic studio still | Cinema Studio 2.5 | 2 | film quality; gibberish text on a screen |
+| animated GIF icon | GPT Image 2.6 medium | 1 | works, simple |
+| 5 s 1080p video with audio, from the still | Seedance 2.5 | 80 | the best: smooth, consistent |
+| 5 s 720p video, silent, from the hero | Seedance 2.5 | 35 | style kept, little motion |
+| 5 s 9:16 1080p video with audio, from text | MAGI-2 | 12.5 | best value |
+| 5 s 3:4 video from the Instagram post | Grok Lite | 5 | text stable, key morphs |
+| 21 s voice-over | ElevenLabs v4 | about 2.5 | broadcast quality |
+| the same script | Seed Audio | 0.7 | fine, less natural |
+| 30 s instrumental bed | ElevenLabs Music v2.5 | 4.4 | clean |
+
+A 21 s promo was also cut locally with ffmpeg from these pieces (Seedance clips, zoomed stills, the voice-over and the music), using about 140 credits of inputs.
+
+**Findings.** Images cost about 2 credits each and are very strong. MAGI-2 is the everyday video model, at about 2.5 credits a second; Seedance at 1080p (about 16 credits a second) is for hero shots. A voice-over and a music bed add about 7 credits per video. The outputs carry C2PA manifests, which mark them as made by AI. The transactions tool fails (its output does not match its schema). Keyframe interpolation was asked about: FLUX 3 Video takes a start frame, an end frame and up to 10 frames between; Seedance and MAGI take a start and an end. That test is offered but not run.
