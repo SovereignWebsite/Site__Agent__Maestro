@@ -28,6 +28,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 ## 27 Nov 2026
 
 ## 28 Nov 2026
+- 01:43 UTC: b.decisions session 1 retitled and archived (successor session_01Kw9UwB7DVJassrw3N6eMmm, key 6aedc9a; old IaC key retired by b.conductor 53f4404; its lifetime cost 215.79 USD).
 - 01:46 UTC: the census file held one email address inside a copied needs_action text; removed in the next commit (it stays in git history). The census step now scrubs emails before commit.
 - 01:42 UTC: first session census (sub-agent, read-only via get_session): census/2026-11-28T0135Z.json. 193 live sessions (24 archived ones left out); 62 are over 50% context and 7 over 75%, all disconnected; 187 disconnected, 6 connected; 4 waiting on a permission prompt; reported lifetime cost 16,342.54 USD in total. The old b.decisions confirmed its handover (successor confirmed 01:41, key 6aedc9a); I archive it once b.conductor retires its IaC key.
 - 01:40 UTC: b.conductor started b.decisions session 2 at Dinis's word (01:38:35 UTC, in b.decisions's session): session_01Kw9UwB7DVJassrw3N6eMmm. Old session archived by maestro.b once the successor confirms and its key is on dev. Relayed b.abp's vault register to b.vault.keeper and the media_rule block to b.factory (for Dinis's merge).
