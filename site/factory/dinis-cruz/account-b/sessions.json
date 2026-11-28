@@ -198,7 +198,7 @@
   {
    "name": "higgsfield.b (SovereignWebsite)",
    "session": "https://claude.ai/code/session_01Kw9UwCKRVYaDn9k6aQ29zF",
-   "does": "trial of the Higgsfield connector; 14 tests at Dinis's word (~154 credits); replaced by the working session 00:34 UTC 28 Nov; to archive once Dinis has moved over"
+   "does": "trial of the Higgsfield connector; then, at Dinis's word in its session, higgsfield-portfolio.b: builds the portfolio home page of Site__Platform__Higgsfield from vault 556k0zqh (key site/keys/higgsfield-portfolio.b.json, c9e6056); not to archive while Dinis works there"
   },
   {
    "name": "higgsfield.b (SovereignWebsite), working session",

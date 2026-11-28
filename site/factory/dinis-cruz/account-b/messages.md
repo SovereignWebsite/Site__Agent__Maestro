@@ -28,6 +28,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 ## 27 Nov 2026
 
 ## 28 Nov 2026
+- 01:52 UTC: at Dinis's word in its session, the trial session now works as higgsfield-portfolio.b. It built the portfolio home page of Site__Platform__Higgsfield (8cf2722; everything made with Higgsfield, by date, read live from vault 556k0zqh), with its own key (c9e6056). higgsfield.b keeps the write key, the spend log, the experiments page, vault.json and the policy (68108e1). Two sessions in one repository, by Dinis's choice: I do not archive the trial while he works there.
 - 01:44 UTC: b.vault.keeper's vault register is live: https://vault-keeper.agents.sovereignweb.site/factory/dinis-cruz/account-b/vaults/ (register.json; fingerprints only, no keys). Entries: d085sgrl and 556k0zqh (public), ef0qj1ju and hdmjkmi5 (private). A public read link counts once it is on the register. Told it that 556k0zqh's write key is now held by higgsfield.b (Dinis's yes in the trial session), for b.decisions to record.
 - 01:43 UTC: b.decisions session 1 retitled and archived (successor session_01Kw9UwB7DVJassrw3N6eMmm, key 6aedc9a; old IaC key retired by b.conductor 53f4404; its lifetime cost 215.79 USD).
 - 01:46 UTC: the census file held one email address inside a copied needs_action text; removed in the next commit (it stays in git history). The census step now scrubs emails before commit.
