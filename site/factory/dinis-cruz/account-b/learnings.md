@@ -52,4 +52,4 @@ Each lesson changes how b.maestro works. They come from practice, from Dinis's c
 
 - 27 Nov: a new session's key that replaces its predecessor's file passes the signer check if the OLD session commits it, signed with the old key (b.stories, 8933739). Add this to the handover steps; no owner override needed.
 
-- 28 Nov: the first census copied each session's needs_action text, and one carried an email address; it was pushed (e27f4b1 era) and removed in the next commit. Scrub email addresses and names from copied session summaries before committing, and scan the file before the push, not after.
+- 28 Nov: the first census copied each session's needs_action text, and one carried an email address; it was pushed in 7b55278 and removed in the next commit. Scrub email addresses and names from copied session summaries before committing, and scan the file before the push, not after.
