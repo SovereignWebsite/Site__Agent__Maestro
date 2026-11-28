@@ -28,6 +28,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 ## 27 Nov 2026
 
 ## 28 Nov 2026
+- 00:09 UTC: b.conductor asked sites.b for Site__Platform__Higgsfield (b.factory may want Dinis's yes for the site). Per story 0006: higgsfield.b session retitled with the full agent name and kept to the read-only trial; the working higgsfield.b starts later from the site itself and the trial is archived.
 - 00:07 UTC: Dinis, in this session (00:06): "Hi can you create a new session to try https://higgsfield.ai/mcp which is connected here for SovereignWebsites". Started higgsfield.b, session_01Kw9UwCKRVYaDn9k6aQ29zF: read-only trial first, one or two cheap test images at most without his word, no TikTok, Meta ads, GPU rental, publishing or sharing; reports to maestro.b. Asked b.conductor for its home, Site__Platform__Higgsfield via sites.b.
 
 - 23:18 UTC wake: mail 0 new; c.maestro 23:03Z: an iMac session, conductor (imac-24Gb.dinis), takes desktop work from c.conductor.desktop (nothing for B). Collector still 0 runs.
