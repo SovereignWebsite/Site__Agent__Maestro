@@ -18,7 +18,7 @@
    "source": null,
    "key": "/keys/a.maestro.json",
    "channel": "/factory/dinis-cruz/account-a/",
-   "last_seen": null
+   "last_seen": "2026-11-24T14:20:57Z"
   },
   {
    "id": "cl-2",
@@ -36,7 +36,7 @@
    "source": null,
    "key": "/keys/b.maestro.json",
    "channel": "/factory/dinis-cruz/account-b/",
-   "last_seen": null
+   "last_seen": "2026-11-28T00:09:30Z"
   },
   {
    "id": "cl-3",
@@ -57,7 +57,7 @@
    },
    "key": "/keys/c.maestro.json",
    "channel": "/factory/dinis-cruz/account-c/",
-   "last_seen": null
+   "last_seen": "2026-11-27T23:09:18Z"
   },
   {
    "id": "cl-4",
