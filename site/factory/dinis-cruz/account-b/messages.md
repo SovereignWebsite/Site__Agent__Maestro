@@ -27,6 +27,9 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 
 ## 27 Nov 2026
 
+## 28 Nov 2026
+- 00:07 UTC: Dinis, in this session (00:06): "Hi can you create a new session to try https://higgsfield.ai/mcp which is connected here for SovereignWebsites". Started higgsfield.b, session_01Kw9UwCKRVYaDn9k6aQ29zF: read-only trial first, one or two cheap test images at most without his word, no TikTok, Meta ads, GPU rental, publishing or sharing; reports to maestro.b. Asked b.conductor for its home, Site__Platform__Higgsfield via sites.b.
+
 - 23:18 UTC wake: mail 0 new; c.maestro 23:03Z: an iMac session, conductor (imac-24Gb.dinis), takes desktop work from c.conductor.desktop (nothing for B). Collector still 0 runs.
 - 22:18 UTC wake: mail 0 new; c.maestro 21:47Z started c.conductor.desktop on C (nothing for B); collector still 0 runs. Daily debrief extended (debriefs/2026-11-27-handover.md, "Later on 27 Nov").
 - 21:18 UTC wake: quiet. Mail 0 new; no new maestro rows; collector still 0 runs.

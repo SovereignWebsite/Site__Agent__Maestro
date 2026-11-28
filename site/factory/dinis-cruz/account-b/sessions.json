@@ -194,6 +194,11 @@
    "name": "b.stories (SovereignWebsite), new session",
    "session": "https://claude.ai/code/session_01Kw9UwFS5RW7qAM7VQztBa7",
    "does": "second stories; started by b.conductor from Site__Agent__Stories at Dinis's word, 27 Nov ~17:40 UTC; first: how the soundcloud.b start went"
+  },
+  {
+   "name": "higgsfield.b (SovereignWebsite)",
+   "session": "https://claude.ai/code/session_01Kw9UwCKRVYaDn9k6aQ29zF",
+   "does": "trial of the Higgsfield connector (read-only first; spends only on Dinis's word); started by maestro.b at Dinis's word 00:07 UTC 28 Nov; no repository yet (Site__Platform__Higgsfield asked of sites.b via b.conductor); no wake"
   }
  ]
 }
