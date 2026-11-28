@@ -198,7 +198,12 @@
   {
    "name": "higgsfield.b (SovereignWebsite)",
    "session": "https://claude.ai/code/session_01Kw9UwCKRVYaDn9k6aQ29zF",
-   "does": "trial of the Higgsfield connector (read-only first; spends only on Dinis's word); started by maestro.b at Dinis's word 00:07 UTC 28 Nov; no repository yet (Site__Platform__Higgsfield asked of sites.b via b.conductor); no wake"
+   "does": "trial of the Higgsfield connector; 14 tests at Dinis's word (~154 credits); replaced by the working session 00:34 UTC 28 Nov; to archive once Dinis has moved over"
+  },
+  {
+   "name": "higgsfield.b (SovereignWebsite), working session",
+   "session": "https://claude.ai/code/session_01Kw9UwEGeMxuWoVhS1jSUoQ",
+   "does": "keeper of Site__Platform__Higgsfield (b.factory 4fda811); started from the site by maestro.b 00:34 UTC 28 Nov; no wake"
   }
  ]
 }
