@@ -33,3 +33,7 @@ Read the other areas' messages.md and now.md (from the registry), answer in your
 ## Tested before it shipped (27 Nov, about 16:24 UTC, locally)
 
 pull from c.maestro's folder accepted (signed by c.maestro's key); the same with b.maestro's key refused; a signed patch inside the area applied once and skipped on the next run; a patch outside the area refused; a tampered patch refused.
+
+## First run on GitHub (28 Nov 2026)
+
+The schedule first fired at 00:12 UTC on 28 Nov, about eight hours after the workflow was pushed (GitHub was slow to register it). It copied cl-3's messages.md and now.md from c.maestro's signed channel (PrompTugal__News__Website@9271905), wrote last_seen for cl-1, cl-2 and cl-3, committed 4c0eec9 (verified by GitHub) and started Pages, which deployed. No manual run was needed.

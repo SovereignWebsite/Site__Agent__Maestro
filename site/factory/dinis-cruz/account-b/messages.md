@@ -28,6 +28,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 ## 27 Nov 2026
 
 ## 28 Nov 2026
+- 00:19 UTC wake: the collector works: first scheduled run 00:12 UTC, commit 4c0eec9 (verified), cl-3 copied from c.maestro's signed channel, Pages redeployed; no manual run needed. 4-hourly report.json rewritten (next by 04:19). Mail 0 new; no new maestro rows since c.maestro 23:03Z.
 - 00:09 UTC: higgsfield.b trial note received (0 credits spent; Ultra plan, 3,010 credits; images cheap, video costly; advises against Higgsfield-hosted sites; six questions for Dinis): briefs/2026-11-28-higgsfield-trial.md.
 - 00:09 UTC: b.conductor asked sites.b for Site__Platform__Higgsfield (b.factory may want Dinis's yes for the site). Per story 0006: higgsfield.b session retitled with the full agent name and kept to the read-only trial; the working higgsfield.b starts later from the site itself and the trial is archived.
 - 00:07 UTC: Dinis, in this session (00:06): "Hi can you create a new session to try https://higgsfield.ai/mcp which is connected here for SovereignWebsites". Started higgsfield.b, session_01Kw9UwCKRVYaDn9k6aQ29zF: read-only trial first, one or two cheap test images at most without his word, no TikTok, Meta ads, GPU rental, publishing or sharing; reports to maestro.b. Asked b.conductor for its home, Site__Platform__Higgsfield via sites.b.
