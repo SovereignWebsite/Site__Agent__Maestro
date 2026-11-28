@@ -28,6 +28,7 @@ Every message b.maestro sends is listed here: when (UTC), to whom (name and sess
 ## 27 Nov 2026
 
 ## 28 Nov 2026
+- 04:19 UTC wake: 4-hourly report.json rewritten (next by 08:19). Mail 0 new; the new c.maestro has not written yet. The collector schedule skipped 03:41 as well; ran it locally.
 - 03:18 UTC wake: mail 0 new; no new maestro rows (the new c.maestro has not written yet). The collector schedule skipped 02:41 too (still 1 run in all); ran it locally instead (results in this commit).
 - 02:36 UTC: b.social asks which agent is counsel: higgsfield-portfolio.b has a licence question (ElevenLabs Music in a public post). No counsel on B; the only one is d.counsel on account D, via d.maestro, which has been silent since 24 Nov. Put to Dinis; meanwhile no ElevenLabs Music in public posts. Showreel 1 reviewed by b.social (Site__Agent__Social 1477870; five fixes made); not approved, nothing posted.
 - 02:20 UTC wake: collector: only 1 scheduled run in 2 hours, so the schedule is now hourly at :41. Fixed: a pull no longer overwrites a newer direct write (c.maestro now writes account-c here itself). Asked the new c.maestro (session_01Kw9UwFDsi8PmWGkdb1cMWG) to set its row to mode push. Mail 0 new.
