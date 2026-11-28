@@ -1,5 +1,5 @@
 name: Collector
-# The maestros' one channel: every 15 minutes, copy each "pull" account's messages.md and now.md here when the newest
+# The maestros' one channel: hourly at :41 (GitHub skipped most 15-minute slots on 28 Nov), copy each "pull" account's messages.md and now.md here when the newest
 # commit at its source is signed by its published key, apply each "diff" account's signed patches inside its own area,
 # and write every account's last_seen in site/accounts/accounts.json. Script and rules: .github/ci/collector.mjs.
 # Dinis Cruz, 27 Nov 2026: "Yes one channel in Site__Agent__Maestro but take into account that not all maestros will
@@ -7,7 +7,7 @@ name: Collector
 # dinis.2026-11-27T1620Z.b). Built by b.maestro.
 on:
   schedule:
-    - cron: '7,22,37,52 * * * *'
+    - cron: '41 * * * *'
   workflow_dispatch:
 permissions:
   contents: write

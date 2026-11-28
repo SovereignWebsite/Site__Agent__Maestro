@@ -147,6 +147,10 @@ async function main() {
       } else if (row.mode === 'pull') {
         const key = keyOf(row.key);
         const r = await pull(row, area, key);
+        // Never replace a newer copy: if the area here was written after the source's newest signed commit (its maestro
+        // now pushes directly), keep it and say so; the row should then move to mode push.
+        const here = newestHere(area);
+        if (here && here > r.at) { seen = here > (seen || '') ? here : seen; say(`${row.id}: pull from ${r.from} skipped: the area here is newer (${here}) than the source (${r.at}); its maestro writes here directly, so its row should be mode push`); if (seen && seen !== row.last_seen) { row.last_seen = seen; changed.add(REGISTRY); } continue; }
         const wrote = Object.entries(r.files).filter(([f, t]) => write(`${area}/${f}`, t)).map(([f]) => f);
         if (wrote.length || !seen || r.at > seen) seen = r.at;
         say(`${row.id}: pull from ${r.from}, signed by ${key.agent}; ${wrote.length ? `copied ${wrote.join(', ')}` : 'no change'}`);
